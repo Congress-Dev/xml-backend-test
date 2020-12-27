@@ -2,31 +2,9 @@
   2d Session
                                 H. R. 7440
 
-  To impose sanctions with respect to foreign persons involved in the 
-erosion of certain obligations of China with respect to Hong Kong, and 
-                          for other purposes.
-
-
 _______________________________________________________________________
 
-
-                    IN THE HOUSE OF REPRESENTATIVES
-
-                              July 1, 2020
-
-  Mr. Sherman (for himself, Mr. Yoho, Mrs. Carolyn B. Maloney of New 
-       York, Mr. Curtis, Mr. Connolly, Mr. Barr, Mr. Suozzi, Mr. 
-  Reschenthaler, Ms. Spanberger, Mr. Fitzpatrick, Mr. Guest, and Mr. 
-    Perry) introduced the following bill; which was referred to the 
-Committee on Foreign Affairs, and in addition to the Committees on the 
-Judiciary, Financial Services, Ways and Means, and Rules, for a period 
-    to be subsequently determined by the Speaker, in each case for 
-consideration of such provisions as fall within the jurisdiction of the 
-                          committee concerned
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -775,11 +753,11 @@ imposition of sanctions--
                         Relations.
                     (B) Reporting and discharge.--If a committee to 
                 which a covered resolution was referred has not 
-                reported the resolution within 10 calendar days after 
-                the date of referral of the resolution, that committee 
-                shall be discharged from further consideration of the 
-                resolution and the resolution shall be placed on the 
-                appropriate calendar.
+                reported the resolution within 10 legislative days 
+                after the date of referral of the resolution, that 
+                committee shall be discharged from further 
+                consideration of the resolution and the resolution 
+                shall be placed on the appropriate calendar.
                     (C) Proceeding to consideration.--Notwithstanding 
                 Rule XXII of the Standing Rules of the Senate, it is in 
                 order at any time after the Committee on Banking, 
@@ -917,4 +895,22 @@ SEC. 10. RULE OF CONSTRUCTION.
 
     Nothing in this Act shall be construed as an authorization of 
 military force against China.
-                                 
+
+            Passed the House of Representatives July 1, 2020.
+
+            Attest:
+
+                                                                 Clerk.
+116th CONGRESS
+
+  2d Session
+
+                               H. R. 7440
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+  To impose sanctions with respect to foreign persons involved in the 
+erosion of certain obligations of China with respect to Hong Kong, and 
+                          for other purposes.
