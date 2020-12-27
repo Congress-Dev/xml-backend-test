@@ -1,26 +1,10 @@
 116th CONGRESS
-  1st Session
+  2d Session
                                 S. 2981
 
-     To reauthorize and amend the National Oceanic and Atmospheric 
- Administration Commissioned Officer Corps Act of 2002, and for other 
-                               purposes.
-
-
 _______________________________________________________________________
 
-
-                   IN THE SENATE OF THE UNITED STATES
-
-                            December 4, 2019
-
-  Mr. Sullivan (for himself and Mr. Schatz) introduced the following 
- bill; which was read twice and referred to the Committee on Commerce, 
-                      Science, and Transportation
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -35,7 +19,7 @@ SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
 
     (a) Short Title.--This Act may be cited as the ``National Oceanic 
 and Atmospheric Administration Commissioned Officer Corps Amendments 
-Act of 2019''.
+Act of 2020''.
     (b) Table of Contents.--The table of contents for this Act is as 
 follows:
 
@@ -50,8 +34,7 @@ Sec. 103. Obligated service requirement.
 Sec. 104. Training and physical fitness.
 Sec. 105. Aviation accession training programs.
 Sec. 106. Recruiting materials.
-Sec. 107. Procurement of charting and survey services.
-Sec. 108. Technical correction.
+Sec. 107. Technical correction.
                     TITLE II--PARITY AND RECRUITMENT
 
 Sec. 201. Education loans.
@@ -65,9 +48,8 @@ Sec. 205. Applicability of certain provisions of title 10, United
 Sec. 206. Applicability of certain provisions of title 37, United 
                             States Code.
 Sec. 207. Prohibition on retaliatory personnel actions.
-Sec. 208. Application of certain provisions of competitive service law.
-Sec. 209. Employment and reemployment rights.
-Sec. 210. Treatment of commission in commissioned officer corps for 
+Sec. 208. Employment and reemployment rights.
+Sec. 209. Treatment of commission in commissioned officer corps for 
                             purposes of certain hiring decisions.
            TITLE III--APPOINTMENTS AND PROMOTION OF OFFICERS
 
@@ -82,6 +64,14 @@ Sec. 307. Career intermission program.
 
 Sec. 401. Involuntary retirement or separation.
 Sec. 402. Separation pay.
+ TITLE V--OTHER NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION MATTERS
+
+Sec. 501. Charting and survey services.
+Sec. 502. Co-location agreements.
+Sec. 503. Satellite and data management.
+Sec. 504. Improvements relating to sexual harassment and assault 
+                            prevention at the National Oceanic and 
+                            Atmospheric Administration.
 
 SEC. 2. REFERENCES TO NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION 
               COMMISSIONED OFFICER CORPS ACT OF 2002.
@@ -127,7 +117,7 @@ percentages applicable to the grades set forth in subsection (a).
         date the computation is made.
             ``(3) Fractions.--If a final fraction occurs in computing 
         the authorized number of officers in a grade, the nearest whole 
-        number shall be taken. If the fraction is \1/2\, the next 
+        number shall be taken. If the fraction is one-half, the next 
         higher whole number shall be taken.
     ``(d) Temporary Increase in Numbers.--The total number of officers 
 authorized by law to be on the lineal list during a fiscal year may be 
@@ -159,7 +149,7 @@ retired status or detailed to an agency other than the Administration--
         authorized officers on the lineal list under this section; and
             ``(2) may not count against such number.''.
     (b) Clerical Amendment.--The table of contents in section 1 of the 
-Act entitled ``An Act to authorize the Hydrographic Services 
+Act entitled ``An Act to reauthorize the Hydrographic Services 
 Improvement Act of 1998, and for other purposes'' (Public Law 107-372) 
 is amended by striking the item relating to section 215 and inserting 
 the following:
@@ -176,15 +166,15 @@ adding at the end the following:
     ``(a) In General.--
             ``(1) Regulations.--The Secretary shall prescribe the 
         obligated service requirements for appointments, training, 
-        promotions, separations, continuations, and retirement of 
+        promotions, separations, continuations, and retirements of 
         officers not otherwise covered by law.
             ``(2) Written agreements.--The Secretary and officers shall 
         enter into written agreements that describe the officers' 
         obligated service requirements prescribed under paragraph (1) 
         in return for such appointments, training, promotions, 
-        separations, and retirements as the Secretary considers 
-        appropriate.
-    ``(b) Repayment for Failure To Satisfy Requirements.--
+        separations, continuations, and retirements as the Secretary 
+        considers appropriate.
+    ``(b) Repayment for Failure to Satisfy Requirements.--
             ``(1) In general.--The Secretary may require an officer who 
         fails to meet the service requirements prescribed under 
         subsection (a)(1) to reimburse the Secretary in an amount that 
@@ -196,7 +186,7 @@ adding at the end the following:
         to reimburse the Secretary under paragraph (1) is, for all 
         purposes, a debt owed to the United States.
             ``(3) Discharge in bankruptcy.--A discharge in bankruptcy 
-        under title 11 that is entered less than 5 years after the 
+        under title 11 that is entered less than five years after the 
         termination of a written agreement entered into under 
         subsection (a)(2) does not discharge the individual signing the 
         agreement from a debt arising under such agreement.
@@ -213,7 +203,7 @@ the service obligation of an officer who--
                 the result of the officer's own misconduct or grossly 
                 negligent conduct.''.
     (b) Clerical Amendment.--The table of contents in section 1 of the 
-Act entitled ``An Act to authorize the Hydrographic Services 
+Act entitled ``An Act to reauthorize the Hydrographic Services 
 Improvement Act of 1998, and for other purposes'' (Public Law 107-372) 
 is amended by inserting after the item relating to section 215 the 
 following:
@@ -248,7 +238,7 @@ maintain a high physical state of readiness by establishing standards
 of physical fitness for officers that are substantially equivalent to 
 those prescribed for officers in the Coast Guard.''.
     (b) Clerical Amendment.--The table of contents in section 1 of the 
-Act entitled ``An Act to authorize the Hydrographic Services 
+Act entitled ``An Act to reauthorize the Hydrographic Services 
 Improvement Act of 1998, and for other purposes'' (Public Law 107-372), 
 as amended by section 103(b), is further amended by inserting after the 
 item relating to section 216 the following:
@@ -283,30 +273,26 @@ section 104(a), is further amended by adding at the end the following:
                     ``(A) that requests to enter into an agreement with 
                 the Administrator providing for the establishment of 
                 the program at the institution;
-                    ``(B) that has, as a part of its curriculum, a 4-
-                year baccalaureate program of professional flight and 
-                piloting instruction that is accredited by the Aviation 
-                Accreditation Board International;
-                    ``(C) that is located--
-                            ``(i) not more than 250 miles from the 
-                        National Weather Service Training Center; and
-                            ``(ii) in a geographic area that--
-                                    ``(I) experiences a wide variation 
-                                in climate-related activity, including 
-                                frequent high winds, convective 
-                                activity (including tornadoes), periods 
-                                of low visibility, heat, and snow and 
-                                ice episodes, to provide opportunities 
-                                for pilots to demonstrate skill in all 
-                                weather conditions compatible with 
-                                future encounters during their service 
-                                in the commissioned officer corps; and
-                                    ``(II) has a climate that can 
-                                accommodate both primary and advanced 
-                                flight training activity at least 75 
-                                percent of the year; and
+                    ``(B) that has, as a part of its curriculum, a 
+                four-year baccalaureate program of professional flight 
+                and piloting instruction that is accredited by the 
+                Aviation Accreditation Board International;
+                    ``(C) that is located in a geographic area that--
+                            ``(i) experiences a wide variation in 
+                        climate-related activity, including frequent 
+                        high winds, convective activity (including 
+                        tornadoes), periods of low visibility, heat, 
+                        and snow and ice episodes, to provide 
+                        opportunities for pilots to demonstrate skill 
+                        in all weather conditions compatible with 
+                        future encounters during their service in the 
+                        commissioned officer corps of the 
+                        Administration; and
+                            ``(ii) has a climate that can accommodate 
+                        both primary and advanced flight training 
+                        activity at least 75 percent of the year; and
                     ``(D) at which the Administrator determines that--
-                            ``(i) there will be at least 1 student 
+                            ``(i) there will be at least one student 
                         enrolled in the program; and
                             ``(ii) the provisions of this section are 
                         otherwise satisfied.
@@ -314,9 +300,10 @@ section 104(a), is further amended by adding at the end the following:
         institutions.--The program may not be established or maintained 
         at an institution unless--
                     ``(A) the senior commissioned officer or employee 
-                of the commissioned officer corps who is assigned as an 
-                advisor to the program at that institution is given the 
-                academic rank of adjunct professor; and
+                of the commissioned officer corps of the Administration 
+                who is assigned as an advisor to the program at that 
+                institution is given the academic rank of adjunct 
+                professor; and
                     ``(B) the institution fulfills the terms of its 
                 agreement with the Administrator.
             ``(4) Membership in connection with status as student.--At 
@@ -326,7 +313,7 @@ section 104(a), is further amended by adding at the end the following:
         concerned.
     ``(c) Membership.--
             ``(1) Eligibility.--To be eligible for membership in the 
-        program an individual must--
+        program, an individual must--
                     ``(A) be a student at an institution at which the 
                 program is established;
                     ``(B) be a citizen of the United States;
@@ -336,24 +323,26 @@ section 104(a), is further amended by adding at the end the following:
                             ``(i) accept an appointment, if offered, as 
                         a commissioned officer in the commissioned 
                         officer corps of the Administration; and
-                            ``(ii) to serve in the commissioned officer 
-                        corps for not fewer than 4 years;
+                            ``(ii) serve in the commissioned officer 
+                        corps of the Administration for not fewer than 
+                        four years;
                     ``(D) enroll in--
-                            ``(i) a 4-year baccalaureate program of 
+                            ``(i) a four-year baccalaureate program of 
                         professional flight and piloting instruction; 
                         and
                             ``(ii) other training or education, 
                         including basic officer training, which is 
                         prescribed by the Administrator as meeting the 
                         preliminary requirement for admission to the 
-                        commissioned officer corps; and
+                        commissioned officer corps of the 
+                        Administration; and
                     ``(E) execute a certificate or take an oath 
                 relating to morality and conduct in such form as the 
                 Administrator prescribes.
             ``(2) Completion of program.--A member of the program may 
         be appointed as a regular officer in the commissioned officer 
-        corps if the member meets all requirements for appointment as 
-        such an officer.
+        corps of the Administration if the member meets all 
+        requirements for appointment as such an officer.
     ``(d) Financial Assistance for Qualified Members.--
             ``(1) Expenses of course of instruction.--
                     ``(A) In general.--In the case of a member of the 
@@ -369,11 +358,11 @@ section 104(a), is further amended by adding at the end the following:
                 the case of a member of the program described in 
                 subparagraph (A) who is enrolled in a course described 
                 in that subparagraph that has been approved by the 
-                Administrator and requires more than 4 academic years 
-                for completion, including elective requirements of the 
-                program, assistance under this subsection may also be 
-                provided during a fifth academic year or during a 
-                combination of a part of a fifth academic year and 
+                Administrator and requires more than four academic 
+                years for completion, including elective requirements 
+                of the program, assistance under this subsection may 
+                also be provided during a fifth academic year or during 
+                a combination of a part of a fifth academic year and 
                 summer sessions.
             ``(2) Room and board.--In the case of a member eligible to 
         receive assistance under paragraph (1), the Administrator may, 
@@ -384,8 +373,9 @@ section 104(a), is further amended by adding at the end the following:
         member of the program who receives assistance under this 
         subsection and who does not complete the course of instruction, 
         or who completes the course but declines to accept a commission 
-        in the commissioned officer corps when offered, shall be 
-        subject to the repayment provisions of subsection (e).
+        in the commissioned officer corps of the Administration when 
+        offered, shall be subject to the repayment provisions of 
+        subsection (e).
     ``(e) Repayment of Unearned Portion of Financial Assistance When 
 Conditions of Payment Not Met.--
             ``(1) In general.--A member of the program who receives or 
@@ -418,7 +408,7 @@ Conditions of Payment Not Met.--
         to repay the United States under this subsection is, for all 
         purposes, a debt owed to the United States.''.
     (b) Clerical Amendment.--The table of contents in section 1 of the 
-Act entitled ``An Act to authorize the Hydrographic Services 
+Act entitled ``An Act to reauthorize the Hydrographic Services 
 Improvement Act of 1998, and for other purposes'' (Public Law 107-372), 
 as amended by section 104(b), is further amended by inserting after the 
 item relating to section 217 the following:
@@ -439,26 +429,14 @@ corps of the Administration. Any such use shall be under such
 conditions and subject to such restrictions as the Secretary shall 
 prescribe.''.
     (b) Clerical Amendment.--The table of contents in section 1 of the 
-Act entitled ``An Act to authorize the Hydrographic Services 
+Act entitled ``An Act to reauthorize the Hydrographic Services 
 Improvement Act of 1998, and for other purposes'' (Public Law 107-372), 
 as amended by section 105(b), is further amended by inserting after the 
-item relating to section 217 the following:
+item relating to section 218 the following:
 
 ``Sec. 219. Use of recruiting materials for public relations.''.
 
-SEC. 107. PROCUREMENT OF CHARTING AND SURVEY SERVICES.
-
-    (a) In General.--Not later than 90 days after the development of 
-the strategy required by section 1002(b) of the Frank LoBiondo Coast 
-Guard Authorization Act of 2018 (Public Law 115-282; 132 Stat. 4365), 
-the Secretary of Commerce shall enter into not fewer than 2 multi-year 
-contracts with 1 or more private entities for the performance of 
-charting and survey services by vessels.
-    (b) Charting and Surveys in the Arctic.--In soliciting and engaging 
-the services of vessels under subsection (a), the Secretary shall 
-particularly emphasize the need for charting and surveys in the Arctic.
-
-SEC. 108. TECHNICAL CORRECTION.
+SEC. 107. TECHNICAL CORRECTION.
 
     Section 101(21)(C) of title 38, United States Code, is amended by 
 inserting ``in the commissioned officer corps'' before ``of the 
@@ -484,8 +462,8 @@ a person described in subsection (b), a loan that--
         authorized entity.
     ``(b) Eligible Persons.--To be eligible to obtain a loan repayment 
 under this section, a person must--
-            ``(1) satisfy 1 of the requirements specified in subsection 
-        (c);
+            ``(1) satisfy one of the requirements specified in 
+        subsection (c);
             ``(2) be fully qualified for, or hold, an appointment as a 
         commissioned officer in the commissioned officer corps of the 
         Administration; and
@@ -497,12 +475,14 @@ academic requirements must be satisfied for purposes of determining the
 eligibility of an individual for a loan repayment under this section:
             ``(1) The person is fully qualified in a profession that 
         the Secretary has determined to be necessary to meet identified 
-        skill shortages in the commissioned officer corps.
+        skill shortages in the commissioned officer corps of the 
+        Administration.
             ``(2) The person is enrolled as a full-time student in the 
         final year of a course of study at an accredited educational 
         institution (as determined by the Secretary of Education) 
         leading to a degree in a profession that will meet identified 
-        skill shortages in the commissioned officer corps.
+        skill shortages in the commissioned officer corps of the 
+        Administration.
     ``(d) Loan Repayments.--
             ``(1) In general.--Subject to the limits established under 
         paragraph (2), a loan repayment under this section may consist 
@@ -524,7 +504,7 @@ eligibility of an individual for a loan repayment under this section:
                 prescribed by the Secretary.
                     ``(B) Minimum obligation.--The regulations 
                 prescribed under subparagraph (A) may not provide for a 
-                period of obligation of less than 1 year for each 
+                period of obligation of less than one year for each 
                 maximum annual amount, or portion thereof, paid on 
                 behalf of the person for qualified loans.
             ``(3) Persons on active duty before entering into 
@@ -552,7 +532,7 @@ carry out this section, including--
             ``(2) other terms and conditions for the making of loan 
         repayments.''.
     (b) Clerical Amendment.--The table of contents in section 1 of the 
-Act entitled ``An Act to authorize the Hydrographic Services 
+Act entitled ``An Act to reauthorize the Hydrographic Services 
 Improvement Act of 1998, and for other purposes'' (Public Law 107-372) 
 is amended by inserting after the item relating to section 266 the 
 following:
@@ -567,15 +547,15 @@ section 201(a), is further amended by adding at the end the following:
 ``SEC. 268. INTEREST PAYMENT PROGRAM.
 
     ``(a) Authority.--The Secretary may pay the interest and any 
-special allowances that accrue on 1 or more student loans of an 
+special allowances that accrue on one or more student loans of an 
 eligible officer, in accordance with this section.
     ``(b) Eligible Officers.--An officer is eligible for the benefit 
 described in subsection (a) while the officer--
             ``(1) is serving on active duty;
-            ``(2) has not completed more than 3 years of service on 
+            ``(2) has not completed more than three years of service on 
         active duty;
-            ``(3) is the debtor on 1 or more unpaid loans described in 
-        subsection (c); and
+            ``(3) is the debtor on one or more unpaid loans described 
+        in subsection (c); and
             ``(4) is not in default on any such loan.
     ``(c) Student Loans.--The authority to make payments under 
 subsection (a) may be exercised with respect to the following loans:
@@ -590,29 +570,24 @@ subsection (a) may be exercised with respect to the following loans:
 paid on behalf of an officer under this section for any of the 36 
 consecutive months during which the officer is eligible under 
 subsection (b).
-    ``(e) Funds for Payments.--The Secretary may use amounts 
-appropriated for the pay and allowances of personnel of the 
-commissioned officer corps of the Administration for payments under 
-this section.
-    ``(f) Coordination With Secretary of Education.--
+    ``(e) Coordination With Secretary of Education.--
             ``(1) In general.--The Secretary shall consult with the 
         Secretary of Education regarding the administration of this 
         section.
-            ``(2) Transfer of funds.--The Secretary shall transfer to 
-        the Secretary of Education the funds necessary--
-                    ``(A) to pay interest and special allowances on 
-                student loans under this section (in accordance with 
-                sections 428(o), 455(l), and 464(j) of the Higher 
-                Education Act of 1965 (20 U.S.C. 1078(o), 1087e(l), and 
-                1087dd(j)); and
-                    ``(B) to reimburse the Secretary of Education for 
-                any reasonable administrative costs incurred by the 
-                Secretary in coordinating the program under this 
-                section with the administration of the student loan 
-                programs under parts B, D, and E of title IV of the 
-                Higher Education Act of 1965 (20 U.S.C. 1071 et seq., 
-                1087a et seq., 1087aa et seq.).
-    ``(g) Special Allowance Defined.--In this section, the term 
+            ``(2) Reimbursement authorized.--The Secretary is 
+        authorized to reimburse the Secretary of Education--
+                    ``(A) for the funds necessary to pay interest and 
+                special allowances on student loans under this section 
+                (in accordance with sections 428(o), 455(l), and 464(j) 
+                of the Higher Education Act of 1965 (20 U.S.C. 1078(o), 
+                1087e(l), and 1087dd(j)); and
+                    ``(B) for any reasonable administrative costs 
+                incurred by the Secretary of Education in coordinating 
+                the program under this section with the administration 
+                of the student loan programs under parts B, D, and E of 
+                title IV of the Higher Education Act of 1965 (20 U.S.C. 
+                1071 et seq., 1087a et seq., 1087aa et seq.).
+    ``(f) Special Allowance Defined.--In this section, the term 
 `special allowance' means a special allowance that is payable under 
 section 438 of the Higher Education Act of 1965 (20 U.S.C. 1087-1).''.
     (b) Conforming Amendments.--
@@ -645,7 +620,7 @@ section 438 of the Higher Education Act of 1965 (20 U.S.C. 1087-1).''.
                         Oceanic and Atmospheric Administration, 
                         respectively'' after ``Armed Forces''.
     (c) Clerical Amendment.--The table of contents in section 1 of the 
-Act entitled ``An Act to authorize the Hydrographic Services 
+Act entitled ``An Act to reauthorize the Hydrographic Services 
 Improvement Act of 1998, and for other purposes'' (Public Law 107-372), 
 as amended by section 201(b), is further amended by inserting after the 
 item relating to section 267 the following:
@@ -667,7 +642,7 @@ expenses of the person while the person is pursuing on a full-time
 basis at an accredited educational institution (as determined by the 
 Secretary of Education) a program of education approved by the 
 Secretary that leads to--
-            ``(1) a baccalaureate degree in not more than 5 academic 
+            ``(1) a baccalaureate degree in not more than five academic 
         years; or
             ``(2) a postbaccalaureate degree.
     ``(b) Eligible Persons.--
@@ -690,10 +665,11 @@ Secretary that leads to--
                     ``(B) upon completion of the person's educational 
                 program, agrees to serve on active duty, immediately 
                 after appointment, for--
-                            ``(i) up to 3 years if the person received 
-                        less than 3 years of assistance; and
-                            ``(ii) up to 5 years if the person received 
-                        at least 3 years of assistance.
+                            ``(i) up to three years if the person 
+                        received less than three years of assistance; 
+                        and
+                            ``(ii) up to five years if the person 
+                        received at least three years of assistance.
     ``(c) Qualifying Expenses.--Expenses for which financial assistance 
 may be provided under subsection (a) are the following:
             ``(1) Tuition and fees charged by the educational 
@@ -709,7 +685,7 @@ amount of financial assistance provided to a person under subsection
 title 10, United States Code, for each year of obligated service that a 
 person agrees to serve in an agreement described in subsection (b)(2).
     ``(e) Duration of Assistance.--Financial assistance may be provided 
-to a person under subsection (a) for not more than 5 consecutive 
+to a person under subsection (a) for not more than five consecutive 
 academic years.
     ``(f) Subsistence Allowance.--
             ``(1) In general.--A person who receives financial 
@@ -771,9 +747,9 @@ academic years.
         to reimburse the Secretary imposed under paragraph (2) is, for 
         all purposes, a debt owed to the United States.
             ``(5) Discharge in bankruptcy.--A discharge in bankruptcy 
-        under title 11, United States Code, that is entered less than 5 
-        years after the termination of a written agreement entered into 
-        under subsection (b)(1)(C) does not discharge the person 
+        under title 11, United States Code, that is entered less than 
+        five years after the termination of a written agreement entered 
+        into under subsection (b)(1)(C) does not discharge the person 
         signing the agreement from a debt arising under such agreement 
         or under paragraph (2).
     ``(i) Regulations.--The Secretary may prescribe such regulations 
@@ -783,7 +759,7 @@ section.
 obligation under this section may be completed concurrently with a 
 service obligation under section 216.''.
     (b) Clerical Amendment.--The table of contents in section 1 of the 
-Act entitled ``An Act to authorize the Hydrographic Services 
+Act entitled ``An Act to reauthorize the Hydrographic Services 
 Improvement Act of 1998, and for other purposes'' (Public Law 107-372), 
 as amended by section 202(c), is further amended by inserting after the 
 item relating to section 268 the following:
@@ -846,7 +822,8 @@ SEC. 205. APPLICABILITY OF CERTAIN PROVISIONS OF TITLE 10, UNITED
             (6) by inserting after paragraph (19), as redesignated, the 
         following:
             ``(20) Subchapter I of chapter 88, relating to Military 
-        Family Programs.
+        Family Programs, applicable on an as-available and fully 
+        reimbursable basis.
             ``(21) Section 2005, relating to advanced education 
         assistance, active duty agreements, and reimbursement 
         requirements.''.
@@ -895,34 +872,17 @@ inserting after section 261 the following:
 ``SEC. 261A. APPLICABILITY OF CERTAIN PROVISIONS OF TITLE 37, UNITED 
               STATES CODE.
 
-    ``(a) Provisions Made Applicable to Commissioned Officer Corps.--
-The provisions of law applicable to the Armed Forces under the 
+    ``The provisions of law applicable to the Armed Forces under the 
 following provisions of title 37, United States Code, shall apply to 
 the commissioned officer corps of the Administration:
-            ``(1) Section 324, relating to accession bonuses for new 
-        officers in critical skills.
-            ``(2) Section 403(f)(3), relating to prescribing 
-        regulations defining the terms `field duty' and `sea duty'.
-            ``(3) Section 403(l), relating to temporary continuation of 
+            ``(1) Section 403(l), relating to temporary continuation of 
         housing allowance for dependents of members dying on active 
         duty.
-            ``(4) Section 415, relating to initial uniform allowances.
-            ``(5) Section 488, relating to allowances for recruiting 
-        expenses.
-            ``(6) Section 495, relating to allowances for funeral 
-        honors duty.
-    ``(b) References.--The authority vested by title 37, United States 
-Code, in the `military departments', `the Secretary concerned', or `the 
-Secretary of Defense' with respect to the provisions of law referred to 
-in subsection (a) shall be exercised, with respect to the commissioned 
-officer corps of the Administration, by the Secretary of Commerce or 
-the Secretary's designee.''.
-    (b) Personal Money Allowance.--Section 414(a)(2) of title 37, 
-United States Code, is amended by inserting ``or the director of the 
-commissioned officer corps of the National Oceanic and Atmospheric 
-Administration'' after ``Health Service''.
-    (c) Clerical Amendment.--The table of contents in section 1 of the 
-Act entitled ``An Act to authorize the Hydrographic Services 
+            ``(2) Section 415, relating to initial uniform allowances.
+            ``(3) Section 488, relating to allowances for recruiting 
+        expenses.''.
+    (b) Clerical Amendment.--The table of contents in section 1 of the 
+Act entitled ``An Act to reauthorize the Hydrographic Services 
 Improvement Act of 1998, and for other purposes'' (Public Law 107-372) 
 is amended by inserting after the item relating to section 261 the 
 following:
@@ -939,7 +899,7 @@ amended by section 205(a), is further amended--
             (2) by inserting after paragraph (7) the following:
             ``(8) Section 1034, relating to protected communications 
         and prohibition of retaliatory personnel actions.''.
-    (b) Conforming Amendment.--Subsection (b) of such section is 
+    (b) Conforming Amendment.--Subsection (b) of such section 261 is 
 amended by adding at the end the following: ``For purposes of paragraph 
 (8) of subsection (a), the term `Inspector General' in section 1034 of 
 such title 10 shall mean the Inspector General of the Department of 
@@ -954,33 +914,17 @@ Administration, including by prescribing such administrative procedures
 for investigation and appeal within the commissioned officer corps as 
 the Secretary considers appropriate.''.
 
-SEC. 208. APPLICATION OF CERTAIN PROVISIONS OF COMPETITIVE SERVICE LAW.
-
-    Section 3304(f) of title 5, United States Code, is amended--
-            (1) in paragraph (1), by inserting ``and members of the 
-        commissioned officer corps of the National Oceanic and 
-        Atmospheric Administration (or its predecessor organization the 
-        Coast and Geodetic Survey) separated from such uniformed 
-        service'' after ``separated from the armed forces'';
-            (2) in paragraph (2), by striking ``or veteran'' and 
-        inserting ``, veteran, or member''; and
-            (3) in paragraph (4), by inserting ``and members of the 
-        commissioned officer corps of the National Oceanic and 
-        Atmospheric Administration (or its predecessor organization the 
-        Coast and Geodetic Survey) separated from such uniformed 
-        service'' after ``separated from the armed forces''.
-
-SEC. 209. EMPLOYMENT AND REEMPLOYMENT RIGHTS.
+SEC. 208. EMPLOYMENT AND REEMPLOYMENT RIGHTS.
 
     Section 4303(16) of title 38, United States Code, is amended by 
 inserting ``the commissioned officer corps of the National Oceanic and 
 Atmospheric Administration,'' after ``Public Health Service,''.
 
-SEC. 210. TREATMENT OF COMMISSION IN COMMISSIONED OFFICER CORPS FOR 
+SEC. 209. TREATMENT OF COMMISSION IN COMMISSIONED OFFICER CORPS FOR 
               PURPOSES OF CERTAIN HIRING DECISIONS.
 
     (a) In General.--Subtitle E (33 U.S.C. 3071 et seq.), as amended by 
-this title, is further amended by adding at the end the following:
+this Act, is further amended by adding at the end the following:
 
 ``SEC. 269A. TREATMENT OF COMMISSION IN COMMISSIONED OFFICER CORPS AS 
               EMPLOYMENT IN ADMINISTRATION FOR PURPOSES OF CERTAIN 
@@ -992,9 +936,10 @@ limits consideration of applications for such position to applications
 submitted by individuals serving in a career or career-conditional 
 position in the competitive service within the Administration, the 
 Secretary shall deem an officer who has served as an officer in the 
-commissioned officer corps for at least 3 years to be serving in a 
-career or career-conditional position in the competitive service within 
-the Administration for purposes of such limitation.
+commissioned officer corps of the Administration for at least three 
+years to be serving in a career or career-conditional position in the 
+competitive service within the Administration for purposes of such 
+limitation.
     ``(b) Career Appointments.--If the Secretary selects an application 
 submitted by an officer described in subsection (a) for a position 
 described in such subsection, the Secretary shall give such officer a 
@@ -1004,10 +949,10 @@ appropriate.
 `competitive service' has the meaning given the term in section 2102 of 
 title 5, United States Code.''.
     (b) Clerical Amendment.--The table of contents in section 1 of the 
-Act entitled ``An Act to authorize the Hydrographic Services 
+Act entitled ``An Act to reauthorize the Hydrographic Services 
 Improvement Act of 1998, and for other purposes'' (Public Law 107-372) 
 is amended by inserting after the item relating to section 269, as 
-added by section 203, the following new item:
+added by section 203(b), the following new item:
 
 ``Sec. 269A. Treatment of commission in commissioned officer corps as 
                             employment in Administration for purposes 
@@ -1040,51 +985,38 @@ to read as follows:
                         other grade than ensign.
                             ``(ii) Rank.--Officer candidates receiving 
                         appointments as ensigns upon graduation from 
-                        basic officer training program shall take rank 
-                        according to their proficiency as shown by the 
-                        order of their merit at date of graduation.
+                        the basic officer training program shall take 
+                        rank according to their proficiency as shown by 
+                        the order of their merit at date of graduation.
             ``(2) Source of appointments.--An original appointment may 
         be made from among the following:
                     ``(A) Graduates of the basic officer training 
                 program of the commissioned officer corps of the 
                 Administration.
-                    ``(B) Graduates of the military service academies 
-                of the United States who otherwise meet the academic 
+                    ``(B) Subject to the approval of the Secretary of 
+                Defense, graduates of the military service academies of 
+                the United States who otherwise meet the academic 
                 standards for enrollment in the training program 
                 described in subparagraph (A).
-                    ``(C) Graduates of the maritime academies of the 
-                States who--
+                    ``(C) Graduates of the State maritime academies 
+                who--
                             ``(i) otherwise meet the academic standards 
                         for enrollment in the training program 
                         described in subparagraph (A);
-                            ``(ii) completed at least 3 years of 
-                        regimented training while at a maritime academy 
-                        of a State; and
+                            ``(ii) completed at least three years of 
+                        regimented training while at a State maritime 
+                        academy; and
                             ``(iii) obtained an unlimited tonnage or 
                         unlimited horsepower Merchant Mariner 
                         Credential from the United States Coast Guard.
                     ``(D) Licensed officers of the United States 
-                merchant marine who have served 2 or more years aboard 
-                a vessel of the United States in the capacity of a 
-                licensed officer, who otherwise meet the academic 
+                merchant marine who have served two or more years 
+                aboard a vessel of the United States in the capacity of 
+                a licensed officer, who otherwise meet the academic 
                 standards for enrollment in the training program 
                 described in subparagraph (A).
             ``(3) Definitions.--In this subsection:
-                    ``(A) Maritime academies of the states.--The term 
-                `maritime academies of the States' means the following:
-                            ``(i) California Maritime Academy, Vallejo, 
-                        California.
-                            ``(ii) Great Lakes Maritime Academy, 
-                        Traverse City, Michigan.
-                            ``(iii) Maine Maritime Academy, Castine, 
-                        Maine.
-                            ``(iv) Massachusetts Maritime Academy, 
-                        Buzzards Bay, Massachusetts.
-                            ``(v) State University of New York Maritime 
-                        College, Fort Schuyler, New York.
-                            ``(vi) Texas A&M Maritime Academy, 
-                        Galveston, Texas.
-                    ``(B) Military service academies of the united 
+                    ``(A) Military service academies of the united 
                 states.--The term `military service academies of the 
                 United States' means the following:
                             ``(i) The United States Military Academy, 
@@ -1097,6 +1029,9 @@ to read as follows:
                         Academy, New London, Connecticut.
                             ``(v) The United States Merchant Marine 
                         Academy, Kings Point, New York.
+                    ``(B) State maritime academy.--The term `State 
+                maritime academy' has the meaning given the term in 
+                section 51102 of title 46, United States Code.
     ``(b) Reappointment.--
             ``(1) In general.--Except as provided in paragraph (2), an 
         individual who previously served in the commissioned officer 
@@ -1111,14 +1046,14 @@ may not be given to an individual until the individual's mental, moral,
 physical, and professional fitness to perform the duties of an officer 
 has been established under such regulations as the Secretary shall 
 prescribe.
-    ``(d) Precedence of Appointees.--Appointees under this section 
-shall take precedence in the grade to which appointed in accordance 
-with the dates of their commissions as commissioned officers in such 
-grade. Appointees whose dates of commission are the same shall take 
-precedence with each other as the Secretary shall determine.
+    ``(d) Order of Precedence.--Appointees under this section shall 
+take precedence in the grade to which appointed in accordance with the 
+dates of their commissions as commissioned officers in such grade. The 
+order of precedence of appointees whose dates of commission are the 
+same shall be determined by the Secretary.
     ``(e) Inter-Service Transfers.--For inter-service transfers (as 
-described in the Department of Defense Directive 1300.4 (dated December 
-27, 2006)) the Secretary shall--
+described in Department of Defense Directive 1300.4 (dated December 27, 
+2006)) the Secretary shall--
             ``(1) coordinate with the Secretary of Defense and the 
         Secretary of the Department in which the Coast Guard is 
         operating to promote and streamline inter-service transfers;
@@ -1126,9 +1061,10 @@ described in the Department of Defense Directive 1300.4 (dated December
         recruitment purposes as determined appropriate by the 
         Secretary; and
             ``(3) reappoint such inter-service transfers to the 
-        equivalent grade in the commissioned officer corps.''.
+        equivalent grade in the commissioned officer corps of the 
+        Administration.''.
     (b) Clerical Amendment.--The table of contents in section 1 of the 
-Act entitled ``An Act to authorize the Hydrographic Services 
+Act entitled ``An Act to reauthorize the Hydrographic Services 
 Improvement Act of 1998, and for other purposes'' (Public Law 107-372) 
 is amended by striking the item relating to section 221 and inserting 
 the following:
@@ -1146,14 +1082,14 @@ such other times as the Secretary determines necessary, the Secretary
 shall convene a personnel board.
     ``(b) Membership.--
             ``(1) In general.--A board convened under subsection (a) 
-        shall consist of 5 or more officers who are serving in or above 
-        the permanent grade of the officers under consideration by the 
-        board.
+        shall consist of five or more officers who are serving in or 
+        above the permanent grade of the officers under consideration 
+        by the board.
             ``(2) Retired officers.--Officers on the retired list may 
         be recalled to serve on such personnel boards as the Secretary 
         considers necessary.
-            ``(3) No membership on 2 successive boards.--No officer may 
-        be a member of 2 successive personnel boards convened to 
+            ``(3) No membership on two successive boards.--No officer 
+        may be a member of two successive personnel boards convened to 
         consider officers of the same grade for promotion or 
         separation.
     ``(c) Duties.--Each personnel board shall--
@@ -1170,7 +1106,7 @@ recommendation by a board convened under subsection (a) is not accepted
 by the Secretary or the President, the board shall make such further 
 recommendations as the Secretary or the President considers 
 appropriate.
-    ``(e) Authority for Officers To Opt Out of Promotion 
+    ``(e) Authority for Officers to Opt Out of Promotion 
 Consideration.--
             ``(1) In general.--The Director of the National Oceanic and 
         Atmospheric Administration Commissioned Officer Corps may 
@@ -1178,7 +1114,7 @@ Consideration.--
         the approval of the Director, be excluded from consideration 
         for promotion by a personnel board convened under this section.
             ``(2) Approval.--The Director shall approve a request made 
-        by an officer under subsection (a) only if--
+        by an officer under paragraph (1) only if--
                     ``(A) the basis for the request is to allow the 
                 officer to complete a broadening assignment, advanced 
                 education, another assignment of significant value to 
@@ -1236,12 +1172,12 @@ dates of their appointments as officers in such grade. The order of
 precedence of appointees who are appointed on the same date shall be 
 determined by the Secretary.
     ``(d) Any One Grade.--When determined by the Secretary to be in the 
-best interest of the commissioned officer corps, officers in any 
-permanent grade may be temporarily promoted one grade by the President. 
-Any such temporary promotion terminates upon the transfer of the 
-officer to a new assignment.''.
+best interest of the commissioned officer corps of the Administration, 
+officers in any permanent grade may be temporarily promoted one grade 
+by the President. Any such temporary promotion terminates upon the 
+transfer of the officer to a new assignment.''.
     (b) Clerical Amendment.--The table of contents in section 1 of the 
-Act entitled ``An Act to authorize the Hydrographic Services 
+Act entitled ``An Act to reauthorize the Hydrographic Services 
 Improvement Act of 1998, and for other purposes'' (Public Law 107-372) 
 is amended by striking the item relating to section 229 and inserting 
 the following:
@@ -1261,8 +1197,8 @@ number of appointments of officer candidates.
 under regulations, which the Secretary shall prescribe, including 
 regulations with respect to determining age limits, methods of 
 selection of officer candidates, term of service as an officer 
-candidate before graduation from the program, and all other matters 
-affecting such appointment.
+candidate before graduation from the basic officer training program of 
+the Administration, and all other matters affecting such appointment.
     ``(c) Dismissal.--The Secretary may dismiss from the basic officer 
 training program of the Administration any officer candidate who, 
 during the officer candidate's term as an officer candidate, the 
@@ -1287,7 +1223,7 @@ Atmospheric Administration Commissioned Officer Corps.
                             ``(i) will accept an appointment, if 
                         tendered, as an officer; and
                             ``(ii) will serve on active duty for at 
-                        least 4 years immediately after such 
+                        least four years immediately after such 
                         appointment.
     ``(e) Regulations.--The Secretary shall prescribe regulations to 
 carry out this section. Such regulations shall include--
@@ -1300,7 +1236,7 @@ who does not fulfill the terms of the obligation to serve as specified
 under subsection (d) shall be subject to the repayment provisions of 
 section 216(b).''.
     (b) Clerical Amendment.--The table of contents in section 1 of the 
-Act entitled ``An Act to authorize the Hydrographic Services 
+Act entitled ``An Act to reauthorize the Hydrographic Services 
 Improvement Act of 1998, and for other purposes'' (Public Law 107-372) 
 is amended by inserting after the item relating to section 233 the 
 following:
@@ -1323,7 +1259,7 @@ training program of the commissioned officer corps of the National
 Oceanic and Atmospheric Administration is entitled, while participating 
 in such program, to monthly officer candidate pay at monthly rates 
 equal to the basic pay of an enlisted member in the pay grade E-5 with 
-less than 2 years of service.
+less than two years of service.
     ``(2) An individual who graduates from such program shall receive 
 credit for the time spent participating in such program as if such time 
 were time served while on active duty as a commissioned officer. If the 
@@ -1337,16 +1273,16 @@ section 305(a), is further amended by adding at the end the following:
 
 ``SEC. 235. PROCUREMENT OF PERSONNEL.
 
-    ``The Secretary may make such expenditures as the Secretary 
-considers necessary in order to obtain recruits for the commissioned 
-officer corps of the Administration, including advertising.''.
+    ``The Secretary may take such measures as the Secretary determines 
+necessary in order to obtain recruits for the commissioned officer 
+corps of the Administration, including advertising.''.
     (b) Clerical Amendment.--The table of contents in section 1 of the 
-Act entitled ``An Act to authorize the Hydrographic Services 
+Act entitled ``An Act to reauthorize the Hydrographic Services 
 Improvement Act of 1998, and for other purposes'' (Public Law 107-372), 
 as amended by section 305(b), is further amended by inserting after the 
 item relating to section 234 the following:
 
-``235. Procurement of personnel.''.
+``Sec. 235. Procurement of personnel.''.
 
 SEC. 307. CAREER INTERMISSION PROGRAM.
 
@@ -1365,7 +1301,8 @@ Inactivation.--
         duty under a program under this section of an officer 
         participating in the program shall be such period as the 
         Secretary shall specify in the agreement of the officer under 
-        subsection (c), except that such period may not exceed 3 years.
+        subsection (c), except that such period may not exceed three 
+        years.
             ``(2) Exclusion from retirement.--Any period of 
         participation of an officer in a program under this section 
         shall not count toward eligibility for retirement or 
@@ -1384,7 +1321,7 @@ under which that officer shall agree as follows:
         the inactivation of the officer from active duty.
             ``(2) Following completion of the period of the 
         inactivation of the officer from active duty under the program, 
-        to serve 2 months on active duty for each month of the period 
+        to serve two months on active duty for each month of the period 
         of the inactivation of the officer from active duty under the 
         program.
     ``(d) Conditions of Release.--The Secretary shall--
@@ -1393,7 +1330,7 @@ under which that officer shall agree as follows:
         addressed in the agreement required by subsection (c); and
             ``(2) at a minimum, prescribe the procedures and standards 
         to be used to instruct an officer on the obligations to be 
-        assumed by the officer under paragraph (2) of such subsection 
+        assumed by the officer under paragraph (1) of such subsection 
         while the officer is released from active duty.
     ``(e) Order to Active Duty.--Under regulations prescribed by the 
 Secretary, an officer participating in a program under this section 
@@ -1502,7 +1439,7 @@ participation in the program and be ordered to active duty.
         program under this section is entitled to carry forward the 
         leave balance existing as of the day on which the officer 
         begins participation and accumulated in accordance with section 
-        701 of title 10, but not to exceed 60 days.
+        701 of title 10, United States Code, but not to exceed 60 days.
     ``(g) Promotion.--
             ``(1) In general.--An officer participating in a program 
         under this section shall not, while participating in the 
@@ -1525,11 +1462,11 @@ be treated as a member of the uniformed services on active duty for a
 period of more than 30 days for purposes of--
             ``(1) the entitlement of the officer and of the dependents 
         of the officer to medical and dental care under the provisions 
-        of chapter 55 of title 10; and
+        of chapter 55 of title 10, United States Code; and
             ``(2) retirement or separation for physical disability 
         under the provisions of subtitle C.''.
     (b) Clerical Amendment.--The table of contents in section 1 of the 
-Act entitled ``An Act to authorize the Hydrographic Services 
+Act entitled ``An Act to reauthorize the Hydrographic Services 
 Improvement Act of 1998, and for other purposes'' (Public Law 107-372), 
 as amended by section 306(b), is further amended by inserting after the 
 item relating to section 235 the following:
@@ -1570,4 +1507,164 @@ pay under this section if the officer--
             ``(1) expresses a desire not to be selected for promotion; 
         or
             ``(2) requests removal from the list of selectees.''.
-                                 
+
+ TITLE V--OTHER NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION MATTERS
+
+SEC. 501. CHARTING AND SURVEY SERVICES.
+
+    (a) In General.--Not later than 270 days after the development of 
+the strategy required by section 1002(b) of the Frank LoBiondo Coast 
+Guard Authorization Act of 2018 (33 U.S.C. 892a note), the Secretary of 
+Commerce shall enter into not fewer than 2 multi-year contracts with 1 
+or more private entities for the performance of charting and survey 
+services by vessels.
+    (b) Charting and Surveys in the Arctic.--In soliciting and engaging 
+the services of vessels under subsection (a), the Secretary shall 
+particularly emphasize the need for charting and surveys in the Arctic.
+
+SEC. 502. CO-LOCATION AGREEMENTS.
+
+    (a) In General.--During fiscal years 2021 through 2030, and subject 
+to the availability of appropriations, the Administrator of the 
+National Oceanic and Atmospheric Administration may execute 
+noncompetitive co-location agreements for real property and incidental 
+goods and services with entities described in subsection (b) for 
+periods of not more than 20 years, if each such agreement is supported 
+by a price reasonableness analysis.
+    (b) Entities Described.--An entity described in this subsection 
+is--
+            (1) the government of any State, territory, possession, or 
+        locality of the United States;
+            (2) any Tribal organization (as defined in section 4 of the 
+        Indian Self-Determination and Education Assistance Act (25 
+        U.S.C. 5304));
+            (3) any subdivision of--
+                    (A) a government described in paragraph (1); or
+                    (B) an organization described in paragraph (2); or
+            (4) any organization that is--
+                    (A) organized under the laws of the United States 
+                or any jurisdiction within the United States; and
+                    (B) described in section 501(c) of the Internal 
+                Revenue Code of 1986 and exempt from tax under section 
+                501(a) of such Code.
+    (c) Collaboration Agreements.--Upon the execution of an agreement 
+authorized by subsection (a) with an entity, the Administrator may 
+enter into agreements with the entity to collaborate or engage in 
+projects or programs on matters of mutual interest for periods not to 
+exceed the term of the agreement. The cost of such agreements shall be 
+apportioned equitably, as determined by the Administrator.
+    (d) Savings Clause.--Nothing in this section shall be construed--
+            (1) to affect the authority of the Administrator of General 
+        Services; or
+            (2) to grant the Administrator of the National Oceanic and 
+        Atmospheric Administration any additional authority to enter 
+        into a lease without approval of the General Services 
+        Administration.
+
+SEC. 503. SATELLITE AND DATA MANAGEMENT.
+
+    Section 301 of the Weather Research and Forecasting Innovation Act 
+of 2017 (15 U.S.C. 8531) is amended--
+            (1) in subsection (c)(1), by striking subparagraph (D) and 
+        inserting the following:
+                    ``(D) improve--
+                            ``(i) weather and climate forecasting and 
+                        predictions; and
+                            ``(ii) the understanding, management, and 
+                        exploration of the ocean.''; and
+            (2) in subsection (d)--
+                    (A) in paragraph (1)--
+                            (i) by striking ``data and satellite 
+                        systems'' and inserting ``data, satellite, and 
+                        other observing systems''; and
+                            (ii) by striking ``to carry out'' and all 
+                        that follows and inserting the following: ``to 
+                        carry out--
+                    ``(A) basic, applied, and advanced research 
+                projects and ocean exploration missions to meet the 
+                objectives described in subparagraphs (A) through (D) 
+                of subsection (c)(1); or
+                    ``(B) any other type of project to meet other 
+                mission objectives, as determined by the Under 
+                Secretary.'';
+                    (B) in paragraph (2)(B)(i), by striking 
+                ``satellites'' and all that follows and inserting 
+                ``systems, including satellites, instrumentation, 
+                ground stations, data, and data processing;''; and
+                    (C) in paragraph (3), by striking ``2023'' and 
+                inserting ``2030''.
+
+SEC. 504. IMPROVEMENTS RELATING TO SEXUAL HARASSMENT AND ASSAULT 
+              PREVENTION AT THE NATIONAL OCEANIC AND ATMOSPHERIC 
+              ADMINISTRATION.
+
+    (a) Reporting.--Subtitle C of title XXXV of the National Defense 
+Authorization Act for Fiscal Year 2017 (33 U.S.C. 894 et seq.) is 
+amended--
+            (1) in section 3541(b)(3)(B) (33 U.S.C. 894(b)(3)(B)), by 
+        striking ``can be confidentially reported'' and inserting ``can 
+        be reported on a restricted or unrestricted basis''; and
+            (2) in section 3542(b)(5)(B) (33 U.S.C. 894a(b)(5)(B)), by 
+        striking ``can be confidentially reported'' and inserting ``can 
+        be reported on a restricted or unrestricted basis''.
+    (b) Investigative Requirement.--Such subtitle is amended--
+            (1) by redesignating sections 3546 and 3547 as sections 
+        3548 and 3549, respectively; and
+            (2) by inserting after section 3545 the following:
+
+``SEC. 3546. INVESTIGATION REQUIREMENT.
+
+    ``(a) Requirement to Investigate.--
+            ``(1) In general.--The Secretary of Commerce, acting 
+        through the Under Secretary for Oceans and Atmosphere, shall 
+        ensure that each allegation of sexual harassment reported under 
+        section 3541 and each allegation of sexual assault reported 
+        under section 3542 is investigated thoroughly and promptly.
+            ``(2) Sense of congress on commencement of investigation.--
+        It is the sense of Congress that the Secretary should ensure 
+        that an investigation of alleged sexual harassment reported 
+        under section 3541 or sexual assault reported under section 
+        3542 commences not later than 48 hours after the time at which 
+        the allegation was reported.
+    ``(b) Notification of Delay.--In any case in which the time between 
+the reporting of alleged sexual harassment or sexual assault under 
+section 3541 or 3542, respectively, and commencement of an 
+investigation of the allegation exceeds 48 hours, the Secretary shall 
+notify the Committee on Commerce, Science, and Transportation of the 
+Senate and the Committee on Natural Resources of the House of 
+Representatives of the delay.
+
+``SEC. 3547. CRIMINAL REFERRAL.
+
+    ``If the Secretary of Commerce finds, pursuant to an investigation 
+under section 3546, evidence that a crime may have been committed, the 
+Secretary shall refer the matter to the appropriate law enforcement 
+authorities, including the appropriate United States Attorney.''.
+    (c) Clerical Amendment.--The table of contents in section 2(b) of 
+such Act is amended by striking the items relating to sections 3546 and 
+3547 and inserting the following new items:
+
+``Sec. 3546. Investigation requirement.
+``Sec. 3547. Criminal referral.
+``Sec. 3548. Annual report on sexual assaults in the National Oceanic 
+                            and Atmospheric Administration.
+``Sec. 3549. Sexual assault defined.''.
+
+            Passed the Senate November 16, 2020.
+
+            Attest:
+
+                                                             Secretary.
+116th CONGRESS
+
+  2d Session
+
+                                S. 2981
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+     To reauthorize and amend the National Oceanic and Atmospheric 
+ Administration Commissioned Officer Corps Act of 2002, and for other 
+                               purposes.
