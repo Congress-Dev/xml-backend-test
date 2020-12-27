@@ -2,24 +2,9 @@
   1st Session
                                 S. 2193
 
- To require the Administrator of General Services to issue guidance to 
- clarify that Federal agencies may pay by charge card for the charging 
-      of Federal electric motor vehicles, and for other purposes.
-
-
 _______________________________________________________________________
 
-
-                   IN THE SENATE OF THE UNITED STATES
-
-                             July 18, 2019
-
-  Mr. Peters introduced the following bill; which was read twice and 
-referred to the Committee on Homeland Security and Governmental Affairs
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -43,8 +28,8 @@ SEC. 2. PAYMENT BY CHARGE CARD FOR CHARGING FEDERAL ELECTRIC MOTOR
         General Services;
             (2) the term ``charge card''--
                     (A) means a card, plate, coupon book, or other 
-                credit device existing for the purpose of obtaining 
-                money, property, labor, or services on credit; and
+                means existing for the purpose of obtaining money, 
+                property, labor, or services; and
                     (B) includes--
                             (i) a card issued under the GSA SmartPay 
                         program; and
@@ -74,7 +59,25 @@ United States Code--
     (c) Issuance of Charge Cards.--Not later than 180 days after the 
 date of enactment of this Act, the Administrator shall issue to each 
 Federal agency a charge card for each covered electric motor vehicle of 
-the Federal agency that may be used by the Federal agency to charge the 
-covered motor vehicle in accordance with the guidance issued under 
-subsection (b).
-                                 
+the Federal agency that may be used by an officer or employee of the 
+Federal agency to pay for charging the covered motor vehicle in 
+accordance with the guidance issued under subsection (b).
+
+            Passed the Senate November 21, 2019.
+
+            Attest:
+
+                                                             Secretary.
+116th CONGRESS
+
+  1st Session
+
+                                S. 2193
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+ To require the Administrator of General Services to issue guidance to 
+ clarify that Federal agencies may pay by charge card for the charging 
+      of Federal electric motor vehicles, and for other purposes.
