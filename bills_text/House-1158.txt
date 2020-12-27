@@ -2,24 +2,9 @@
   1st Session
                                 H. R. 1158
 
-    To authorize cyber incident response teams at the Department of 
-               Homeland Security, and for other purposes.
-
-
 _______________________________________________________________________
 
-
-                    IN THE HOUSE OF REPRESENTATIVES
-
-                           February 13, 2019
-
- Mr. McCaul (for himself, Mr. Langevin, Mr. Katko, Mr. Ruppersberger, 
-and Mr. Ratcliffe) introduced the following bill; which was referred to 
-                   the Committee on Homeland Security
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -42,7 +27,7 @@ SEC. 2. DEPARTMENT OF HOMELAND SECURITY CYBER INCIDENT RESPONSE TEAMS.
         cybersecurity specialists'' after ``entities'';
             (2) by redesignating subsections (f) through (m) as 
         subsections (g) through (n), respectively;
-            (3) by inserting after subsection (d) the following new 
+            (3) by inserting after subsection (e) the following new 
         subsection (f):
     ``(f) Cyber Incident Response Teams.--
             ``(1) In general.--The Center shall maintain cyber hunt and 
@@ -69,8 +54,8 @@ SEC. 2. DEPARTMENT OF HOMELAND SECURITY CYBER INCIDENT RESPONSE TEAMS.
         assess and evaluate the cyber incident response teams and their 
         operations using robust metrics.
             ``(4) Submittal of information to congress.--Upon the 
-        conclusion of each of the first four fiscal years ending after 
-        the date of the enactment of this subsection, the Center shall 
+        conclusion of each of the first 4 fiscal years ending after the 
+        date of the enactment of this subsection, the Center shall 
         submit to the Committee on Homeland Security of the House of 
         Representatives and the Homeland Security and Governmental 
         Affairs Committee of the Senate, information on the metrics 
@@ -96,4 +81,21 @@ SEC. 2. DEPARTMENT OF HOMELAND SECURITY CYBER INCIDENT RESPONSE TEAMS.
 authorized to be appropriated to carry out the requirements of this Act 
 and the amendments made by this Act. Such requirements shall be carried 
 out using amounts otherwise authorized to be appropriated.
-                                 
+
+            Passed the House of Representatives June 10, 2019.
+
+            Attest:
+
+                                                                 Clerk.
+116th CONGRESS
+
+  1st Session
+
+                               H. R. 1158
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+    To authorize cyber incident response teams at the Department of 
+               Homeland Security, and for other purposes.
