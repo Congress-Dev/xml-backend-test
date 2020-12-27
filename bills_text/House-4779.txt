@@ -2,24 +2,9 @@
   1st Session
                                 H. R. 4779
 
-  To extend the Undertaking Spam, Spyware, And Fraud Enforcement With 
-     Enforcers beyond Borders Act of 2006, and for other purposes.
-
-
 _______________________________________________________________________
 
-
-                    IN THE HOUSE OF REPRESENTATIVES
-
-                            October 22, 2019
-
-Mrs. Rodgers of Washington (for herself, Ms. Kelly of Illinois, and Mr. 
-   Bucshon) introduced the following bill; which was referred to the 
-                    Committee on Energy and Commerce
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -55,4 +40,30 @@ Act. The report shall include--
             (4) any recommendations for legislation that may advance 
         the mission of the Commission in carrying out the U.S. SAFE WEB 
         Act of 2006 and the amendments made by such Act.
-                                 
+
+SEC. 3. DETERMINATION OF BUDGETARY EFFECTS.
+
+    The budgetary effects of this Act, for the purpose of complying 
+with the Statutory Pay-As-You-Go Act of 2010, shall be determined by 
+reference to the latest statement titled ``Budgetary Effects of PAYGO 
+Legislation'' for this Act, submitted for printing in the Congressional 
+Record by the Chairman of the House Budget Committee, provided that 
+such statement has been submitted prior to the vote on passage.
+
+            Passed the House of Representatives December 16, 2019.
+
+            Attest:
+
+                                                                 Clerk.
+116th CONGRESS
+
+  1st Session
+
+                               H. R. 4779
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+  To extend the Undertaking Spam, Spyware, And Fraud Enforcement With 
+     Enforcers beyond Borders Act of 2006, and for other purposes.
