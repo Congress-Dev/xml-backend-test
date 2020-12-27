@@ -2,27 +2,9 @@
   1st Session
                                  S. 998
 
-  To amend the Omnibus Crime Control and Safe Streets Act of 1968 to 
- expand support for police officer family services, stress reduction, 
-            and suicide prevention, and for other purposes.
-
-
 _______________________________________________________________________
 
-
-                   IN THE SENATE OF THE UNITED STATES
-
-                             April 3, 2019
-
-Mr. Hawley (for himself, Mr. Whitehouse, Mr. Tillis, Ms. Klobuchar, Mr. 
-  Durbin, Mr. Leahy, Mrs. Blackburn, Mr. Blumenthal, Mr. Cotton, Mr. 
-Cornyn, Ms. Hirono, and Mr. Scott of Florida) introduced the following 
-    bill; which was read twice and referred to the Committee on the 
-                               Judiciary
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -69,8 +51,8 @@ of 1968 (34 U.S.C. 10491 et seq.) is amended--
                             (i) in paragraph (5), by inserting ``, 
                         mental health crisis, and suicide prevention'' 
                         after ``family crisis'';
-                            (ii) in paragraph (6), by striking ``human 
-                        immunodeficiency virus'' and inserting 
+                            (ii) in paragraph (6), by striking ``the 
+                        human immunodeficiency virus'' and inserting 
                         ``infectious disease'';
                             (iii) in paragraph (8), by inserting ``, 
                         injured, or permanently disabled'' after 
@@ -91,4 +73,22 @@ Safe Streets Act of 1968 (34 U.S.C. 10261(a)(21)) is amended to read as
 follows:
     ``(21) There are authorized to be appropriated to carry out part W, 
 $7,500,000 for each of fiscal years 2020 through 2024.''.
-                                 
+
+            Passed the Senate May 16, 2019.
+
+            Attest:
+
+                                                             Secretary.
+116th CONGRESS
+
+  1st Session
+
+                                 S. 998
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+  To amend the Omnibus Crime Control and Safe Streets Act of 1968 to 
+ expand support for police officer family services, stress reduction, 
+            and suicide prevention, and for other purposes.
