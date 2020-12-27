@@ -2,24 +2,9 @@
   2d Session
                                 H. R. 7259
 
-   To allow acceleration certificates awarded under the Patents for 
-                  Humanity Program to be transferable.
-
-
 _______________________________________________________________________
 
-
-                    IN THE HOUSE OF REPRESENTATIVES
-
-                             June 18, 2020
-
- Mrs. McBath (for herself, Mr. Cline, Mr. Johnson of Georgia, and Mrs. 
-    Roby) introduced the following bill; which was referred to the 
-                       Committee on the Judiciary
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -47,4 +32,21 @@ subsection (a) shall be subject to any other applicable limitations
 under the notice entitled ``Humanitarian Awards Pilot Program'', 
 published at 77 Fed. Reg. 6544 (February 8, 2012), or any successor 
 thereto.
-                                 
+
+            Passed the House of Representatives June 25, 2020.
+
+            Attest:
+
+                                                                 Clerk.
+116th CONGRESS
+
+  2d Session
+
+                               H. R. 7259
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+   To allow acceleration certificates awarded under the Patents for 
+                  Humanity Program to be transferable.
