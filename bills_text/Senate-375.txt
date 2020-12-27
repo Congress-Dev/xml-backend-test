@@ -2,24 +2,9 @@
   1st Session
                                  S. 375
 
-   To improve efforts to identify and reduce Governmentwide improper 
-                   payments, and for other purposes.
-
-
 _______________________________________________________________________
 
-
-                   IN THE SENATE OF THE UNITED STATES
-
-                            February 7, 2019
-
-   Mr. Carper (for himself, Mr. Johnson, Mr. Peters, and Mr. Braun) 
-introduced the following bill; which was read twice and referred to the 
-        Committee on Homeland Security and Governmental Affairs
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -1293,7 +1278,28 @@ SEC. 3. REPEALS.
                         inserting ``section 3352(i)''; and
                             (ii) by striking ``agency for the following 
                         purposes:'' and all that follows through ``To 
-                        reimburse'' and inserting ``agency to 
-                        reimburse''; and
+                        reimburse'' and inserting 
+
+
+              
+
+                         ``agency to reimburse''; and
                     (B) by striking paragraph (2).
-                                 
+
+            Passed the Senate July 16, 2019.
+
+            Attest:
+
+                                                             Secretary.
+116th CONGRESS
+
+  1st Session
+
+                                 S. 375
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+   To improve efforts to identify and reduce Governmentwide improper 
+                   payments, and for other purposes.
