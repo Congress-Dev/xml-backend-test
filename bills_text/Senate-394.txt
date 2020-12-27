@@ -2,24 +2,9 @@
   1st Session
                                  S. 394
 
-To amend the Presidential Transition Act of 1963 to improve the orderly 
-    transfer of the executive power during Presidential transitions.
-
-
 _______________________________________________________________________
 
-
-                   IN THE SENATE OF THE UNITED STATES
-
-                            February 7, 2019
-
- Mr. Johnson (for himself, Mr. Carper, and Ms. Hassan) introduced the 
- following bill; which was read twice and referred to the Committee on 
-               Homeland Security and Governmental Affairs
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -196,9 +181,10 @@ Act of 1963 (3 U.S.C. 102 note) is amended--
                                         under that Act; and
                                             ``(bb) persons registered 
                                         under the Foreign Agents 
-                                        Registration Act (22 U.S.C. 611 
-                                        et seq.), foreign nationals, 
-                                        and other foreign agents;
+                                        Registration Act of 1938 (22 
+                                        U.S.C. 611 et seq.), foreign 
+                                        nationals, and other foreign 
+                                        agents;
                                     ``(II) prohibit a transition team 
                                 member with conflicts of interest 
                                 similar to those applicable to Federal 
@@ -245,9 +231,26 @@ Act of 1963 (3 U.S.C. 102 note) is amended--
                         oversight, and compliance.
                     ``(C) Publicly available.--The transition team 
                 shall make the ethics plan described in this paragraph 
-                publicly available on the Internet website of the 
+                publicly available on the internet website of the 
                 General Services Administration the earlier of--
                             ``(i) the day on which the memorandum of 
                         understanding is completed; or
                             ``(ii) October 1.''.
-                                 
+
+            Passed the Senate August 1, 2019.
+
+            Attest:
+
+                                                             Secretary.
+116th CONGRESS
+
+  1st Session
+
+                                 S. 394
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+To amend the Presidential Transition Act of 1963 to improve the orderly 
+    transfer of the executive power during Presidential transitions.
