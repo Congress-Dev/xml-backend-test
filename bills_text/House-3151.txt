@@ -2,33 +2,9 @@
   1st Session
                                 H. R. 3151
 
-To amend the Internal Revenue Code of 1986 to modernize and improve the 
-           Internal Revenue Service, and for other purposes.
-
-
 _______________________________________________________________________
 
-
-                    IN THE HOUSE OF REPRESENTATIVES
-
-                              June 6, 2019
-
-Mr. Lewis (for himself, Mr. Kelly of Pennsylvania, Mr. Neal, Mr. Brady, 
- Ms. DelBene, Mrs. Walorski, Ms. Sanchez, Mr. LaHood, Mr. Suozzi, Mr. 
- Wenstrup, Ms. Judy Chu of California, Ms. Moore, Mr. Brendan F. Boyle 
-of Pennsylvania, Mr. Buchanan, Mr. Larson of Connecticut, Mr. Holding, 
-Mr. Danny K. Davis of Illinois, Mr. Higgins of New York, Ms. Sewell of 
-    Alabama, Mr. Evans, Mr. Schneider, Mrs. Murphy, Mr. Gomez, Mr. 
- Horsford, Ms. Norton, Ms. Hill of California, Ms. Ocasio-Cortez, and 
- Mr. Taylor) introduced the following bill; which was referred to the 
- Committee on Ways and Means, and in addition to the Committees on the 
-    Budget, and Financial Services, for a period to be subsequently 
-   determined by the Speaker, in each case for consideration of such 
- provisions as fall within the jurisdiction of the committee concerned
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -285,7 +261,7 @@ following new subsection:
                                 which the dispute relates, and
                                     ``(II) in the case of any other 
                                 taxpayer, a taxpayer whose gross 
-                                receipts do not exceed $5,000,000 for 
+                                receipts do not exceed $5 million for 
                                 the taxable year to which the dispute 
                                 relates.
                             ``(ii) Aggregation rule.--Rules similar to 
@@ -976,7 +952,7 @@ and members of underserved populations.
         award a multi-year grant not to exceed 3 years.
             ``(2) Aggregate limitation.--Unless otherwise provided by 
         specific appropriation, the Secretary shall not allocate more 
-        than $30,000,000 per fiscal year (exclusive of costs of 
+        than $30 million per fiscal year (exclusive of costs of 
         administering the program) to grants under this section.
     ``(g) Promotion of Programs.--
             ``(1) In general.--The Secretary shall promote tax 
@@ -1795,7 +1771,7 @@ Internal Revenue Service.--
         For purposes of this subsection, the term ``significant IRS 
         information technology acquisitions'' means--
                     (A) any acquisition of information technology for 
-                the Internal Revenue Service in excess of $1,000,000; 
+                the Internal Revenue Service in excess of $1 million; 
                 and
                     (B) such other acquisitions of information 
                 technology for the Internal Revenue Service (or 
@@ -1900,8 +1876,8 @@ that the program described in subsection (a) complies with applicable
 security standards and guidelines.
     (d) User Fee.--
             (1) In general.--During the 2-year period beginning on the 
-        first day of the 6th calendar month beginning after the date of 
-        the enactment of this Act, the Secretary shall assess and 
+        first day of the sixth calendar month beginning after the date 
+        of the enactment of this Act, the Secretary shall assess and 
         collect a fee for qualified disclosures (in addition to any 
         other fee assessed and collected for such disclosures) at such 
         rates as the Secretary determines are sufficient to cover the 
@@ -2215,4 +2191,21 @@ reference to the latest statement titled ``Budgetary Effects of PAYGO
 Legislation'' for this Act, submitted for printing in the Congressional 
 Record by the Chairman of the House Budget Committee, provided that 
 such statement has been submitted prior to the vote on passage.
-                                 
+
+            Passed the House of Representatives June 10, 2019.
+
+            Attest:
+
+                                                                 Clerk.
+116th CONGRESS
+
+  1st Session
+
+                               H. R. 3151
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+To amend the Internal Revenue Code of 1986 to modernize and improve the 
+           Internal Revenue Service, and for other purposes.
