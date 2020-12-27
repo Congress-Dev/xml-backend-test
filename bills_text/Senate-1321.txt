@@ -2,24 +2,9 @@
   1st Session
                                 S. 1321
 
- To amend title 18, United States Code, to prohibit interference with 
-         voting systems under the Computer Fraud and Abuse Act.
-
-
 _______________________________________________________________________
 
-
-                   IN THE SENATE OF THE UNITED STATES
-
-                              May 6, 2019
-
-Mr. Blumenthal (for himself, Mr. Graham, and Mr. Whitehouse) introduced 
-the following bill; which was read twice and referred to the Committee 
-                            on the Judiciary
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -62,4 +47,21 @@ SEC. 2. PROHIBITION ON INTERFERENCE WITH VOTING SYSTEMS.
             ``(14) the term `voting system' has the meaning given the 
         term in section 301(b) of the Help America Vote Act of 2002 (52 
         U.S.C. 21081(b)).''.
-                                 
+
+            Passed the Senate July 17, 2019.
+
+            Attest:
+
+                                                             Secretary.
+116th CONGRESS
+
+  1st Session
+
+                                S. 1321
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+ To amend title 18, United States Code, to prohibit interference with 
+         voting systems under the Computer Fraud and Abuse Act.
