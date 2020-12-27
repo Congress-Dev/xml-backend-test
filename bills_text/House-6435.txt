@@ -2,25 +2,9 @@
   2d Session
                                 H. R. 6435
 
-   To direct the Federal Trade Commission to develop and disseminate 
-  information to the public about scams related to COVID-19, and for 
-                            other purposes.
-
-
 _______________________________________________________________________
 
-
-                    IN THE HOUSE OF REPRESENTATIVES
-
-                             April 3, 2020
-
-   Mr. Carter of Georgia (for himself, Mr. Hudson, Ms. Kuster of New 
-  Hampshire, and Ms. Blunt Rochester) introduced the following bill; 
-       which was referred to the Committee on Energy and Commerce
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -79,4 +63,31 @@ Consumer Sentinel Network, that tracks instances of scams related to
 COVID-19.
     (c) Commission Defined.--In this section, the term ``Commission'' 
 means the Federal Trade Commission.
-                                 
+
+SEC. 3. DETERMINATION OF BUDGETARY EFFECTS.
+
+    The budgetary effects of this Act, for the purpose of complying 
+with the Statutory Pay-As-You-Go Act of 2010, shall be determined by 
+reference to the latest statement titled ``Budgetary Effects of PAYGO 
+Legislation'' for this Act, submitted for printing in the Congressional 
+Record by the Chairman of the House Budget Committee, provided that 
+such statement has been submitted prior to the vote on passage.
+
+            Passed the House of Representatives November 17, 2020.
+
+            Attest:
+
+                                                                 Clerk.
+116th CONGRESS
+
+  2d Session
+
+                               H. R. 6435
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+   To direct the Federal Trade Commission to develop and disseminate 
+  information to the public about scams related to COVID-19, and for 
+                            other purposes.
