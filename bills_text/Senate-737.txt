@@ -2,25 +2,9 @@
   1st Session
                                  S. 737
 
-  To direct the National Science Foundation to support STEM education 
-                  research focused on early childhood.
-
-
 _______________________________________________________________________
 
-
-                   IN THE SENATE OF THE UNITED STATES
-
-                             March 11, 2019
-
- Ms. Rosen (for herself, Mrs. Capito, Mr. Schatz, Mrs. Blackburn, Ms. 
- Cortez Masto, and Mrs. Fischer) introduced the following bill; which 
-was read twice and referred to the Committee on Commerce, Science, and 
-                             Transportation
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -44,19 +28,20 @@ SEC. 2. FINDINGS.
         scientific activities from an early age develop positive 
         attitudes toward science and are more likely to pursue STEM 
         expertise and careers later on, the majority of current 
-        research focuses on increasing STEM opportunities for middle-
+        research focuses on increasing STEM opportunities for middle 
         school-aged children and older.
             (3) Women remain widely underrepresented in the STEM 
-        workforce, and this gender disparity extends down through all 
-        levels of education.
+        workforce, and this disparity extends down through all levels 
+        of education.
 
-SEC. 3. SUPPORTING EARLY CHILDHOOD STEM EDUCATION RESEARCH.
+SEC. 3. SUPPORTING EARLY CHILDHOOD AND ELEMENTARY STEM EDUCATION 
+              RESEARCH.
 
     In awarding grants under the Discovery Research PreK-12 program, 
 the Director of the National Science Foundation shall consider the age 
 distribution of a STEM education research and development project to 
-improve the focus of research and development on early childhood 
-education.
+improve the focus of research and development on elementary and 
+prekindergarten education.
 
 SEC. 4. SUPPORTING FEMALE STUDENTS IN PREKINDERGARTEN THROUGH 
               ELEMENTARY SCHOOL IN STEM EDUCATION.
@@ -81,10 +66,9 @@ SEC. 4. SUPPORTING FEMALE STUDENTS IN PREKINDERGARTEN THROUGH
                 environment on the willingness of female students in 
                 prekindergarten through elementary school to 
                 participate in STEM activities, including learning 
-                materials and textbooks, classroom decorations, seating 
-                arrangements, use of media and technology, classroom 
-                culture, and gender composition of students during 
-                group work;
+                materials and textbooks, seating arrangements, use of 
+                media and technology, classroom culture, and 
+                composition of students during group work;
                     ``(D) the role of parents and other caregivers in 
                 encouraging or discouraging female students in 
                 prekindergarten through elementary school from 
@@ -93,13 +77,11 @@ SEC. 4. SUPPORTING FEMALE STUDENTS IN PREKINDERGARTEN THROUGH
                 greater participation by female students in 
                 prekindergarten through elementary school;
                     ``(F) the role of mentorship and best practices in 
-                finding and utilizing mentors;
-                    ``(G) the role of informal and out-of-school STEM 
+                finding and utilizing mentors; and
+                    ``(G) the role of informal and after-school STEM 
                 learning opportunities on the perception of and 
                 participation in STEM activities of female students in 
-                prekindergarten through elementary school; and
-                    ``(H) any other area the Director determines will 
-                carry out the goal described in paragraph (1).''.
+                prekindergarten through elementary school.''.
 
 SEC. 5. SUPPORTING FEMALE STUDENTS IN PREKINDERGARTEN THROUGH 
               ELEMENTARY SCHOOL IN COMPUTER SCIENCE EDUCATION.
@@ -113,9 +95,9 @@ SEC. 5. SUPPORTING FEMALE STUDENTS IN PREKINDERGARTEN THROUGH
                 institutes or workshops, designed to strengthen the 
                 capabilities of prekindergarten and elementary school 
                 teachers and to familiarize such teachers with the role 
-                of gender bias in the classroom;
+                of bias against female students in the classroom;
                     ``(B) offering innovative pre-service and in-
-                service programs that instruct teachers on gender-
+                service programs that instruct teachers on female-
                 inclusive practices for teaching computing concepts;
                     ``(C) developing distance learning programs for 
                 teachers or students, including developing curricular 
@@ -126,27 +108,49 @@ SEC. 5. SUPPORTING FEMALE STUDENTS IN PREKINDERGARTEN THROUGH
                     ``(D) developing or adapting prekindergarten and 
                 elementary school computer science curricular materials 
                 that incorporate contemporary research on the science 
-                of learning, particularly with respect to gender 
+                of learning, particularly with respect to female 
                 inclusion;
-                    ``(E) developing and offering gender-inclusive 
+                    ``(E) developing and offering female-inclusive 
                 computer science enrichment programs for students, 
                 including after-school and summer programs;
                     ``(F) providing mentors for female students in 
-                prekindergarten through elementary school in person and 
-                through the Internet to support such students in 
-                participating in computer science activities;
-                    ``(G) engaging female students in prekindergarten 
-                through elementary school and their guardians about the 
-                difficulties faced by such students to maintain an 
-                interest in participating in computer science 
+                prekindergarten through elementary school to support 
+                such students in participating in computer science 
                 activities;
+                    ``(G) engaging female students in prekindergarten 
+                through elementary school, and their guardians (if such 
+                communication takes place on school premises during 
+                otherwise-scheduled conferences or formal conversations 
+                between teachers and guardians) about--
+                            ``(i) the difficulties faced by female 
+                        students with regard to maintaining an interest 
+                        in participating in computer science 
+                        activities; and
+                            ``(ii) the potential positive career 
+                        benefits of engaging in such activities;
                     ``(H) acquainting female students in 
                 prekindergarten through elementary school with careers 
                 in computer science and encouraging such students to 
-                consider careers in such field;
+                consider careers in the computer science field; and
                     ``(I) developing tools to evaluate activities 
-                conducted under this subsection; and
-                    ``(J) any other tools or models the Director 
-                determines will accomplish the aim described in 
-                paragraph (2)(C).''.
-                                 
+                conducted under this subsection, including reports for 
+                evaluating the effectiveness of activities under this 
+                section.''.
+
+            Passed the Senate September 26, 2019.
+
+            Attest:
+
+                                                             Secretary.
+116th CONGRESS
+
+  1st Session
+
+                                 S. 737
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+  To direct the National Science Foundation to support STEM education 
+                  research focused on early childhood.
