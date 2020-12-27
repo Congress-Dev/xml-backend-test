@@ -2,26 +2,13 @@
   1st Session
                                  S. 134
 
-    To amend title 18, United States Code, with regard to stalking.
-
-
 _______________________________________________________________________
 
-
-                   IN THE SENATE OF THE UNITED STATES
-
-                            January 15, 2019
-
- Mr. Toomey (for himself and Mr. Casey) introduced the following bill; 
-  which was read twice and referred to the Committee on the Judiciary
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
-    To amend title 18, United States Code, with regard to stalking.
+     To amend title 18, United States Code, with regard to stalking.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
@@ -57,7 +44,7 @@ after the item relating to section 2261A the following new item:
 ``2261B. Enhanced penalty for stalkers of children.''.
     (c) Conforming Amendment.--Section 2261A of title 18, United States 
 Code, is amended by striking ``section 2261(b) of this title'' and 
-inserting ``section 2261(b) or section 2262B, as the case may be''.
+inserting ``section 2261(b) or section 2261B, as the case may be''.
 
 SEC. 3. REPORT ON BEST PRACTICES REGARDING ENFORCEMENT OF ANTI-STALKING 
               LAWS.
@@ -69,4 +56,20 @@ the Attorney General shall submit a report to Congress, which shall--
             (2) identify and describe those elements of such efforts 
         that constitute the best practices for the enforcement of such 
         laws.
-                                 
+
+            Passed the Senate October 28, 2019.
+
+            Attest:
+
+                                                             Secretary.
+116th CONGRESS
+
+  1st Session
+
+                                 S. 134
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+     To amend title 18, United States Code, with regard to stalking.
