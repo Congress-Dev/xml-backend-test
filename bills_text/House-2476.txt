@@ -2,44 +2,9 @@
   1st Session
                                 H. R. 2476
 
-To amend the Homeland Security Act of 2002 to provide funding to secure 
-  nonprofit facilities from terrorist attacks, and for other purposes.
-
-
 _______________________________________________________________________
 
-
-                    IN THE HOUSE OF REPRESENTATIVES
-
-                              May 2, 2019
-
- Mr. Thompson of Mississippi (for himself, Mr. Payne, Mr. King of New 
- York, Mr. Pascrell, Mr. Stivers, Mr. Rose of New York, Mr. Balderson, 
-Mr. Cohen, Ms. Moore, Ms. Norton, Mr. Rush, Miss Rice of New York, Mr. 
-    Green of Texas, Ms. Speier, Mrs. Watson Coleman, Mr. Tonko, Mr. 
-Espaillat, Ms. Titus, Ms. Clarke of New York, Ms. Bass, Ms. Schakowsky, 
- Ms. Slotkin, Mr. Richmond, Mr. Higgins of New York, Mr. Langevin, Mr. 
-   Pallone, Mr. Welch, Ms. Jackson Lee, Mr. Meeks, Mr. Hastings, Mr. 
-  Raskin, Mr. Lowenthal, Mr. McGovern, Ms. Kaptur, Ms. Houlahan, Ms. 
-Velazquez, Mr. Danny K. Davis of Illinois, Ms. McCollum, Mr. Michael F. 
-   Doyle of Pennsylvania, Mr. Engel, Mrs. Demings, Mr. Norcross, Mr. 
-   Johnson of Georgia, Ms. Brownley of California, Mr. Sarbanes, Mr. 
- Evans, Mrs. Dingell, Mrs. Beatty, Ms. Kelly of Illinois, Mr. Turner, 
-  Mr. Correa, Mr. Lynch, Mr. Gibbs, Mr. Joyce of Ohio, Ms. Meng, Ms. 
-  Barragan, Ms. Eshoo, Mr. Fitzpatrick, Mr. Cooper, Mr. Cleaver, Mr. 
-Gottheimer, Ms. Stevens, Mr. Ryan, Mr. Cisneros, Mr. Gonzalez of Ohio, 
-Mr. Hurd of Texas, Ms. Bonamici, Ms. Gabbard, Ms. Underwood, Mr. Lamb, 
- Mr. Peters, Mr. Harder of California, Mr. Lipinski, Mr. Smith of New 
- Jersey, Mr. DeFazio, Ms. Frankel, Mr. Carbajal, Mr. Bera, Ms. Torres 
-Small of New Mexico, Mr. Ted Lieu of California, Mr. Himes, Mrs. Axne, 
- Mr. McCaul, Mr. Bacon, Miss Gonzalez-Colon of Puerto Rico, Ms. Fudge, 
-Mr. Schneider, Ms. Haaland, Mr. Blumenauer, Ms. Dean, Mr. Wenstrup, Mr. 
-  Courtney, and Mr. Chabot) introduced the following bill; which was 
-             referred to the Committee on Homeland Security
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -98,14 +63,14 @@ the expenditure by each grant recipient of grant funds made under this
 section.
     ``(f) Authorization of Appropriations.--
             ``(1) In general.--There is authorized to be appropriated 
-        $75,000,000 for each of fiscal years 2020 through 2024 to carry 
+        $75 million for each of fiscal years 2020 through 2024 to carry 
         out this section.
             ``(2) Specification.--Of the amounts authorized to be 
         appropriated pursuant to paragraph (1)--
-                    ``(A) $50,000,000 is authorized for eligible 
+                    ``(A) $50 million is authorized for eligible 
                 recipients located in jurisdictions that receive 
                 funding under section 2003; and
-                    ``(B) $25,000,000 is authorized for eligible 
+                    ``(B) $25 million is authorized for eligible 
                 recipients in jurisdictions not receiving funding under 
                 section 2003.''.
     (b) Conforming Amendment.--Subsection (a) of section 2002 of the 
@@ -116,5 +81,22 @@ Homeland Security Act of 2002 (6 U.S.C. 603) is amended by striking
 the Homeland Security Act of 2002 is amended by inserting after the 
 item relating to section 2008 the following new item:
 
-``Sec. 2009. Nonprofit security grant program.''
-                                 
+``Sec. 2009. Nonprofit security grant program.''.
+
+            Passed the House of Representatives June 10, 2019.
+
+            Attest:
+
+                                                                 Clerk.
+116th CONGRESS
+
+  1st Session
+
+                               H. R. 2476
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+To amend the Homeland Security Act of 2002 to provide funding to secure 
+  nonprofit facilities from terrorist attacks, and for other purposes.
