@@ -1,49 +1,42 @@
-116th CONGRESS
-  2d Session
-                                H. R. 8906
+        H.R.8906
+
+                     One Hundred Sixteenth Congress
+
+                                 of the
+
+                        United States of America
 
 
-_______________________________________________________________________
+                          AT THE SECOND SESSION
+
+           Begun and held at the City of Washington on Friday,
+            the third day of January, two thousand and twenty
 
 
-                   IN THE SENATE OF THE UNITED STATES
-
-                           December 11, 2020
-
-                                Received
-
-_______________________________________________________________________
-
-                                 AN ACT
+                                 An Act
 
 
  
 To amend title XXIX of the Public Health Service Act to reauthorize the 
-      program under such title relating to lifespan respite care.
+       program under such title relating to lifespan respite care.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
-
 SECTION 1. SHORT TITLE.
-
     This Act may be cited as the ``Lifespan Respite Care 
 Reauthorization Act of 2020''.
-
 SEC. 2. REAUTHORIZATION OF LIFESPAN RESPITE CARE PROGRAM.
-
     (a) Data Collection and Reporting.--Section 2904 of the Public 
 Health Service Act (42 U.S.C. 300ii-3) is amended to read as follows:
-
 ``SEC. 2904. DATA COLLECTION AND REPORTING.
-
     ``(a) In General.--Each State agency awarded a grant or cooperative 
 agreement under section 2902 shall report such data, information, and 
 metrics as the Secretary may require for purposes of--
-            ``(1) evaluating State programs and activities funded 
-        pursuant to such grant or cooperative agreement, including any 
-        results pursuant to section 2902(d)(2)(B)(xii); and
-            ``(2) identifying effective programs and activities funded 
-        pursuant to section 2902.
+        ``(1) evaluating State programs and activities funded pursuant 
+    to such grant or cooperative agreement, including any results 
+    pursuant to section 2902(d)(2)(B)(xii); and
+        ``(2) identifying effective programs and activities funded 
+    pursuant to section 2902.
     ``(b) Report.--Not later than October 1, 2023, the Secretary shall 
 submit a report to the Committee on Health, Education, Labor, and 
 Pensions of the Senate and the Committee on Energy and Commerce of the 
@@ -55,10 +48,7 @@ U.S.C. 300ii-4) is amended by striking ``title'' and all that follows
 through the period and inserting ``title, $10,000,000 for each of 
 fiscal years 2020 through fiscal year 2024.''.
 
-            Passed the House of Representatives December 10, 2020.
+                               Speaker of the House of Representatives.
 
-            Attest:
-
-                                             CHERYL L. JOHNSON,
-
-                                                                 Clerk.
+                            Vice President of the United States and    
+                                               President of the Senate.
