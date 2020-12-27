@@ -2,25 +2,9 @@
   1st Session
                                 H. R. 1812
 
-     To amend title 38, United States Code, to furnish Vet Center 
- readjustment counseling and related mental health services to certain 
-                              individuals.
-
-
 _______________________________________________________________________
 
-
-                    IN THE HOUSE OF REPRESENTATIVES
-
-                             March 18, 2019
-
-Mr. David P. Roe of Tennessee (for himself and Mr. Levin of California) 
- introduced the following bill; which was referred to the Committee on 
-                           Veterans' Affairs
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -66,4 +50,31 @@ SEC. 2. EXPANSION OF VET CENTER SERVICES.
         term in section 101 of title 10.
             ``(5) The term `civil disorder' has the meaning given that 
         term in section 232 of title 18.''.
-                                 
+
+SEC. 3. PLAN TO PROVIDE VET CENTER SERVICES TO VETERANS LIVING IN AREAS 
+              WHERE NO VET CENTER IS LOCATED.
+
+    The Secretary of Veterans Affairs shall submit to the Committees on 
+Veterans' Affairs of the Senate and House of Representatives a plan to 
+provide Vet Center services to veterans living in geographic areas 
+where no Vet Center is located, including in the United States insular 
+areas.
+
+            Passed the House of Representatives May 21, 2019.
+
+            Attest:
+
+                                                                 Clerk.
+116th CONGRESS
+
+  1st Session
+
+                               H. R. 1812
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+     To amend title 38, United States Code, to furnish Vet Center 
+ readjustment counseling and related mental health services to certain 
+                              individuals.
