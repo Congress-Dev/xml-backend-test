@@ -1,36 +1,31 @@
-116th CONGRESS
-  2d Session
-                                H. R. 6074
+        H.R.6074
+
+                     One Hundred Sixteenth Congress
+
+                                 of the
+
+                        United States of America
 
 
-_______________________________________________________________________
+                          AT THE SECOND SESSION
+
+           Begun and held at the City of Washington on Friday,
+            the third day of January, two thousand and twenty
 
 
-                   IN THE SENATE OF THE UNITED STATES
-
-                             March 4, 2020
-
-                                Received
-
-_______________________________________________________________________
-
-                                 AN ACT
+                                 An Act
 
 
  
 Making emergency supplemental appropriations for the fiscal year ending 
-              September 30, 2020, and for other purposes.
+               September 30, 2020, and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
-
 SECTION 1. SHORT TITLE.
-
     This Act may be cited as the ``Coronavirus Preparedness and 
 Response Supplemental Appropriations Act, 2020''.
-
 SEC. 2. REFERENCES.
-
     Except as expressly provided otherwise, any reference to ``this 
 Act'' contained in any division of this Act shall be treated as 
 referring only to the provisions of that division.
@@ -277,9 +272,9 @@ Secretary of the Health and Human Services to appoint, without regard
 to the provisions of sections 3309 through 3319 of title 5 of the 
 United States Code, candidates needed for positions to perform critical 
 work relating to coronavirus for which--
-            (1) public notice has been given; and
-            (2) the Secretary has determined that such a public health 
-        threat exists.
+        (1) public notice has been given; and
+        (2) the Secretary has determined that such a public health 
+    threat exists.
     Sec. 303.  Funds made available by this title may be used to enter 
 into contracts with individuals for the provision of personal services 
 (as described in section 104 of part 37 of title 48, Code of Federal 
@@ -540,94 +535,79 @@ Response Supplemental Appropriations Act, 2020''.
 
     DIVISION B--TELEHEALTH SERVICES DURING CERTAIN EMERGENCY PERIODS
 
-SEC. 101. SHORT TITLE.
-
+    SEC. 101. SHORT TITLE.
     This division may be cited as the ``Telehealth Services During 
 Certain Emergency Periods Act of 2020''.
-
-SEC. 102. SECRETARIAL AUTHORITY TO TEMPORARILY WAIVE OR MODIFY 
-              APPLICATION OF CERTAIN MEDICARE REQUIREMENTS WITH RESPECT 
-              TO TELEHEALTH SERVICES FURNISHED DURING CERTAIN EMERGENCY 
-              PERIODS.
-
+    SEC. 102. SECRETARIAL AUTHORITY TO TEMPORARILY WAIVE OR MODIFY 
+      APPLICATION OF CERTAIN MEDICARE REQUIREMENTS WITH RESPECT TO 
+      TELEHEALTH SERVICES FURNISHED DURING CERTAIN EMERGENCY PERIODS.
     (a) In General.--
-            (1) Waiver authority.--The first sentence of section 
-        1135(b) of the Social Security Act (42 U.S.C. 1320b-5(b)) is 
-        amended--
-                    (A) in paragraph (6), by striking ``and'' at the 
-                end;
-                    (B) in paragraph (7), by striking the period at the 
-                end and inserting ``; and''; and
-                    (C) by inserting after paragraph (7) the following 
-                new paragraph:
-            ``(8) in the case of a telehealth service (as defined in 
-        paragraph (4)(F) of section 1834(m)) furnished in any emergency 
-        area (or portion of such an area) during any portion of any 
-        emergency period to an individual by a qualified provider (as 
-        defined in subsection (g)(3))--
-                    ``(A) the requirements of paragraph (4)(C) of such 
-                section, except that a facility fee under paragraph 
-                (2)(B)(i) of such section may only be paid to an 
-                originating site that is a site described in any of 
-                subclauses (I) through (IX) of paragraph (4)(C)(ii) of 
-                such section; and
-                    ``(B) the restriction on use of a telephone 
-                described in the second sentence of section 
-                410.78(a)(3) of title 42, Code of Federal Regulations 
-                (or a successor regulation), but only if such telephone 
-                has audio and video capabilities that are used for two-
-                way, real-time interactive communication.''.
-            (2) Definition of qualified provider.--Section 1135(g) of 
-        the Social Security Act (42 U.S.C. 1320b-5(g)) is amended by 
-        adding at the end the following new paragraph:
-            ``(3) Qualified provider.--The term `qualified provider' 
-        means, with respect a telehealth service (as defined in 
-        paragraph (4)(F) of section 1834(m)) furnished to an 
-        individual, a physician or practitioner (as defined in 
-        paragraph (4)(D) or (4)(E), respectively, of such section) 
-        who--
-                    ``(A) furnished to such individual an item or 
-                service for which payment was made under title XVIII 
-                during the 3-year period ending on the date such 
-                telehealth service was furnished; or
-                    ``(B) is in the same practice (as determined by tax 
-                identification number) of a physician or practitioner 
-                (as so defined) who furnished such an item or service 
-                to such individual during such period.''.
-            (3) Implementation.--The Secretary of Health and Human 
-        Services may implement the amendments made by this subsection 
-        by program instruction or otherwise.
+        (1) Waiver authority.--The first sentence of section 1135(b) of 
+    the Social Security Act (42 U.S.C. 1320b-5(b)) is amended--
+            (A) in paragraph (6), by striking ``and'' at the end;
+            (B) in paragraph (7), by striking the period at the end and 
+        inserting ``; and''; and
+            (C) by inserting after paragraph (7) the following new 
+        paragraph:
+        ``(8) in the case of a telehealth service (as defined in 
+    paragraph (4)(F) of section 1834(m)) furnished in any emergency 
+    area (or portion of such an area) during any portion of any 
+    emergency period to an individual by a qualified provider (as 
+    defined in subsection (g)(3))--
+            ``(A) the requirements of paragraph (4)(C) of such section, 
+        except that a facility fee under paragraph (2)(B)(i) of such 
+        section may only be paid to an originating site that is a site 
+        described in any of subclauses (I) through (IX) of paragraph 
+        (4)(C)(ii) of such section; and
+            ``(B) the restriction on use of a telephone described in 
+        the second sentence of section 410.78(a)(3) of title 42, Code 
+        of Federal Regulations (or a successor regulation), but only if 
+        such telephone has audio and video capabilities that are used 
+        for two-way, real-time interactive communication.''.
+        (2) Definition of qualified provider.--Section 1135(g) of the 
+    Social Security Act (42 U.S.C. 1320b-5(g)) is amended by adding at 
+    the end the following new paragraph:
+        ``(3) Qualified provider.--The term `qualified provider' means, 
+    with respect a telehealth service (as defined in paragraph (4)(F) 
+    of section 1834(m)) furnished to an individual, a physician or 
+    practitioner (as defined in paragraph (4)(D) or (4)(E), 
+    respectively, of such section) who--
+            ``(A) furnished to such individual an item or service for 
+        which payment was made under title XVIII during the 3-year 
+        period ending on the date such telehealth service was 
+        furnished; or
+            ``(B) is in the same practice (as determined by tax 
+        identification number) of a physician or practitioner (as so 
+        defined) who furnished such an item or service to such 
+        individual during such period.''.
+        (3) Implementation.--The Secretary of Health and Human Services 
+    may implement the amendments made by this subsection by program 
+    instruction or otherwise.
     (b) Clarification of Definitions of Emergency Area and Emergency 
 Period.--Paragraph (1) of section 1135(g) of the Social Security Act 
 (42 U.S.C. 1320b-5(g)) is amended to read as follows:
-            ``(1) Emergency area; emergency period.--
-                    ``(A) In general.--Subject to subparagraph (B), an 
-                `emergency area' is a geographical area in which, and 
-                an `emergency period' is the period during which, there 
-                exists--
-                            ``(i) an emergency or disaster declared by 
-                        the President pursuant to the National 
-                        Emergencies Act or the Robert T. Stafford 
-                        Disaster Relief and Emergency Assistance Act; 
-                        and
-                            ``(ii) a public health emergency declared 
-                        by the Secretary pursuant to section 319 of the 
-                        Public Health Service Act.
-                    ``(B) Exception.--For purposes of subsection 
-                (b)(8), an `emergency area' is a geographical area in 
-                which, and an `emergency period' is the period during 
-                which, there exists--
-                            ``(i) the public health emergency declared 
-                        by the Secretary pursuant to section 319 of the 
-                        Public Health Service Act on January 31, 2020, 
-                        entitled `Determination that a Public Health 
-                        Emergency Exists Nationwide as the Result of 
-                        the 2019 Novel Coronavirus'; and
-                            ``(ii) any renewal of such declaration 
-                        pursuant to such section 319.''.
-
-SEC. 103. BUDGETARY EFFECTS.
-
+        ``(1) Emergency area; emergency period.--
+            ``(A) In general.--Subject to subparagraph (B), an 
+        `emergency area' is a geographical area in which, and an 
+        `emergency period' is the period during which, there exists--
+                ``(i) an emergency or disaster declared by the 
+            President pursuant to the National Emergencies Act or the 
+            Robert T. Stafford Disaster Relief and Emergency Assistance 
+            Act; and
+                ``(ii) a public health emergency declared by the 
+            Secretary pursuant to section 319 of the Public Health 
+            Service Act.
+            ``(B) Exception.--For purposes of subsection (b)(8), an 
+        `emergency area' is a geographical area in which, and an 
+        `emergency period' is the period during which, there exists--
+                ``(i) the public health emergency declared by the 
+            Secretary pursuant to section 319 of the Public Health 
+            Service Act on January 31, 2020, entitled `Determination 
+            that a Public Health Emergency Exists Nationwide as the 
+            Result of the 2019 Novel Coronavirus'; and
+                ``(ii) any renewal of such declaration pursuant to such 
+            section 319.''.
+    SEC. 103. BUDGETARY EFFECTS.
     (a) Statutory PAYGO Scorecards.--The budgetary effects of this 
 division shall not be entered on either PAYGO scorecard maintained 
 pursuant to section 4(d) of the Statutory Pay-As-You-Go Act of 2010.
@@ -640,15 +620,12 @@ statement of the committee of conference accompanying Conference Report
 105-217 and section 250(c)(8) of the Balanced Budget and Emergency 
 Deficit Control Act of 1985, the budgetary effects of this division 
 shall not be estimated--
-            (1) for purposes of section 251 of such Act; and
-            (2) for purposes of paragraph (4)(C) of section 3 of the 
-        Statutory Pay-As-You-Go Act of 2010 as being included in an 
-        appropriation Act.
+        (1) for purposes of section 251 of such Act; and
+        (2) for purposes of paragraph (4)(C) of section 3 of the 
+    Statutory Pay-As-You-Go Act of 2010 as being included in an 
+    appropriation Act.
 
-            Passed the House of Representatives March 4, 2020.
+                               Speaker of the House of Representatives.
 
-            Attest:
-
-                                             CHERYL L. JOHNSON,
-
-                                                                 Clerk.
+                            Vice President of the United States and    
+                                               President of the Senate.
