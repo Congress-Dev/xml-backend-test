@@ -2,25 +2,9 @@
   1st Session
                                  S. 212
 
-To amend the Native American Business Development, Trade Promotion, and 
-   Tourism Act of 2000, the Buy Indian Act, and the Native American 
-   Programs Act of 1974 to provide industry and economic development 
-                  opportunities to Indian communities.
-
-
 _______________________________________________________________________
 
-
-                   IN THE SENATE OF THE UNITED STATES
-
-                            January 24, 2019
-
-  Mr. Hoeven introduced the following bill; which was read twice and 
-              referred to the Committee on Indian Affairs
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -265,10 +249,11 @@ Institutions, as defined by the Secretary of the Treasury, section
                 demand by Indian Tribes, individuals, businesses, and 
                 communities of the programs, the capital needs of 
                 Indian Tribes, businesses, and communities related to 
-                economic development, and the extent that similar 
-                programs have been used to assist non-Indian 
-                communities compared to the extent used for Indian 
-                communities.
+                economic development, the extent to which the programs 
+                and services overlap or are duplicative, and the extent 
+                that similar programs have been used to assist non-
+                Indian communities compared to the extent used for 
+                Indian communities.
                     ``(B) Financing assistance.--The study shall assess 
                 and quantify the extent of assistance provided to non-
                 Indian borrowers and to Indian (both Tribal and 
@@ -515,4 +500,23 @@ Programs Act of 1974 (42 U.S.C. 2991 et seq.) is amended--
         inserting ``Tribes''; and
             (3) by striking ``tribal'' each place the term appears and 
         inserting ``Tribal''.
-                                 
+
+            Passed the Senate June 27, 2019.
+
+            Attest:
+
+                                                             Secretary.
+116th CONGRESS
+
+  1st Session
+
+                                 S. 212
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+To amend the Native American Business Development, Trade Promotion, and 
+   Tourism Act of 2000, the Buy Indian Act, and the Native American 
+   Programs Act of 1974 to provide industry and economic development 
+                  opportunities to Indian communities.
