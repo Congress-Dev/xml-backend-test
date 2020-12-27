@@ -2,24 +2,9 @@
   1st Session
                                 H. R. 3311
 
-    To amend chapter 11 of title 11, United States Code, to address 
-      reorganization of small businesses, and for other purposes.
-
-
 _______________________________________________________________________
 
-
-                    IN THE HOUSE OF REPRESENTATIVES
-
-                             June 18, 2019
-
-Mr. Cline (for himself, Mr. Cicilline, Mr. Collins of Georgia, and Mr. 
-    Cohen) introduced the following bill; which was referred to the 
-                       Committee on the Judiciary
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -66,7 +51,7 @@ individual under section 586(b) of title 28 to serve as standing
 trustee in cases under this subchapter, and if such individual 
 qualifies as a trustee under section 322 of this title, then that 
 individual shall serve as trustee in any case under this subchapter. 
-Otherwise, the United States trustee shall appoint 1 disinterested 
+Otherwise, the United States trustee shall appoint one disinterested 
 person to serve as trustee in the case or the United States trustee may 
 serve as trustee in the case, as necessary.
     ``(b) Duties.--The trustee shall--
@@ -409,7 +394,7 @@ subchapter V of chapter 11 shall apply.'';
         ``1163,'';
             (4) in section 326--
                     (A) in subsection (a), by inserting ``, other than 
-                a case under subchapter V of chapter 11,'' after ``7 or 
+                a case under subchapter V of chapter 11'' after ``7 or 
                 11''; and
                     (B) in subsection (b), by inserting ``subchapter V 
                 of chapter 11 or'' after ``In a case under'';
@@ -426,7 +411,7 @@ subchapter V of chapter 11 shall apply.'';
             (7) in section 364(a), by inserting ``1183, 1184,'' after 
         ``1108,'';
             (8) in section 523(a), in the matter preceding paragraph 
-        (1), by inserting ``1192,'' after ``1141,'';
+        (1), by inserting ``1192'' after ``1141,'';
             (9) in section 524--
                     (A) in subsection (a)--
                             (i) in paragraph (1), by inserting 
@@ -451,7 +436,8 @@ subchapter V of chapter 11 shall apply.'';
                     (A) in subsection (a)(3), by inserting ``(including 
                 subchapter V of chapter 11)'' after ``7, 11'';
                     (B) in subsection (b), by inserting ``subchapter V 
-                of chapter 11 or'' after ``cases under'';
+                of chapter 11 or'' after ``cases under'' the first 
+                place it appears;
                     (C) in subsection (d)(1), by inserting ``subchapter 
                 V of chapter 11 or'' after ``cases under'' each place 
                 that term appears; and
@@ -487,4 +473,30 @@ SEC. 5. EFFECTIVE DATE.
 
     This Act and the amendments made by this Act shall take effect 180 
 days after the date of enactment of this Act.
-                                 
+
+SEC. 6. DETERMINATION OF BUDGETARY EFFECTS.
+
+    The budgetary effects of this Act, for the purpose of complying 
+with the Statutory Pay-As-You-Go Act of 2010, shall be determined by 
+reference to the latest statement titled ``Budgetary Effects of PAYGO 
+Legislation'' for this Act, submitted for printing in the Congressional 
+Record by the Chairman of the House Budget Committee, provided that 
+such statement has been submitted prior to the vote on passage.
+
+            Passed the House of Representatives July 23, 2019.
+
+            Attest:
+
+                                                                 Clerk.
+116th CONGRESS
+
+  1st Session
+
+                               H. R. 3311
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+    To amend chapter 11 of title 11, United States Code, to address 
+      reorganization of small businesses, and for other purposes.
