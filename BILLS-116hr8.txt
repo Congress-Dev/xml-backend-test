@@ -2,6 +2,8 @@
   1st Session
                                  H. R. 8
 
+                          [Report No. 116-11]
+
          To require a background check for every firearm sale.
 
 
@@ -18,6 +20,71 @@ _______________________________________________________________________
  introduced the following bill; which was referred to the Committee on 
                              the Judiciary
 
+                           February 22, 2019
+
+   Additional sponsors: Mr. Peters, Mr. Swalwell of California, Ms. 
+  Bonamici, Mrs. Trahan, Mr. Keating, Ms. Clark of Massachusetts, Mr. 
+ Deutch, Mr. Cisneros, Mr. Quigley, Ms. Dean, Mr. Levin of California, 
+Ms. Mucarsel-Powell, Ms. Pressley, Mrs. Kirkpatrick, Mr. Hastings, Mr. 
+Carbajal, Mr. O'Halleran, Ms. Johnson of Texas, Ms. Haaland, Mr. Rouda, 
+  Ms. Shalala, Ms. Wasserman Schultz, Mr. Sean Patrick Maloney of New 
+   York, Ms. Frankel, Mr. Soto, Ms. Omar, Ms. Wexton, Ms. Tlaib, Mr. 
+   Panetta, Mr. Crow, Mr. Malinowski, Mrs. Davis of California, Mr. 
+   Cardenas, Mr. Lynch, Mr. DeSaulnier, Mr. Smith of Washington, Mr. 
+Suozzi, Ms. Garcia of Texas, Mr. Schneider, Mr. Horsford, Mr. Courtney, 
+  Mr. Brendan F. Boyle of Pennsylvania, Mr. Khanna, Ms. Sherrill, Ms. 
+  Schrier, Mr. Stanton, Mr. Gallego, Mr. Cummings, Ms. Velazquez, Mr. 
+Morelle, Mr. Beyer, Mr. Espaillat, Miss Rice of New York, Mrs. Carolyn 
+   B. Maloney of New York, Ms. Titus, Mr. Larson of Connecticut, Mr. 
+   Phillips, Mrs. Bustos, Mr. Perlmutter, Ms. Lee of California, Mr. 
+ Neguse, Mr. Yarmuth, Mr. Gottheimer, Mr. Serrano, Ms. Schakowsky, Mr. 
+Pascrell, Mr. Pallone, Ms. Roybal-Allard, Mr. Engel, Mr. McNerney, Mr. 
+Norcross, Mr. Michael F. Doyle of Pennsylvania, Mr. Scott of Virginia, 
+ Mr. Himes, Ms. Scanlon, Mr. Ruppersberger, Mr. Kildee, Mr. Higgins of 
+ New York, Mr. Sires, Ms. Wild, Ms. Brownley of California, Ms. Moore, 
+  Mr. Connolly, Mrs. Lowey, Ms. Houlahan, Mrs. Lawrence, Ms. Hill of 
+California, Mr. Blumenauer, Mrs. Dingell, Mr. Takano, Mr. Moulton, Mrs. 
+   Watson Coleman, Mr. Veasey, Mr. Pocan, Ms. Pingree, Ms. Meng, Mr. 
+ Cicilline, Mr. Sarbanes, Mr. Rush, Mr. Levin of Michigan, Mr. Lewis, 
+Mr. Brown of Maryland, Mr. Cohen, Ms. DeLauro, Ms. Norton, Mr. Vargas, 
+Mr. Welch, Mr. Cooper, Ms. McCollum, Mr. Garcia of Illinois, Mr. Vela, 
+    Mr. Lipinski, Mr. Evans, Mr. Ryan, Mr. Huffman, Mr. Ted Lieu of 
+California, Mrs. Napolitano, Ms. Adams, Mr. Richmond, Ms. DelBene, Mr. 
+Correa, Mr. Rose of New York, Mrs. Murphy, Mr. Pappas, Ms. Gabbard, Mr. 
+Tonko, Mr. Trone, Ms. Porter, Mr. Langevin, Ms. Speier, Mr. Crist, Mr. 
+McEachin, Ms. Sanchez, Mr. Lawson of Florida, Mr. Larsen of Washington, 
+Ms. Wilson of Florida, Mr. Kilmer, Ms. Matsui, Ms. DeGette, Mr. Raskin, 
+  Mr. Hoyer, Mr. David Scott of Georgia, Ms. Eshoo, Ms. Lofgren, Mrs. 
+ Hayes, Ms. Stevens, Mr. Casten of Illinois, Mr. Garamendi, Ms. Kuster 
+  of New Hampshire, Mr. Lujan, Ms. Clarke of New York, Ms. Castor of 
+    Florida, Mr. Kim, Mr. Price of North Carolina, Ms. Escobar, Mr. 
+    Visclosky, Mr. Sherman, Mr. Kennedy, Mr. Schiff, Mr. Johnson of 
+   Georgia, Ms. Sewell of Alabama, Mr. Lowenthal, Mr. Grijalva, Mrs. 
+ Beatty, Mr. McGovern, Mrs. Luria, Mr. Carson of Indiana, Ms. Waters, 
+    Mr. Payne, Mr. Allred, Mr. Foster, Mr. Aguilar, Ms. Judy Chu of 
+  California, Mr. Bera, Mr. Van Drew, Ms. Plaskett, Mrs. Demings, Mr. 
+ Harder of California, Ms. Fudge, Mrs. Lee of Nevada, Mr. DeFazio, Mr. 
+ Danny K. Davis of Illinois, Ms. Spanberger, Mr. Cartwright, Mr. Lamb, 
+   Mr. Jeffries, Mr. Krishnamoorthi, Mrs. Torres of California, Mr. 
+ Butterfield, Mrs. Craig, Mr. Neal, Mr. Heck, Ms. Blunt Rochester, Ms. 
+ Underwood, Mr. San Nicolas, Mr. Costa, Ms. Barragan, Mr. Clyburn, Mr. 
+  Cox of California, Mr. Doggett, Mr. Green of Texas, Mr. Meeks, Mr. 
+ Clay, Mr. Cleaver, Mr. Gomez, Ms. Jayapal, Ms. Kaptur, Mr. Ruiz, Mr. 
+ Castro of Texas, Mr. Loebsack, Mr. Delgado, Mr. Case, Mr. Thompson of 
+ Mississippi, Ms. Bass, Ms. Davids of Kansas, Ms. Ocasio-Cortez, Mrs. 
+   Axne, Mrs. Fletcher, Mr. Sablan, Ms. Slotkin, Ms. Finkenauer, Mr. 
+                      Schrader, and Mr. Cunningham
+
+                           February 22, 2019
+
+  Reported with an amendment, committed to the Committee of the Whole 
+       House on the State of the Union, and ordered to be printed
+ [Strike out all after the enacting clause and insert the part printed 
+                               in italic]
+[For text of introduced bill, see copy of bill as introduced on January 
+                                8, 2019]
+
+
 _______________________________________________________________________
 
                                  A BILL
@@ -25,6 +92,10 @@ _______________________________________________________________________
 
  
          To require a background check for every firearm sale.
+
+
+ 
+
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
@@ -143,5 +214,5 @@ construed to--
 
 SEC. 6. EFFECTIVE DATE.
 
-    The amendments made by this Act shall take effect 180 days after 
+    The amendments made by this Act shall take effect 210 days after 
 the date of the enactment of this Act.
