@@ -1,26 +1,10 @@
 116th CONGRESS
-  1st Session
+  2d Session
                                 S. 1153
 
-   To explicitly make unauthorized access to Department of Education 
-information technology systems and the misuse of identification devices 
-         issued by the Department of Education a criminal act.
-
-
 _______________________________________________________________________
 
-
-                   IN THE SENATE OF THE UNITED STATES
-
-                             April 11, 2019
-
- Ms. Baldwin (for herself, Mr. Braun, Mrs. Shaheen, and Mrs. Fischer) 
-introduced the following bill; which was read twice and referred to the 
-          Committee on Health, Education, Labor, and Pensions
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -202,4 +186,22 @@ SEC. 6. EFFECTIVE DATE.
 
     This Act, and the amendments made by this Act, shall take effect on 
 the date that is 180 days after the date of enactment of this Act.
-                                 
+
+            Passed the Senate December 1, 2020.
+
+            Attest:
+
+                                                             Secretary.
+116th CONGRESS
+
+  2d Session
+
+                                S. 1153
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+   To explicitly make unauthorized access to Department of Education 
+information technology systems and the misuse of identification devices 
+         issued by the Department of Education a criminal act.
