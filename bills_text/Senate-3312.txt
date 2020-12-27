@@ -2,24 +2,9 @@
   2d Session
                                 S. 3312
 
-    To establish a crisis stabilization and community reentry grant 
-                    program, and for other purposes.
-
-
 _______________________________________________________________________
 
-
-                   IN THE SENATE OF THE UNITED STATES
-
-                           February 13, 2020
-
- Mr. Cornyn (for himself and Mr. Blumenthal) introduced the following 
-    bill; which was read twice and referred to the Committee on the 
-                               Judiciary
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -47,19 +32,21 @@ amended by inserting after part NN the following:
     ``(a) In General.--The Attorney General may make grants under this 
 part to States, for use by State and local correctional facilities, for 
 the purpose of providing clinical services for people with serious 
-mental illness that establish treatment, suicide prevention, and 
-continuity of recovery in the community upon release from the 
-correctional facility.
+mental illness and substance use disorders that establish treatment, 
+suicide prevention, and continuity of recovery in the community upon 
+release from the correctional facility.
     ``(b) Use of Funds.--A grant awarded under this part shall be used 
 to support--
             ``(1) programs involving criminal and juvenile justice 
-        agencies, mental health agencies, and community-based 
-        behavioral health providers that improve clinical stabilization 
-        during incarceration and continuity of care leading to recovery 
-        in the community by providing services and supports that may 
-        include peer support services, enrollment in health care, and 
-        introduction to long-acting injectable medications or, as 
-        clinically indicated, other medications, by--
+        agencies, mental health agencies, community-based organizations 
+        that focus on reentry, and community-based behavioral health 
+        providers that improve clinical stabilization during pre-trial 
+        detention and incarceration and continuity of care leading to 
+        recovery in the community by providing services and supports 
+        that may include peer support services, enrollment in 
+        healthcare, and introduction to long-acting injectable 
+        medications or, as clinically indicated, other medications, 
+        by--
                     ``(A) providing training and education for criminal 
                 and juvenile justice agencies, mental health agencies, 
                 and community-based behavioral health providers on 
@@ -122,12 +109,20 @@ Secretary of Health and Human Services to ensure that serious mental
 illness treatment and recovery support services provided under this 
 grant program incorporate evidence-based approaches that facilitate 
 long-term engagement in recovery services and supports.
+    ``(d) Behavioral Health Provider Defined.--In this section, the 
+term `behavioral health provider' means--
+            ``(1) a community mental health center that meets the 
+        criteria under section 1913(c) of the Public Health Service Act 
+        (42 U.S.C. 300x-2(c)); or
+            ``(2) a certified community behavioral health clinic 
+        described in section 223(d) of the Protecting Access to 
+        Medicare Act of 2014 (42 U.S.C. 1396a note).
 
 ``SEC. 3052. STATE APPLICATIONS.
 
     ``(a) In General.--To request a grant under this part, the chief 
-executive of a State shall submit an application to the Attorney 
-General--
+executive of a State, or such agency as the chief executive may 
+designate, shall submit an application to the Attorney General--
             ``(1) in such form and containing such information as the 
         Attorney General may reasonably require;
             ``(2) that includes assurances that Federal funds received 
@@ -153,10 +148,11 @@ General--
         continuity of care shall involve the coordination of the 
         correctional facility treatment program with qualified 
         community behavioral health providers and other recovery 
-        supports, parole supervision programs, halfway house programs, 
-        and participation in peer recovery group programs, which may 
-        aid in ongoing recovery after the individual is released from 
-        the correctional facility.
+        supports, pre-trial release programs, parole supervision 
+        programs, half-way house programs, and participation in peer 
+        recovery group programs, which may aid in ongoing recovery 
+        after the individual is released from the correctional 
+        facility.
             ``(3) Community care provider program defined.--For 
         purposes of this subsection, the term `community care provider 
         program' means a community mental health center or certified 
@@ -198,10 +194,10 @@ applicant reasonable notice and an opportunity for reconsideration.
 ``SEC. 3054. EVALUATION.
 
     ``Each State that receives a grant under this part shall submit to 
-the Attorney General an evaluation not later than March 1 of each year 
-in such form and containing such information as the Attorney General, 
-in consultation with the Secretary of Health and Human Services, may 
-reasonably require.
+the Attorney General an evaluation not later than 1 year after receipt 
+of the grant in such form and containing such information as the 
+Attorney General, in consultation with the Secretary of Health and 
+Human Services, may reasonably require.
 
 ``SEC. 3055. AUTHORIZATION OF FUNDING.
 
@@ -215,4 +211,21 @@ Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10652(c)(3)) is
 amended by inserting before the semicolon at the end the following: ``, 
 which may include interventions designed to enhance access to 
 medication.''.
-                                 
+
+            Passed the Senate November 16, 2020.
+
+            Attest:
+
+                                                             Secretary.
+116th CONGRESS
+
+  2d Session
+
+                                S. 3312
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+    To establish a crisis stabilization and community reentry grant 
+                    program, and for other purposes.
