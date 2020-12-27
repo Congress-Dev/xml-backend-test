@@ -1,27 +1,32 @@
-116th CONGRESS
-  2d Session
-                                H. R. 5126
+        H.R.5126
 
-_______________________________________________________________________
+                     One Hundred Sixteenth Congress
 
-                                 AN ACT
+                                 of the
+
+                        United States of America
+
+
+                          AT THE SECOND SESSION
+
+           Begun and held at the City of Washington on Friday,
+            the third day of January, two thousand and twenty
+
+
+                                 An Act
 
 
  
-   To require individuals fishing for Gulf reef fish to use certain 
-              descending devices, and for other purposes.
+    To require individuals fishing for Gulf reef fish to use certain 
+               descending devices, and for other purposes.
 
     Be it enacted by the Senate and House of Representatives of the 
 United States of America in Congress assembled,
-
 SECTION 1. SHORT TITLE.
-
     This Act may be cited as the ``Direct Enhancement of Snapper 
 Conservation and the Economy through Novel Devices Act of 2020'' or the 
 ``DESCEND Act of 2020''.
-
 SEC. 2. SENSE OF CONGRESS.
-
     It is the sense of Congress that commercial and recreational 
 fishermen (which, for the purpose of this Act shall include charter 
 fishing) for Gulf reef fish are expected to use a venting tool or a 
@@ -33,15 +38,11 @@ develop and disseminate to fishermen education and outreach materials
 related to proper use of venting tools and descending devices, and 
 strongly encourage their use by commercial and recreational fishermen 
 when releasing fish that are exhibiting signs of barotrauma.
-
 SEC. 3. REQUIRED POSSESSION OF DESCENDING DEVICES.
-
     (a) Required Gear in the Gulf Reef Fish Fishery.--Title III of the 
 Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 
 1851 et seq.) is amended by adding at the end the following:
-
-``SEC. 321. REQUIRED POSSESSION OF DESCENDING DEVICES.
-
+    ``SEC. 321. REQUIRED POSSESSION OF DESCENDING DEVICES.
     ``(a) Require Gear in the Gulf Reef Fish Fishery.--It shall be 
 unlawful for a person on board a commercial or recreational vessel to 
 fish for Gulf reef fish in the Gulf of Mexico Exclusive Economic Zone 
@@ -57,28 +58,23 @@ Natural Resources Damage Assessment Trustee Implementation Group to
 reduce post-release mortality from barotrauma in Gulf of Mexico Reef 
 Fish Recreational Fisheries.
     ``(c) Definitions.--In this section:
-            ``(1) Descending device.--The term `descending device' 
-        means an instrument that--
-                    ``(A) will release fish at a depth sufficient for 
-                the fish to be able to recover from the effects of 
-                barotrauma;
-                    ``(B) is a weighted hook, lip clamp, or box that 
-                will hold the fish while it is lowered to depth, or 
-                another device determined to be appropriate by the 
-                Secretary; and
-                    ``(C) is capable of--
-                            ``(i) releasing the fish automatically;
-                            ``(ii) releasing the fish by actions of the 
-                        operator of the device; or
-                            ``(iii) allowing the fish to escape on its 
-                        own.
-            ``(2) Venting tool.--The term `venting tool' has the 
-        meaning given to it by the Gulf of Mexico Fishery Management 
-        Council.
-            ``(3) Gulf reef fish.--The term `Gulf reef fish' means any 
-        fish chosen by the Gulf of Mexico Fishery Management Council 
-        that is in the reef Fishery Management Plan for the purposes of 
-        this Act.''.
+        ``(1) Descending device.--The term `descending device' means an 
+    instrument that--
+            ``(A) will release fish at a depth sufficient for the fish 
+        to be able to recover from the effects of barotrauma;
+            ``(B) is a weighted hook, lip clamp, or box that will hold 
+        the fish while it is lowered to depth, or another device 
+        determined to be appropriate by the Secretary; and
+            ``(C) is capable of--
+                ``(i) releasing the fish automatically;
+                ``(ii) releasing the fish by actions of the operator of 
+            the device; or
+                ``(iii) allowing the fish to escape on its own.
+        ``(2) Venting tool.--The term `venting tool' has the meaning 
+    given to it by the Gulf of Mexico Fishery Management Council.
+        ``(3) Gulf reef fish.--The term `Gulf reef fish' means any fish 
+    chosen by the Gulf of Mexico Fishery Management Council that is in 
+    the reef Fishery Management Plan for the purposes of this Act.''.
     (b) Civil Penalties.--Section 308(a) of the Magnuson-Stevens 
 Fishery Conservation and Management Act (16 U.S.C. 1858(a)) is amended 
 by inserting ``or section 321'' after ``section 307''.
@@ -101,39 +97,38 @@ title and inserting the following:
 ``Sec. 313. North Pacific fisheries conservation.
 ``Sec. 314. Northwest Atlantic Ocean fisheries reinvestment program.
 ``Sec. 315. Regional Coastal Disaster Assistance, Transition, and 
-                            Recovery Program.
+          Recovery Program.
 ``Sec. 316. Bycatch Reduction Engineering Program.
 ``Sec. 317. Shark Feeding.
 ``Sec. 318. Cooperative Research and Management Program.
 ``Sec. 319. Herring Study.
 ``Sec. 320. Restoration Study.
 ``Sec. 321. Required possession of descending devices.''.
+
     (e) Sunset.--Five years after the date of the enactment of this 
 Act, the Magnuson-Stevens Fishery Conservation and Management Act (16 
 U.S.C. 1851 et seq.) is amended--
-            (1) in the table of contents, by striking the item relating 
-        to section 321;
-            (2) in section 308(a), by striking ``or section 321''; and
-            (3) by striking section 321.
-
+        (1) in the table of contents, by striking the item relating to 
+    section 321;
+        (2) in section 308(a), by striking ``or section 321''; and
+        (3) by striking section 321.
 SEC. 4. IMPROVING DISCARD MORTALITY DATA.
-
     (a) Agreement.--Not later than 60 days after the date of the 
 enactment of this Act, the Secretary shall enter into an agreement with 
 the National Academy of Sciences to conduct a study and produce a 
 report on discard mortality in the Gulf of Mexico reef fish fisheries. 
 The study shall include--
-            (1) assessment of gaps and biases in reporting of discards 
-        and associated discard mortality;
-            (2) assessment of uncertainty and likely impacts of such 
-        uncertainty in discard mortality;
-            (3) assessment of the effectiveness and usage rates of 
-        barotrauma-reducing devices;
-            (4) recommendations for future research priorities; and
-            (5) recommendations for standardized reporting and 
-        quantification of discards in the same metric as landings for 
-        fisheries under the Gulf of Mexico Reef Fish Fishery Management 
-        Plan.
+        (1) assessment of gaps and biases in reporting of discards and 
+    associated discard mortality;
+        (2) assessment of uncertainty and likely impacts of such 
+    uncertainty in discard mortality;
+        (3) assessment of the effectiveness and usage rates of 
+    barotrauma-reducing devices;
+        (4) recommendations for future research priorities; and
+        (5) recommendations for standardized reporting and 
+    quantification of discards in the same metric as landings for 
+    fisheries under the Gulf of Mexico Reef Fish Fishery Management 
+    Plan.
     (b) Deadlines.--Not later than 2 years after the date of the 
 enactment of this Act, the National Academy of Sciences shall complete 
 the study required under subsection (a) and transmit the final report 
@@ -145,21 +140,19 @@ the House of Representatives.
     (c) Plan.--Not later than 1 year after the Secretary receives the 
 study and report required under subsection (a), Secretary and the Gulf 
 of Mexico Fishery Management Council shall develop--
-            (1) guidance for minimum standards for quantifying and 
-        reporting discards and associated mortality in the Gulf of 
-        Mexico Reef Fish Fishery Management Plan; and
-            (2) a plan to assess and monitor the effectiveness and 
-        usage of barotrauma-reducing devices and the impact on discard 
-        mortality rates in Gulf of Mexico reef fish fisheries.
+        (1) guidance for minimum standards for quantifying and 
+    reporting discards and associated mortality in the Gulf of Mexico 
+    Reef Fish Fishery Management Plan; and
+        (2) a plan to assess and monitor the effectiveness and usage of 
+    barotrauma-reducing devices and the impact on discard mortality 
+    rates in Gulf of Mexico reef fish fisheries.
     (d) Follow-Up Report.--Not later than 3 years after developing 
 minimum standards and developing the assessment and monitoring plan 
 under subsection (c), the Secretary shall provide a detailed report on 
 implementation to the Committee on Commerce, Science, and 
 Transportation of the Senate and the Committee on Natural Resources of 
 the House of Representatives.
-
 SEC. 5. DETERMINATION OF BUDGETARY EFFECTS.
-
     The budgetary effects of this Act, for the purpose of complying 
 with the Statutory Pay-As-You-Go Act of 2010, shall be determined by 
 reference to the latest statement titled ``Budgetary Effects of PAYGO 
@@ -167,20 +160,7 @@ Legislation'' for this Act, submitted for printing in the Congressional
 Record by the Chairman of the House Budget Committee, provided that 
 such statement has been submitted prior to the vote on passage.
 
-            Passed the House of Representatives October 1, 2020.
+                               Speaker of the House of Representatives.
 
-            Attest:
-
-                                                                 Clerk.
-116th CONGRESS
-
-  2d Session
-
-                               H. R. 5126
-
-_______________________________________________________________________
-
-                                 AN ACT
-
-   To require individuals fishing for Gulf reef fish to use certain 
-              descending devices, and for other purposes.
+                            Vice President of the United States and    
+                                               President of the Senate.
