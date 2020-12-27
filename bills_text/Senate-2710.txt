@@ -2,26 +2,9 @@
   1st Session
                                 S. 2710
 
-  To prohibit the commercial export of covered munitions items to the 
-                        Hong Kong Police Force.
-
-
 _______________________________________________________________________
 
-
-                   IN THE SENATE OF THE UNITED STATES
-
-                            October 24, 2019
-
- Mr. Merkley (for himself, Mr. Cornyn, Mr. Markey, Mrs. Blackburn, Mr. 
-  Leahy, Mr. Scott of Florida, Mr. Coons, Mr. Wicker, Mr. Blumenthal, 
-Mrs. Gillibrand, Mr. Cardin, Mr. Inhofe, and Mr. Wyden) introduced the 
- following bill; which was read twice and referred to the Committee on 
-                  Banking, Housing, and Urban Affairs
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -35,7 +18,8 @@ SECTION 1. DEFINITIONS.
 
             (1) Appropriate congressional committees.--The term 
         ``appropriate congressional committees'' means--
-                    (A) the Committee on Foreign Relations of the 
+                    (A) the Committee on Banking, Housing, and Urban 
+                Affairs and the Committee on Foreign Relations of the 
                 Senate; and
                     (B) the Committee on Foreign Affairs of the House 
                 of Representatives.
@@ -67,4 +51,26 @@ fewer than 30 days before the date of such issuance, a written notice--
         policy goals of the United States; and
             (2) describing the manner in which such exports will 
         promote such interests and goals.
-                                 
+
+SEC. 3. SUNSET.
+
+    The prohibition under section 2 shall expire one year after the 
+date of the enactment of this Act.
+
+            Passed the Senate November 19, 2019.
+
+            Attest:
+
+                                                             Secretary.
+116th CONGRESS
+
+  1st Session
+
+                                S. 2710
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+  To prohibit the commercial export of covered munitions items to the 
+                        Hong Kong Police Force.
