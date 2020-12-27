@@ -2,25 +2,9 @@
   2d Session
                                 H. R. 8247
 
-To make certain improvements relating to the transition of individuals 
-to services from the Department of Veterans Affairs, suicide prevention 
- for veterans, and care and services for women veterans, and for other 
-                               purposes.
-
-
 _______________________________________________________________________
 
-
-                    IN THE HOUSE OF REPRESENTATIVES
-
-                           September 14, 2020
-
-  Mr. Takano introduced the following bill; which was referred to the 
-                     Committee on Veterans' Affairs
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -244,7 +228,7 @@ Affairs.
 following:
             (1) With respect to each veteran called or emailed under 
         the Solid Start program:
-                    (A) The Armed Force of the veteran.
+                    (A) The Armed Force in which the veteran served.
                     (B) Age.
                     (C) Gender.
                     (D) Whether the veteran responded to the call or 
@@ -273,110 +257,127 @@ SEC. 201. DEPARTMENT OF VETERANS AFFAIRS PROVISION OF EMERGENT SUICIDE
     (a) In General.--Subchapter II of chapter 17 of title 38, United 
 States Code, is amended by adding at the end the following new section:
 ``Sec. 1720J. Emergent suicide care
-    ``(a) Furnishing or Payment for Emergent Suicide Care.--Pursuant to 
-this section, the Secretary shall furnish or pay for emergent suicide 
-care to an eligible individual at a medical facility of the Department 
-or at a non-Department facility.
+    ``(a) Emergent Suicide Care.--Pursuant to this section, the 
+Secretary shall--
+            ``(1) furnish emergent suicide care to an eligible 
+        individual at a medical facility of the Department;
+            ``(2) pay for emergent suicide care provided to an eligible 
+        individual at a non-Department facility; and
+            ``(3) reimburse an eligible individual for emergent suicide 
+        care provided to the eligible individual at a non-Department 
+        facility.
     ``(b) Eligibility.--An individual is eligible for emergent suicide 
-care under this section if the individual is in an acute suicidal 
+care under subsection (a) if the individual is in an acute suicidal 
 crisis and is either of the following:
-            ``(1) A veteran.
+            ``(1) A veteran (as defined in section 101).
             ``(2) An individual described in section 1720I(b) of this 
         title.
-    ``(c) Period of Care.--(1) Emergent suicide care furnished under 
-this section shall be furnished to an eligible individual--
+    ``(c) Period of Care.--(1) Emergent suicide care provided under 
+subsection (a) shall be furnished to an eligible individual--
             ``(A) through inpatient or crisis residential care, for a 
         period not to exceed 30 days; or
-            ``(B) if care under subparagraph (A) is unavailable, as 
-        outpatient care for a period not to exceed 90 days.
+            ``(B) if care under subparagraph (A) is unavailable, or if 
+        such care is not clinically appropriate, as outpatient care for 
+        a period not to exceed 90 days.
     ``(2) If, upon the expiration of a period under paragraph (1), the 
 Secretary determines that the eligible individual remains in an acute 
 suicidal crisis, the Secretary may extend such period as the Secretary 
 determines appropriate.
-    ``(d) Outreach.--During any period when an eligible individual is 
-receiving emergent suicide care furnished under this section, the 
-Secretary shall--
+    ``(d) Notification.--An eligible individual who receives emergent 
+suicide care under subsection (a) at a non-Department facility (or a 
+person acting on behalf of the individual) shall notify the Secretary 
+of such care within seven days of admission to such facility.
+    ``(e) Outreach.--During any period when an eligible individual is 
+receiving emergent suicide care under subsection (a), the Secretary 
+shall--
             ``(1) ensure that--
-                    ``(A) in the case of an eligible individual 
-                referred to a medical facility of the Department by the 
-                Veterans Crisis Line, the Veterans Crisis Line notifies 
-                the Suicide Prevention Coordinator;
+                    ``(A) in the case of an eligible individual whom 
+                the Veterans Crisis Line recommends to seek emergent 
+                suicide care at a medical facility of the Department, 
+                the Veterans Crisis Line notifies the Suicide 
+                Prevention Coordinator of such medical facility;
                     ``(B) in the case of an eligible individual who 
                 presents at a medical facility of the Department in an 
-                acute suicidal crisis without a referral by the 
+                acute suicidal crisis without a recommendation by the 
                 Veterans Crisis Line, the Secretary notifies the 
                 Suicide Prevention Coordinator;
-                    ``(C) in the case of an eligible individual 
-                referred to a non-Department facility by the Veterans 
-                Crisis Line, the Veterans Crisis Line notifies the 
-                Suicide Prevention Coordinator and the Office of 
-                Community Care at the Department facility located 
-                nearest to the eligible individual; and
+                    ``(C) in the case of an eligible individual whom 
+                the Veterans Crisis Line recommends to seek treatment 
+                at a non-Department facility, the Veterans Crisis Line 
+                notifies the Suicide Prevention Coordinator and the 
+                Office of Community Care at the medical facility of the 
+                Department located nearest to the eligible individual; 
+                and
                     ``(D) in the case of an eligible individual who 
                 presents at a non-Department facility in an acute 
-                suicidal crisis without a referral by the Veterans 
-                Crisis Line--
-                            ``(i) the individual (or someone acting on 
-                        the behalf of the individual) notifies the 
-                        Secretary within seven days of the beginning of 
-                        the episode of care for such emergent suicide 
-                        care; and
-                            ``(ii) the Secretary notifies the Suicide 
-                        Prevention Coordinator and the Office of 
-                        Community Care at the medical facility of the 
-                        Department located nearest to the eligible 
-                        individual;
+                suicidal crisis without a recommendation by the 
+                Veterans Crisis Line and for whom the Secretary 
+                receives a notification under subsection (d), the 
+                Secretary notifies the Suicide Prevention Coordinator 
+                and the Office of Community Care at the medical 
+                facility of the Department located nearest to the 
+                eligible individual;
             ``(2) determine the eligibility of the eligible individual 
         for other programs and benefits under the laws administered by 
-        the Secretary; and
+        the Secretary (or shall make such determination as soon as 
+        practicable following the period of such emergent suicide 
+        care); and
             ``(3) make referrals for care following the period of such 
         emergent suicide care, as the Secretary determines appropriate.
-    ``(e) Prohibition on Charge.--(1) If the Secretary furnishes or 
-pays for emergent suicide care to an eligible individual, the 
-Secretary--
+    ``(f) Prohibition on Charge.--(1) If the Secretary provides 
+emergent suicide care to an eligible individual under subsection (a), 
+the Secretary--
             ``(A) may not charge the eligible individual for any cost 
         of such emergent suicide care; and
             ``(B) shall pay for any costs of emergency transportation 
-        to a facility for such emergent suicide care.
-    ``(2) In addition to the requirements of paragraph (1), if the 
-Secretary pays for emergent suicide care to an eligible individual at a 
-non-Department facility, the Secretary shall--
-            ``(A) reimburse the facility for the reasonable value of 
-        such emergent suicide care; and
-            ``(B) ensure that such facility, or any health care 
-        provider working at such facility, does not charge the eligible 
-        individual for such emergent suicide care.
+        to a facility for such emergent suicide care (as such costs are 
+        determined pursuant to section 1725 of this title, to the 
+        extent practicable).
+    ``(2)(A) In addition to the requirements of paragraph (1), if the 
+Secretary pays for emergent suicide care provided under subsection (a) 
+to an eligible individual at a non-Department facility, the Secretary 
+shall reimburse the facility for the reasonable value of such emergent 
+suicide care.
+    ``(B)(i) In carrying out subparagraph (A), the Secretary may 
+determine the amount to reimburse a non-Department facility in a 
+similar manner to the manner in which the Secretary determines 
+reimbursement amounts for that non-Department facility for medical care 
+and services provided under another provision of this chapter.
+    ``(ii) The requirements of section 1725(c)(3) of this title shall 
+apply with respect to payments made under subparagraph (A) of this 
+paragraph.
     ``(3) In the case of an eligible individual who receives emergent 
 suicide care under this section and who is entitled to emergent suicide 
 care (or payment for emergent suicide care) under a health-plan 
-contract, the Secretary may recover the costs of such emergency suicide 
-care provided under this section.
-    ``(4) In carrying out subsection (d)(1)(D), the Secretary may not 
-charge an eligible individual for any cost of emergent suicide care 
-furnished under this section solely by reason of the Secretary not 
-having been notified of such care pursuant to such subsection.
-    ``(f) Annual Report.--Not less than once each year, the Secretary 
+contract, the Secretary may recover the costs of such emergent suicide 
+care provided under this section, other than for such care for a 
+service-connected disability.
+    ``(4) In carrying out subsection (d), the Secretary may not charge 
+an eligible individual for any cost of emergent suicide care provided 
+under subsection (a) solely by reason of the Secretary not having been 
+notified of such care pursuant to such subsection.
+    ``(g) Annual Report.--Not less than once each year, the Secretary 
 shall submit to the Committees on Veterans' Affairs of the Senate and 
-the House of Representatives a report on emergent suicide care 
-furnished or paid for under this section. Each such report shall 
-include, for the year covered by the report--
+the House of Representatives a report on emergent suicide care provided 
+under subsection (a). Each such report shall include, for the year 
+covered by the report--
             ``(1) the number of eligible individuals who received 
-        emergent suicide care under this section;
+        emergent suicide care under subsection (a);
             ``(2) demographic information regarding eligible 
         individuals described in paragraph (1);
             ``(3) the types of care furnished or paid for this section; 
         and
-            ``(4) the total cost of furnishing and paying for emergent 
-        suicide care under this section.
-    ``(g) Definitions.--In this section:
+            ``(4) the total cost of providing care under subsection 
+        (a).
+    ``(h) Definitions.--In this section:
             ``(1) The term `acute suicidal crisis' means that an 
         individual was determined to be at imminent risk of self-harm 
         by a trained crisis responder or health care provider.
             ``(2) The term `crisis residential care' means crisis 
         stabilization care provided--
-                    ``(A) on a residential basis; and
+                    ``(A) in a residential setting; and
                     ``(B) in a facility other than a hospital.
-            ``(3) The term `crisis stabilization care' means, with 
+            ``(3) The term `crisis stabilization care' includes, with 
         respect to an individual in acute suicidal crisis, care that 
         ensures, to the extent practicable, immediate safety and 
         reduces--
@@ -388,8 +389,8 @@ include, for the year covered by the report--
                 facility at which the individual has received care for 
                 that acute suicidal crisis.
             ``(4) The term `emergent suicide care' means crisis 
-        stabilization services provided to an eligible individual--
-                    ``(A) pursuant to a referral of the eligible 
+        stabilization care provided to an eligible individual--
+                    ``(A) pursuant to a recommendation of the eligible 
                 individual from the Veterans Crisis Line; or
                     ``(B) who presents at a medical facility in an 
                 acute suicidal crisis.
@@ -404,7 +405,7 @@ such chapter is amended by inserting after the item relation to section
 ``1720J. Emergent suicide care.''.
     (c) Effective Date.--The Secretary shall furnish or pay for 
 emergent suicide care under section 1720J of title 38, United States 
-Code, as added by subsection (a), beginning on the date that is 180 
+Code, as added by subsection (a), beginning on the date that is 270 
 days after the date of the enactment of this Act.
 
 SEC. 202. EDUCATION PROGRAM FOR FAMILY MEMBERS AND CAREGIVERS OF 
@@ -431,16 +432,15 @@ family members of eligible veterans with mental health disorders.
                         provided pursuant to the program of 
                         comprehensive assistance for family caregivers 
                         of the Department of Veterans Affairs 
-                        established under section 1720G of title 38, 
+                        established under section 1720G(a) of title 38, 
                         United States Code; and
                             (ii) make such component available on the 
-                        internet website of the Department that relates 
+                        Internet website of the Department that relates 
                         to caregiver training.
                     (B) Family members.--The Secretary shall carry out 
                 the component of the education program that relates to 
-                the education and training of family members (who are 
-                not caregivers) at facilities of the Department as 
-                follows:
+                the education and training of non-caregiver family 
+                members at facilities of the Department as follows:
                             (i) Not less than five medical centers of 
                         the Department.
                             (ii) Not less than five clinics of the 
@@ -470,11 +470,11 @@ family members of eligible veterans with mental health disorders.
                 (5) to family members and caregivers of eligible 
                 veterans and covered veterans.
                     (B) Qualified entity described.--A qualified entity 
-                described in this subparagraph is a nonprofit entity 
+                described in this subparagraph is a non-profit entity 
                 with experience in mental health education and 
                 outreach, including work with children, teens, and 
                 young adults, that--
-                            (i) uses high-quality, relevant, and age-
+                            (i) uses high quality, relevant, and age-
                         appropriate information in educational 
                         programming, materials, and coursework, 
                         including such programming, materials, and 
@@ -621,9 +621,8 @@ members or their designees:
             (5) The Secretary of Defense.
             (6) The Secretary of Homeland Security.
             (7) The Chief of the Army Corps of Engineers.
-            (8) At least two representatives from organizations 
-        recognized by the Secretary of Veterans Affairs under section 
-        5902 of title 38, United States Code.
+            (8) At least two representatives from veterans service 
+        organizations.
             (9) Any other member that the Secretary of Veterans Affairs 
         determines to be appropriate.
     (c) Chairpersons.--The Secretary of Veterans Affairs and the 
@@ -665,15 +664,9 @@ subsection (e)(2).
     (g) Nonapplicability of Federal Advisory Committee Act.--The 
 Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the 
 Task Force.
-    (h) Definitions.--In this section:
-            (1) The term ``public lands'' means any recreational lands 
-        under the jurisdiction of the Federal Government or a State or 
-        local government.
-            (2) The term ``veteran'' means an individual who is--
-                    (A) a veteran, as such term is defined in section 
-                101 of title 38, United States Code; or
-                    (B) an eligible individual under section 1720I(b) 
-                of title 38.
+    (h) Public Lands Defined.--In this section, the term ``public 
+lands'' means any recreational lands under the jurisdiction of the 
+Federal Government or a State or local government.
 
 SEC. 204. CONTACT OF CERTAIN VETERANS TO ENCOURAGE RECEIPT OF 
               COMPREHENSIVE MEDICAL EXAMINATIONS.
@@ -692,7 +685,7 @@ medical examinations including the following:
         veteran has not received such an examination in the year 
         immediately preceding the date of such examination.
     (b) Examinations.--
-            (1) VA health care facilities.--If a covered veteran elects 
+            (1) Va health care facilities.--If a covered veteran elects 
         to receive more than one examination described in subsection 
         (a) at a health care facility of the Department of Veterans 
         Affairs, the Under Secretary of Health shall seek to furnish 
@@ -708,7 +701,7 @@ medical examinations including the following:
         may pay for a rural covered veteran to travel to a health care 
         facility to receive an examination described in subsection (a).
             (2) Shuttle service.--The Under Secretary of Health shall 
-        seek to enter into agreements with nonprofit organizations to 
+        seek to enter into agreements with non-profit organizations to 
         provide shuttle service to rural covered veterans for 
         examinations described in subsection (a).
     (d) Report Required.--Not later than 18 months after the date of 
@@ -820,7 +813,7 @@ the following information:
             (1) The number of women veterans who reside in each State.
             (2) The number of women veterans in each State who are 
         enrolled in the patient enrollment system of the Department 
-        under section 1705 of title 38, United States Code.
+        under section 1705(a) of title 38, United States Code.
             (3) Of the women veterans who are so enrolled, the number 
         who have received health care under the laws administered by 
         the Secretary at least one time during the one-year period 
@@ -849,4 +842,23 @@ the following information:
         the largest rate of decrease in patient population of women 
         veterans as measured by the decrease in unique women veterans 
         patient use.
-                                 
+
+            Passed the House of Representatives September 23, 2020.
+
+            Attest:
+
+                                                                 Clerk.
+116th CONGRESS
+
+  2d Session
+
+                               H. R. 8247
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+To make certain improvements relating to the transition of individuals 
+to services from the Department of Veterans Affairs, suicide prevention 
+ for veterans, and care and services for women veterans, and for other 
+                               purposes.
