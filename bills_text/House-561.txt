@@ -1,27 +1,10 @@
 116th CONGRESS
-  1st Session
+  2d Session
                                 H. R. 561
 
-  To amend title 38, United States Code, to improve the oversight of 
-    contracts awarded by the Secretary of Veterans Affairs to small 
-   business concerns owned and controlled by veterans, and for other 
-                               purposes.
-
-
 _______________________________________________________________________
 
-
-                    IN THE HOUSE OF REPRESENTATIVES
-
-                            January 15, 2019
-
- Mr. Bergman (for himself, Ms. Kuster of New Hampshire, and Mr. Dunn) 
- introduced the following bill; which was referred to the Committee on 
-                           Veterans' Affairs
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -50,14 +33,7 @@ amended--
 applicable to a covered small business concern under section 46 of the 
 Small Business Act (15 U.S.C. 657s) shall apply with respect to a small 
 business concern owned and controlled by veterans that is awarded a 
-contract under this section. In the case of a contract which is 
-principally for supplies from a regular dealer in such supplies and for 
-which the Administrator of the Small Business Administration has 
-granted a waiver pursuant to subsection (a)(4)(B) of such section, a 
-small business concern owned and controlled by veterans that is awarded 
-such a contract under this section may not expend on subcontractors 
-more than 50 percent of the amount paid to the concern under the 
-contract.
+contract under this section.
     ``(B) For purposes of applying the requirements of section 46 of 
 the Small Business Act (15 U.S.C. 657s) pursuant to subparagraph (A), 
 the term `similarly situated entity' used in such section 46 includes a 
@@ -94,8 +70,8 @@ consequences--
             ``(ii) a fine under section 16(g)(1) of the Small Business 
         Act (15 U.S.C. 645(g)(1)); and
             ``(iii) prosecution for violating section 1001 of title 18.
-    ``(D) Not later than November 30 for each of fiscal years 2020 
-through 2024, the Inspector General shall submit to the Committees on 
+    ``(D) Not later than November 30 for each of fiscal years 2021 
+through 2025, the Inspector General shall submit to the Committees on 
 Veterans' Affairs of the Senate and House of Representatives a report 
 for the fiscal year preceding the fiscal year during which the report 
 is submitted that includes, for the fiscal year covered by the report--
@@ -109,4 +85,23 @@ is submitted that includes, for the fiscal year covered by the report--
 United States Code, as added by subsection (a), shall apply with 
 respect to a contract entered into after the date of the enactment of 
 this Act.
-                                 
+
+            Passed the House of Representatives February 25, 2020.
+
+            Attest:
+
+                                                                 Clerk.
+116th CONGRESS
+
+  2d Session
+
+                               H. R. 561
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+  To amend title 38, United States Code, to improve the oversight of 
+    contracts awarded by the Secretary of Veterans Affairs to small 
+   business concerns owned and controlled by veterans, and for other 
+                               purposes.
