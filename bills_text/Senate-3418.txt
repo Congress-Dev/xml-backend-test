@@ -2,28 +2,9 @@
   2d Session
                                 S. 3418
 
-     To amend the Robert T. Stafford Disaster Relief and Emergency 
-  Assistance Act to allow the Administrator of the Federal Emergency 
-    Management Agency to provide capitalization grants to States to 
- establish revolving funds to provide hazard mitigation assistance to 
-  reduce risks from disasters and natural hazards, and other related 
-                          environmental harm.
-
-
 _______________________________________________________________________
 
-
-                   IN THE SENATE OF THE UNITED STATES
-
-                             March 9, 2020
-
-Mr. Peters (for himself and Mr. Johnson) introduced the following bill; 
-which was read twice and referred to the Committee on Homeland Security 
-                        and Governmental Affairs
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -40,7 +21,7 @@ United States of America in Congress assembled,
 SECTION 1. SHORT TITLE.
 
     This Act may be cited as the ``Safeguarding Tomorrow through 
-Ongoing Risk Mitigation Act of 2020'' or the ``STORM Act''.
+Ongoing Risk Mitigation Act'' or the ``STORM Act''.
 
 SEC. 2. GRANTS TO ENTITIES FOR ESTABLISHMENT OF HAZARD MITIGATION 
               REVOLVING LOAN FUNDS.
@@ -59,7 +40,8 @@ the following:
         revolving loan funds (referred to in this section as `entity 
         loan funds') for providing funding assistance to local 
         governments to carry out eligible projects under this section 
-        to reduce disaster risk in order to decrease--
+        to reduce disaster risks for homeowners, businesses, nonprofit 
+        organizations, and communities in order to decrease--
                     ``(A) the loss of life and property;
                     ``(B) the cost of insurance; and
                     ``(C) Federal disaster payments.
@@ -94,7 +76,8 @@ the following:
                 including impacts to river basins, river corridors, 
                 watersheds, estuaries, bays, coastal regions, micro-
                 basins, micro-watersheds, ecosystems, and areas at risk 
-                of earthquakes, tsunamis, droughts, and wildfires.
+                of earthquakes, tsunamis, droughts, severe storms, and 
+                wildfires, including the wildland-urban interface.
             ``(2) Technical assistance.--The Administrator shall 
         provide technical assistance to eligible entities for 
         applications under this section.
@@ -172,12 +155,13 @@ the following:
                 on river basins, river corridors, micro-watersheds, 
                 macro-watersheds, estuaries, lakes, bays, and coastal 
                 regions and areas at risk of earthquakes, tsunamis, 
-                droughts, and wildfires; or
+                droughts, severe storms, and wildfires, including the 
+                wildland-urban interface; or
                     ``(D) propose projects for the resilience of major 
                 economic sectors or critical national infrastructure, 
                 including ports, global commodity supply chain assets 
                 (located within an entity or within the jurisdiction of 
-                local governments, insular areas, and tribal 
+                local governments, insular areas, and Indian tribal 
                 governments), power and water production and 
                 distribution centers, and bridges and waterways 
                 essential to interstate commerce.
@@ -193,15 +177,15 @@ the following:
     ``(e) Environmental Review of Revolving Loan Fund Projects.--The 
 Administrator may delegate to a participating entity all of the 
 responsibilities for environmental review, decision making, and action 
-pursuant the National Environmental Policy Act of 1969 (42 U.S.C. 4321 
-et seq.), and other applicable Federal environmental laws including the 
-Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) and the 
-National Historic Preservation Act of 1966 (16 U.S.C. 470 et seq.) that 
-would apply to the Administrator were the Administrator to undertake 
-projects under this section as Federal projects so long as the 
-participating entity carry out such responsibilities in the same manner 
-and subject to the same requirements as if the Administrator carried 
-out such responsibilities.
+pursuant to the National Environmental Policy Act of 1969 (42 U.S.C. 
+4321 et seq.), and other applicable Federal environmental laws 
+including the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) 
+and the National Historic Preservation Act of 1966 (54 U.S.C. 300101 et 
+seq.) that would apply to the Administrator were the Administrator to 
+undertake projects under this section as Federal projects so long as 
+the participating entity carries out such responsibilities in the same 
+manner and subject to the same requirements as if the Administrator 
+carried out such responsibilities.
     ``(f) Use of Funds.--
             ``(1) Types of assistance.--Amounts deposited in an entity 
         loan fund, including loan repayments and interest earned on 
@@ -263,7 +247,15 @@ out such responsibilities.
                 storms;
                     ``(C) wildfires;
                     ``(D) earthquakes;
-                    ``(E) flooding;
+                    ``(E) flooding, including the construction, repair, 
+                or replacement of a non-Federal levee or other flood 
+                control structure, provided that the Administrator, in 
+                consultation with the Army Corps of Engineers (if 
+                appropriate), requires an eligible entity to determine 
+                that such levee or structure is designed, constructed, 
+                and maintained in accordance with sound engineering 
+                practices and standards equivalent to the purpose for 
+                which such levee or structure is intended;
                     ``(F) shoreline erosion;
                     ``(G) high water levels; and
                     ``(H) storm surges.
@@ -286,7 +278,7 @@ out such responsibilities.
                 agricultural land to mitigate for flooding, allowing 
                 agricultural producers to receive compensation for 
                 assuming greater flood risk that would alleviate flood 
-                exposure to populations centers and areas with critical 
+                exposure to population centers and areas with critical 
                 national infrastructure;
                     ``(C) the study and creation of land use incentives 
                 that reward developers for greater reliance on low 
@@ -308,7 +300,7 @@ out such responsibilities.
         to establish and carry out the latest published editions of 
         relevant building codes, specifications, and standards for the 
         purpose of protecting the health, safety, and general welfare 
-        of the buildings users against disasters and natural hazards.
+        of the building's users against disasters and natural hazards.
             ``(6) Administrative and technical costs.--For each fiscal 
         year, a participating entity may use the amount described in 
         paragraph (1)(C) to--
@@ -323,13 +315,19 @@ out such responsibilities.
             ``(7) Limitation for single projects.--A participating 
         entity may not provide an amount equal to or more than 
         $5,000,000 to a single hazard mitigation project.
+            ``(8) Requirements.--For fiscal year 2022 and each fiscal 
+        year thereafter, the requirements of subchapter IV of chapter 
+        31 of title 40, United States Code, shall apply to the 
+        construction of projects carried out in whole or in part with 
+        assistance made available by an entity loan fund authorized by 
+        this section.
     ``(g) Intended Use Plans.--
             ``(1) In general.--After providing for public comment and 
         review, and consultation with appropriate government agencies 
-        of the State or Indian Tribe, Federal agencies, and interest 
-        groups, each participating entity shall annually prepare and 
-        submit to the Administrator a plan identifying the intended 
-        uses of the entity loan fund.
+        of the State or Indian tribal government, Federal agencies, and 
+        interest groups, each participating entity shall annually 
+        prepare and submit to the Administrator a plan identifying the 
+        intended uses of the entity loan fund.
             ``(2) Contents of plan.--An entity intended use plan 
         prepared under paragraph (1) shall include--
                     ``(A) the integration of entity planning efforts, 
@@ -368,8 +366,8 @@ out such responsibilities.
         later than the last day of the second fiscal year after the 
         receipt of payments under this section, and biennially 
         thereafter, any participating entity shall--
-                    ``(A) conduct an audit of such fund established 
-                under subsection (b); and
+                    ``(A) conduct an audit of the entity loan fund 
+                established under subsection (c); and
                     ``(B) provide to the Administrator a report 
                 including--
                             ``(i) the result of any such audit; and
@@ -377,7 +375,7 @@ out such responsibilities.
                         entity loan fund of the entity with respect to 
                         meeting the goals and intended benefits 
                         described in the intended use plan submitted by 
-                        the entity under subsection (f).
+                        the entity under subsection (g).
             ``(2) Publication.--A participating entity shall publish 
         and periodically update information about all projects 
         receiving funding from the entity loan fund of such entity, 
@@ -395,11 +393,11 @@ out such responsibilities.
                 Administrator to carry out the objectives of this 
                 section and determine the effectiveness of the fund in 
                 reducing natural hazard risk.
-                    ``(B) GAO requirements.--The entity shall conduct 
-                audits under paragraph (1) in accordance with the 
-                auditing procedures of the Government Accountability 
-                Office, including generally accepted government 
-                auditing standards.
+                    ``(B) GAO requirements.--A participating entity 
+                shall conduct audits under paragraph (1) in accordance 
+                with the auditing procedures of the Government 
+                Accountability Office, including generally accepted 
+                government auditing standards.
                     ``(C) Recommendations by administrator.--The 
                 Administrator may at any time make recommendations for 
                 or require specific changes to an entity loan fund in 
@@ -415,12 +413,36 @@ regulations or guidance as are necessary to--
         and a recipient of amounts from an entity loan fund, to use 
         procedures with respect to the management of the funds that 
         conform to generally accepted accounting standards.
-    ``(j) Liability Protections.--The Federal Emergency Management 
-Agency shall not be liable for any claim based on the exercise or 
-performance of, or the failure to exercise or perform, a discretionary 
-function or duty by the Agency, or an employee of the Agency in 
-carrying out this section.
-    ``(k) Definitions.--In this section, the following definitions 
+    ``(j) Waiver Authority.--Until such time as the Administrator 
+issues final regulations to implement this section, the Administrator 
+may--
+            ``(1) waive notice and comment rulemaking, if the 
+        Administrator determines the waiver is necessary to 
+        expeditiously implement this section; and
+            ``(2) provide capitalization grants under this section as a 
+        pilot program.
+    ``(k) Liability Protections.--The Agency shall not be liable for 
+any claim based on the exercise or performance of, or the failure to 
+exercise or perform, a discretionary function or duty by the Agency, or 
+an employee of the Agency in carrying out this section.
+    ``(l) GAO Report.--Not later than 1 year after the date on which 
+the first entity loan fund is established under subsection (c), the 
+Comptroller General of the United States shall submit to the Committee 
+on Homeland Security and Governmental Affairs of the Senate and the 
+Committee on Transportation and Infrastructure of the House of 
+Representatives a report that examines--
+            ``(1) the appropriateness of regulations and guidance 
+        issued by the Administrator for the program, including any 
+        oversight of the program;
+            ``(2) a description of the number of the entity loan funds 
+        established, the projects funded from such entity loan funds, 
+        and the extent to which projects funded by the loan funds 
+        adhere to any applicable hazard mitigation plans;
+            ``(3) the effectiveness of the entity loan funds to lower 
+        disaster related costs; and
+            ``(4) recommendations for improving the administration of 
+        entity loan funds.
+    ``(m) Definitions.--In this section, the following definitions 
 apply:
             ``(1) Administrator.--The term `Administrator' means the 
         Administrator of the Federal Emergency Management Agency.
@@ -452,7 +474,31 @@ apply:
         U.S.C. 4104c(h)).
             ``(10) State.--The term `State' means any State of the 
         United States, the District of Columbia, and Puerto Rico.
-    ``(l) Authorization of Appropriations.--There are authorized to be 
-appropriated $100,000,000 for each of fiscal years 2021 through 2023 to 
+            ``(11) Wildland-urban interface.--The term `wildland-urban 
+        interface' has the meaning given the term in section 101 of the 
+        Healthy Forests Restoration Act of 2003 (16 U.S.C. 6511).
+    ``(n) Authorization of Appropriations.--There are authorized to be 
+appropriated $100,000,000 for each of fiscal years 2022 through 2023 to 
 carry out this section.''.
-                                 
+
+            Passed the Senate December 9, 2020.
+
+            Attest:
+
+                                                             Secretary.
+116th CONGRESS
+
+  2d Session
+
+                                S. 3418
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+     To amend the Robert T. Stafford Disaster Relief and Emergency 
+  Assistance Act to allow the Administrator of the Federal Emergency 
+    Management Agency to provide capitalization grants to States to 
+ establish revolving funds to provide hazard mitigation assistance to 
+  reduce risks from disasters and natural hazards, and other related 
+                          environmental harm.
