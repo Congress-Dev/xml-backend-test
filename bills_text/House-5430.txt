@@ -2,31 +2,9 @@
   1st Session
                                 H. R. 5430
 
- To implement the Agreement between the United States of America, the 
-United Mexican States, and Canada attached as an Annex to the Protocol 
-           Replacing the North American Free Trade Agreement.
-
-
 _______________________________________________________________________
 
-
-                    IN THE HOUSE OF REPRESENTATIVES
-
-                           December 13, 2019
-
- Mr. Hoyer (for himself and Mr. McCarthy) (both by request) introduced 
-  the following bill; which was referred to the Committee on Ways and 
-   Means, and in addition to the Committees on Education and Labor, 
-    Natural Resources, Foreign Affairs, the Judiciary, the Budget, 
-  Transportation and Infrastructure, Financial Services, Agriculture, 
-   Energy and Commerce, and Oversight and Reform, for a period to be 
-subsequently determined by the Speaker, in each case for consideration 
-  of such provisions as fall within the jurisdiction of the committee 
-                               concerned
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -81,7 +59,7 @@ Sec. 210. Regulations.
 
        Subtitle B--Temporary Entry of Business Persons [reserved]
 
-   Subtitle C--United States-Mexico Cross-border Long-haul Trucking 
+   Subtitle C--United States-Mexico Cross-Border Long-Haul Trucking 
                                 Services
 
 Sec. 321. Definitions.
@@ -1967,7 +1945,7 @@ Department is responsible.
                         that is 10 years after the date on which the 
                         USMCA enters into force.
             (2) Report by international trade commission.--Not later 
-        than one year after the submission of the first report required 
+        than 1 year after the submission of the first report required 
         by paragraph (1)(B), and every 2 years thereafter until the 
         date that is 12 years after the date on which the USMCA enters 
         into force, the International Trade Commission shall submit to 
@@ -2303,7 +2281,7 @@ SEC. 206. RECORDKEEPING REQUIREMENTS.
                         of entry, filing of a reconciliation, or 
                         exportation, as appropriate; and
                             ``(ii) records for any drawback claim shall 
-                        be kept until the 3rd anniversary of the date 
+                        be kept until the third anniversary of the date 
                         of liquidation of the claim.
                     ``(C) Imports into the united states.--
                             ``(i) In general.--An importer covered by 
@@ -2637,7 +2615,7 @@ content determination under section 202A.
 
        Subtitle B--Temporary Entry of Business Persons [reserved]
 
-   Subtitle C--United States-Mexico Cross-border Long-haul Trucking 
+   Subtitle C--United States-Mexico Cross-Border Long-Haul Trucking 
                                 Services
 
 SEC. 321. DEFINITIONS.
@@ -5044,9 +5022,9 @@ of this subtitle, including--
         environmental obligations.
     (b) Timing of Report.--The report required by subsection (a) shall 
 be submitted--
-            (1) not later than one year after the date on which the 
-        USMCA enters into force;
-            (2) annually for each of the next four years; and
+            (1) not later than 1 year after the date on which the USMCA 
+        enters into force;
+            (2) annually for each of the next 4 years; and
             (3) biennially thereafter.
     (c) Additional Matters To Be Included in the Fifth Annual Report.--
 The report required by subsection (a) that is submitted in the fifth 
@@ -5266,9 +5244,9 @@ reimburse the necessary expenses of personnel participating in the
 Interagency Environment Committee for Monitoring and Enforcement 
 established pursuant to section 811 of this Act during fiscal years 
 2020 through 2023 to monitor compliance with environmental obligations 
-(as such term is defined in section 801 of this Act), including up to 1 
-additional full-time employee detailed to the United States Embassy in 
-Mexico from each of the United States Fish and Wildlife Service, the 
+(as such term is defined in section 801 of this Act), including up to 
+one additional full-time employee detailed to the United States Embassy 
+in Mexico from each of the United States Fish and Wildlife Service, the 
 Environmental Protection Agency, and the National Oceanic and 
 Atmospheric Administration:  Provided further, That, if the United 
 States Trade Representative determines that the additional amount 
@@ -5434,4 +5412,22 @@ Emergency Deficit Control Act of 1985, the budgetary effects of this
 title shall be estimated for purposes of section 251 of such Act.
     This title may be cited as the ``USMCA Supplemental Appropriations 
 Act, 2019''.
-                                 
+
+            Passed the House of Representatives December 19, 2019.
+
+            Attest:
+
+                                                                 Clerk.
+116th CONGRESS
+
+  1st Session
+
+                               H. R. 5430
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+ To implement the Agreement between the United States of America, the 
+United Mexican States, and Canada attached as an Annex to the Protocol 
+           Replacing the North American Free Trade Agreement.
