@@ -1,27 +1,10 @@
 116th CONGRESS
-  1st Session
+  2nd Session
                                 S. 1342
 
-  To require the Under Secretary for Oceans and Atmosphere to update 
-   periodically the environmental sensitivity index products of the 
- National Oceanic and Atmospheric Administration for each coastal area 
-              of the Great Lakes, and for other purposes.
-
-
 _______________________________________________________________________
 
-
-                   IN THE SENATE OF THE UNITED STATES
-
-                              May 7, 2019
-
- Mr. Peters (for himself and Mr. Young) introduced the following bill; 
-    which was read twice and referred to the Committee on Commerce, 
-                      Science, and Transportation
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -73,11 +56,26 @@ coastal or offshore, resources prior to an oil spill event in order to
 set baseline priorities for protection and plan cleanup strategies, 
 typically including information relating to shoreline type, biological 
 resources, and human use resources.
-    (e) Authorization of Appropriations.--
-            (1) In general.--There is authorized to be appropriated to 
-        the Under Secretary $7,500,000 to carry out subsection (a).
-            (2) Availability.--Amounts appropriated or otherwise made 
-        available pursuant to paragraph (1) shall be available to the 
-        Under Secretary for the purposes set forth in such paragraph 
-        until expended.
-                                 
+    (e) Funding.--Amounts for activities under this section shall be 
+derived from amounts otherwise authorized to be appropriated or made 
+available for the Under Secretary.
+
+            Passed the Senate November 16, 2020.
+
+            Attest:
+
+                                                             Secretary.
+116th CONGRESS
+
+  2nd Session
+
+                                S. 1342
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+  To require the Under Secretary for Oceans and Atmosphere to update 
+   periodically the environmental sensitivity index products of the 
+ National Oceanic and Atmospheric Administration for each coastal area 
+              of the Great Lakes, and for other purposes.
