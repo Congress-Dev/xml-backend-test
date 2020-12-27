@@ -2,25 +2,9 @@
   1st Session
                                  S. 151
 
-   To deter criminal robocall violations and improve enforcement of 
-    section 227(b) of the Communications Act of 1934, and for other 
-                               purposes.
-
-
 _______________________________________________________________________
 
-
-                   IN THE SENATE OF THE UNITED STATES
-
-                            January 16, 2019
-
- Mr. Thune (for himself and Mr. Markey) introduced the following bill; 
-    which was read twice and referred to the Committee on Commerce, 
-                      Science, and Transportation
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -84,7 +68,26 @@ U.S.C. 227) is amended--
                 or impose a forfeiture penalty on a person under both 
                 subparagraphs (A) and (B) based on the same conduct.''; 
                 and
-            (2) by striking subsection (h).
+            (2) by striking subsection (h) and inserting the following:
+    ``(h) TCPA Enforcement Report.--The Commission shall submit an 
+annual report to Congress regarding the enforcement during the 
+preceding year of laws, regulations, and policies relating to robocalls 
+and spoofed calls, which report shall include--
+            ``(1) the number of complaints received by the Commission 
+        during the year alleging that a consumer received a robocall or 
+        spoofed call;
+            ``(2) the number of citations issued by the Commission 
+        pursuant to section 503 during the year to enforce any law, 
+        regulation, or policy relating to a robocall or spoofed call;
+            ``(3) the number of notices of apparent liability issued by 
+        the Commission pursuant to section 503 during the year to 
+        enforce any law, regulation, or policy relating to a robocall 
+        or spoofed call; and
+            ``(4) for each notice referred to in paragraph (3)--
+                    ``(A) the amount of the proposed forfeiture penalty 
+                involved;
+                    ``(B) the person to whom the notice was issued; and
+                    ``(C) the status of the proceeding.''.
     (b) Applicability.--The amendments made by this section shall not 
 affect any action or proceeding commenced before and pending on the 
 date of enactment of this Act.
@@ -100,9 +103,7 @@ SEC. 3. CALL AUTHENTICATION.
         SHAKEN authentication framework'' means the secure telephone 
         identity revisited and signature-based handling of asserted 
         information using tokens standards proposed by the information 
-        and communications technology industry to attach a certificate 
-        of authenticity to each phone to verify the source of each 
-        call.
+        and communications technology industry.
             (2) Voice service.--The term ``voice service''--
                     (A) means any service that is interconnected with 
                 the public switched telephone network and that 
@@ -128,15 +129,15 @@ SEC. 3. CALL AUTHENTICATION.
         later than 18 months after the date of enactment of this Act, 
         the Federal Communications Commission shall require a provider 
         of voice service to implement the STIR/SHAKEN authentication 
-        framework in the internet protocol networks of voice service 
-        providers.
+        framework in the internet protocol networks of the voice 
+        service provider.
             (2) Implementation.--The Federal Communications Commission 
         shall not take the action described in paragraph (1) if the 
         Commission determines that a provider of voice service, not 
         later than 12 months after the date of enactment of this Act--
                     (A) has adopted the STIR/SHAKEN authentication 
                 framework for calls on the internet protocol networks 
-                of voice service providers;
+                of the voice service provider;
                     (B) has agreed voluntarily to participate with 
                 other providers of voice service in the STIR/SHAKEN 
                 authentication framework;
@@ -154,7 +155,9 @@ SEC. 3. CALL AUTHENTICATION.
         include--
                     (A) an analysis of the extent to which providers of 
                 a voice service have implemented the STIR/SHAKEN 
-                authentication framework; and
+                authentication framework, including whether the 
+                availability of necessary equipment and equipment 
+                upgrades has impacted such implementation; and
                     (B) an assessment of the efficacy of the STIR/
                 SHAKEN authentication framework, as being implemented 
                 under this section, in addressing all aspects of call 
@@ -182,8 +185,10 @@ SEC. 3. CALL AUTHENTICATION.
         under this section by 12 months or such further amount of time 
         as the Commission determines necessary if the Commission 
         determines that purchasing or upgrading equipment to support 
-        call authentication would constitute a substantial hardship for 
-        a provider or category of providers.
+        call authentication, or lack of availability of such equipment, 
+        would constitute a substantial hardship in meeting such 
+        deadline for a provider or category of providers of voice 
+        service.
     (c) Safe Harbor and Other Regulations.--
             (1) In general.--The Federal Communications Commission 
         shall promulgate rules--
@@ -205,8 +210,8 @@ SEC. 3. CALL AUTHENTICATION.
                 calls.
             (2) Considerations.--In establishing the safe harbor under 
         paragraph (1), the Federal Communications Commission shall 
-        consider limiting the liability of a provider based on the 
-        extent to which the provider--
+        consider limiting the liability of a provider of voice service 
+        based on the extent to which the provider of voice service--
                     (A) blocks or identifies calls based, in whole or 
                 in part, on the information provided by the call 
                 authentication framework under subsection (b);
@@ -354,4 +359,22 @@ notwithstanding section 503(b)(5) of the Communications Act of 1934 (47
 U.S.C. 503(b)(5)), be subject to a forfeiture penalty under section 503 
 of that Act. A forfeiture penalty under this subsection shall be in 
 addition to any other penalty provided for by law.
-                                 
+
+            Passed the Senate May 23 (legislative day, May 22), 2019.
+
+            Attest:
+
+                                                             Secretary.
+116th CONGRESS
+
+  1st Session
+
+                                 S. 151
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+   To deter criminal robocall violations and improve enforcement of 
+    section 227(b) of the Communications Act of 1934, and for other 
+                               purposes.
