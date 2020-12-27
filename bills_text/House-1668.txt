@@ -2,6 +2,16 @@
   2d Session
                                 H. R. 1668
 
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           September 15, 2020
+
+                                Received
+
 _______________________________________________________________________
 
                                  AN ACT
@@ -348,16 +358,6 @@ on broader Internet of Things efforts addressed in subsection (a).
 
             Attest:
 
+                                             CHERYL L. JOHNSON,
+
                                                                  Clerk.
-116th CONGRESS
-
-  2d Session
-
-                               H. R. 1668
-
-_______________________________________________________________________
-
-                                 AN ACT
-
-To establish minimum security standards for Internet of Things devices 
- owned or controlled by the Federal Government, and for other purposes.
