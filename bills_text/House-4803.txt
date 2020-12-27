@@ -2,26 +2,9 @@
   1st Session
                                 H. R. 4803
 
-   To facilitate the automatic acquisition of citizenship for lawful 
-    permanent resident children of military and Federal Government 
-           personnel residing abroad, and for other purposes.
-
-
 _______________________________________________________________________
 
-
-                    IN THE HOUSE OF REPRESENTATIVES
-
-                            October 23, 2019
-
-     Mr. Nadler (for himself, Mr. Collins of Georgia, Mr. Smith of 
-  Washington, Mr. Thornberry, Ms. Lofgren, Mr. Buck, Mr. Ted Lieu of 
- California, and Mr. Gallego) introduced the following bill; which was 
-               referred to the Committee on the Judiciary
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -82,4 +65,31 @@ relating to section 320 and inserting the following:
                             admitted for permanent residence; 
                             conditions under which citizenship 
                             automatically acquired.''.
-                                 
+
+SEC. 3. DETERMINATION OF BUDGETARY EFFECTS.
+
+    The budgetary effects of this Act, for the purpose of complying 
+with the Statutory Pay-As-You-Go Act of 2010, shall be determined by 
+reference to the latest statement titled ``Budgetary Effects of PAYGO 
+Legislation'' for this Act, submitted for printing in the Congressional 
+Record by the Chairman of the House Budget Committee, provided that 
+such statement has been submitted prior to the vote on passage.
+
+            Passed the House of Representatives December 3, 2019.
+
+            Attest:
+
+                                                                 Clerk.
+116th CONGRESS
+
+  1st Session
+
+                               H. R. 4803
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+   To facilitate the automatic acquisition of citizenship for lawful 
+    permanent resident children of military and Federal Government 
+           personnel residing abroad, and for other purposes.
