@@ -2,28 +2,9 @@
   1st Session
                                 H. R. 4920
 
- To amend title 38, United States Code, to provide for an exception to 
-   certain small business contracting requirements applicable to the 
-    Department of Veterans Affairs procurement of certain goods and 
-services covered under the Ability One program, and for other purposes.
-
-
 _______________________________________________________________________
 
-
-                    IN THE HOUSE OF REPRESENTATIVES
-
-                            October 30, 2019
-
- Mr. Takano (for himself, Mr. David P. Roe of Tennessee, Ms. Meng, Mr. 
-Brindisi, Mr. Higgins of New York, Mr. Cleaver, Mrs. Brooks of Indiana, 
-Mrs. Walorski, Ms. Foxx of North Carolina, Mr. Pence, and Ms. Kendra S. 
-Horn of Oklahoma) introduced the following bill; which was referred to 
-                   the Committee on Veterans' Affairs
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -77,4 +58,23 @@ as provided in subsection (d)(2), for''.
     (c) Effective Date.--The amendments made by this section shall 
 apply with respect to a contract entered into on or after the date of 
 the enactment of this Act.
-                                 
+
+            Passed the House of Representatives December 16, 2019.
+
+            Attest:
+
+                                                                 Clerk.
+116th CONGRESS
+
+  1st Session
+
+                               H. R. 4920
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+ To amend title 38, United States Code, to provide for an exception to 
+   certain small business contracting requirements applicable to the 
+    Department of Veterans Affairs procurement of certain goods and 
+services covered under the Ability One program, and for other purposes.
