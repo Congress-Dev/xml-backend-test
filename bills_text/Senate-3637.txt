@@ -2,27 +2,9 @@
   2d Session
                                 S. 3637
 
-     To amend the Servicemembers Civil Relief Act to extend lease 
- protections for servicemembers under stop movement orders in response 
-   to a local, national, or global emergency, and for other purposes.
-
-
 _______________________________________________________________________
 
-
-                   IN THE SENATE OF THE UNITED STATES
-
-                              May 6, 2020
-
-Mr. Tester (for himself, Mr. Moran, Mrs. Blackburn, Mr. Blumenthal, Mr. 
- Boozman, Mr. Brown, Mr. Cassidy, Mr. Cramer, Ms. Hirono, Mr. Rounds, 
- Mr. Sullivan, Mr. Tillis, Mr. Manchin, and Mrs. Loeffler) introduced 
-the following bill; which was read twice and referred to the Committee 
-                          on Veterans' Affairs
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -121,4 +103,22 @@ before paragraph (1), by inserting ``In this section:'' after
 ``Definitions.--''.
     (e) Retroactive Application.--The amendments made by this section 
 shall apply to stop movement orders issued on or after March 1, 2020.
-                                 
+
+            Passed the Senate June 10, 2020.
+
+            Attest:
+
+                                                             Secretary.
+116th CONGRESS
+
+  2d Session
+
+                                S. 3637
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+     To amend the Servicemembers Civil Relief Act to extend lease 
+ protections for servicemembers under stop movement orders in response 
+   to a local, national, or global emergency, and for other purposes.
