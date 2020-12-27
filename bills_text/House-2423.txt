@@ -2,24 +2,9 @@
   1st Session
                                 H. R. 2423
 
-To require the Secretary of the Treasury to mint coins in commemoration 
-of ratification of the 19th Amendment to the Constitution of the United 
-      States, giving women in the United States the right to vote.
-
-
 _______________________________________________________________________
 
-
-                    IN THE HOUSE OF REPRESENTATIVES
-
-                             April 30, 2019
-
- Ms. Stefanik (for herself and Mrs. Lawrence) introduced the following 
-    bill; which was referred to the Committee on Financial Services
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -49,10 +34,10 @@ SEC. 2. FINDINGS; PURPOSE.
             (3) Suffrage activists, including Elizabeth Cady Stanton, 
         Susan B. Anthony, Harriet Tubman, Sojourner Truth, Ida B. 
         Wells, Jovita Idar, Inez Millholland, Mary Church Terrell, Anne 
-        Dallas Dudley, Carrie Chapman Cat, Alice Paul, Lucy Burns, and 
-        many others, conducted over 900 local, State, and Federal 
-        campaigns over a 72-year time span to win women the right to 
-        vote.
+        Dallas Dudley, Carrie Chapman Cat, Alice Paul, Lucy Burns, 
+        Esther Hobart Morris, and many others, conducted over 900 
+        local, State, and Federal campaigns over a 72-year time span to 
+        win women the right to vote.
             (4) On November 6, 1917, New York granted women the right 
         to vote, which was an act that created momentum for the 
         national movement that culminated in the ratification of the 
@@ -138,9 +123,9 @@ SEC. 5. ISSUANCE OF COINS.
 
     (a) Quality of Coins.--Coins minted under this Act shall be issued 
 in uncirculated and proof qualities.
-    (b) Mint Facilities.--Only 1 facility of the United States Mint may 
-be used to strike any particular quality of the coins minted under this 
-Act.
+    (b) Mint Facilities.--Only one facility of the United States Mint 
+may be used to strike any particular quality of the coins minted under 
+this Act.
     (c) Period for Issuance.--The Secretary may issue coins under this 
 Act only during the period beginning on January 1, 2020, and ending on 
 December 31, 2020.
@@ -198,4 +183,31 @@ that--
         machinery, overhead expenses, marketing, and shipping) is 
         recovered by the United States Treasury, consistent with 
         sections 5112(m) and 5134(f) of title 31, United States Code.
-                                 
+
+SEC. 9. DETERMINATION OF BUDGETARY EFFECTS.
+
+    The budgetary effects of this Act, for the purpose of complying 
+with the Statutory Pay-As-You-Go Act of 2010, shall be determined by 
+reference to the latest statement titled ``Budgetary Effects of PAYGO 
+Legislation'' for this Act, submitted for printing in the Congressional 
+Record by the Chairman of the House Budget Committee, provided that 
+such statement has been submitted prior to the vote on passage.
+
+            Passed the House of Representatives October 28, 2019.
+
+            Attest:
+
+                                                                 Clerk.
+116th CONGRESS
+
+  1st Session
+
+                               H. R. 2423
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+To require the Secretary of the Treasury to mint coins in commemoration 
+of ratification of the 19th Amendment to the Constitution of the United 
+      States, giving women in the United States the right to vote.
