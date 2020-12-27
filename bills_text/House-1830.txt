@@ -2,61 +2,9 @@
   1st Session
                                 H. R. 1830
 
-To require the Secretary of the Treasury to mint coins in commemoration 
-              of the National Purple Heart Hall of Honor.
-
-
 _______________________________________________________________________
 
-
-                    IN THE HOUSE OF REPRESENTATIVES
-
-                             March 18, 2019
-
- Mr. Sean Patrick Maloney of New York (for himself, Mr. Gallagher, Mr. 
- Cook, Ms. Clarke of New York, Ms. Pingree, Ms. Norton, Mr. Connolly, 
-Mr. Cicilline, Ms. Schakowsky, Mr. Serrano, Ms. Matsui, Mr. Sires, Mrs. 
-Lowey, Ms. Judy Chu of California, Mr. Cole, Mr. Bishop of Georgia, Mr. 
-    Deutch, Mr. Sablan, Mr. Quigley, Mr. Garamendi, Ms. Brownley of 
-California, Mr. Collins of New York, Mr. Ryan, Mr. Himes, Ms. Kelly of 
- Illinois, Mr. Ruiz, Mr. Pocan, Ms. Lofgren, Mr. Cardenas, Mr. Takano, 
-   Miss Rice of New York, Mr. Larson of Connecticut, Mr. Cooper, Mr. 
-Loebsack, Ms. Kuster of New Hampshire, Mr. Thompson of California, Mr. 
-Suozzi, Mr. Kildee, Ms. Stefanik, Mr. Pallone, Ms. Plaskett, Mr. Neal, 
-Ms. Sanchez, Mr. Gallego, Mr. David Scott of Georgia, Ms. Jackson Lee, 
- Ms. Kaptur, Mr. Yarmuth, Mr. Correa, Mr. Tonko, Mr. Butterfield, Mr. 
- Scott of Virginia, Mr. Kilmer, Mr. Rush, Mr. McGovern, Mr. Espaillat, 
- Mr. Raskin, Mr. Kennedy, Mr. O'Halleran, Mr. Peters, Mr. DeFazio, Mr. 
-  Lipinski, Mr. Higgins of New York, Ms. Eshoo, Mr. Fortenberry, Mr. 
- Cartwright, Mr. Mullin, Mr. Yoho, Mr. Rutherford, Miss Gonzalez-Colon 
- of Puerto Rico, Mr. King of Iowa, Mr. Wittman, Mr. Bacon, Mr. Payne, 
- Mr. Grijalva, Ms. Velazquez, Mr. Swalwell of California, Mr. Veasey, 
- Mr. Gonzalez of Texas, Mr. Hudson, Mr. Graves of Missouri, Mr. Beyer, 
-  Mr. Johnson of Georgia, Mr. Wilson of South Carolina, Mrs. Demings, 
-    Mrs. Carolyn B. Maloney of New York, Ms. Meng, Mrs. Bustos, Mr. 
-    Huffman, Mr. Engel, Mr. Meeks, Mr. Pascrell, Mr. Norcross, Mr. 
-   Kinzinger, Mr. Carson of Indiana, Mr. Moolenaar, Mr. Cuellar, Mr. 
-Moulton, Mr. Marshall, Ms. Gabbard, Mr. King of New York, Mr. Price of 
-   North Carolina, Mr. Ruppersberger, Mr. Perlmutter, Mr. Kind, Mr. 
-Vargas, Mr. Bera, Mrs. Dingell, Ms. Roybal-Allard, Mr. Heck, Ms. Castor 
-  of Florida, Ms. Adams, Mr. Fitzpatrick, Mr. Gaetz, Mr. Panetta, Mr. 
-    Khanna, Mr. Nadler, Mr. Tipton, Mr. Bergman, Ms. McCollum, Mr. 
- Peterson, Ms. Sewell of Alabama, Mr. McEachin, Mr. Brooks of Alabama, 
- Mr. Blumenauer, Ms. Clark of Massachusetts, Mr. Larsen of Washington, 
-Mr. Zeldin, Mr. Krishnamoorthi, Mr. Posey, Mr. Cohen, Ms. DeLauro, Mr. 
- Hunter, Ms. Barragan, Mrs. Watson Coleman, Mr. Katko, Mr. Gottheimer, 
- Mr. Meadows, Mr. Norman, Ms. Fudge, Mr. Soto, Ms. Moore, Mr. LaMalfa, 
-    Mr. Hastings, Mr. Crist, Mr. Byrne, Mr. Costa, Mr. Cleaver, Mr. 
-Shimkus, Mr. Rose of New York, Mr. Morelle, Mr. Rouda, Mr. Delgado, Ms. 
-Wild, Mr. Kelly of Mississippi, Mr. Cisneros, Mr. Vela, Mr. Baird, Mr. 
-Mast, Mr. Gibbs, Mr. Gonzalez of Ohio, Mr. Brindisi, Mr. McKinley, Mr. 
-Weber of Texas, Mr. Babin, Mr. Lamborn, and Mr. Smucker) introduced the 
-   following bill; which was referred to the Committee on Financial 
-                                Services
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -87,12 +35,12 @@ SEC. 2. FINDINGS.
             (3) The National Purple Heart Hall of Honor is co-located 
         with the New Windsor Cantonment State Historic Site.
             (4) The National Purple Heart Hall of Honor is the first to 
-        recognize the estimated 1.8 million U.S. servicemembers wounded 
-        or killed in action representing recipients from the Civil War 
-        to the present day, serving as a living memorial to their 
-        sacrifice by sharing their stories through interviews, exhibits 
-        and the Roll of Honor, an interactive computer database of each 
-        recipient enrolled.
+        recognize the estimated 1.8 million United States 
+        servicemembers wounded or killed in action representing 
+        recipients from the Civil War to the present day, serving as a 
+        living memorial to their sacrifice by sharing their stories 
+        through interviews, exhibits and the Roll of Honor, an 
+        interactive computer database of each recipient enrolled.
 
 SEC. 3. COIN SPECIFICATIONS.
 
@@ -193,9 +141,35 @@ subsection (b).
 be included with respect to the issuance under this Act of any coin 
 during a calendar year if, as of the time of such issuance, the 
 issuance of such coin would result in the number of commemorative coin 
-programs issued during such year to exceed the annual 2 commemorative 
+programs issued during such year to exceed the annual two commemorative 
 coin program issuance limitation under section 5112(m)(1) of title 31, 
 United States Code (as in effect on the date of the enactment of this 
 Act). The Secretary of the Treasury may issue guidance to carry out 
 this subsection.
-                                 
+
+SEC. 8. DETERMINATION OF BUDGETARY EFFECTS.
+
+    The budgetary effects of this Act, for the purpose of complying 
+with the Statutory Pay-As-You-Go Act of 2010, shall be determined by 
+reference to the latest statement titled ``Budgetary Effects of PAYGO 
+Legislation'' for this Act, submitted for printing in the Congressional 
+Record by the Chairman of the House Budget Committee, provided that 
+such statement has been submitted prior to the vote on passage.
+
+            Passed the House of Representatives September 19, 2019.
+
+            Attest:
+
+                                                                 Clerk.
+116th CONGRESS
+
+  1st Session
+
+                               H. R. 1830
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+To require the Secretary of the Treasury to mint coins in commemoration 
+              of the National Purple Heart Hall of Honor.
