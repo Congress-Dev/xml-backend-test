@@ -2,25 +2,9 @@
   1st Session
                                 H. R. 748
 
-To amend the Internal Revenue Code of 1986 to repeal the excise tax on 
-             high cost employer-sponsored health coverage.
-
-
 _______________________________________________________________________
 
-
-                    IN THE HOUSE OF REPRESENTATIVES
-
-                            January 24, 2019
-
-Mr. Courtney (for himself, Mr. Kelly of Pennsylvania, Ms. DelBene, Ms. 
- Stefanik, Mr. Norcross, Mr. Smith of New Jersey, Mr. Fitzpatrick, and 
-  Ms. Titus) introduced the following bill; which was referred to the 
-                      Committee on Ways and Means
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -40,10 +24,13 @@ SEC. 2. REPEAL OF EXCISE TAX ON HIGH COST EMPLOYER-SPONSORED HEALTH
 
     (a) In General.--Chapter 43 of the Internal Revenue Code of 1986 is 
 amended by striking section 4980I.
-    (b) Conforming Amendment.--Section 6051 of such Code is amended--
-            (1) in paragraph (14) of subsection (a), by striking 
-        ``section 4980I(d)(1)'' and inserting ``subsection (g)'', and
-            (2) by adding at the end the following:
+    (b) Conforming Amendments.--
+            (1) Section 6051 of such Code is amended--
+                    (A) by striking ``section 4980I(d)(1)'' in 
+                subsection (a)(14) and inserting ``subsection (g)'', 
+                and
+                    (B) by adding at the end the following new 
+                subsection:
     ``(g) Applicable Employer-Sponsored Coverage.--For purposes of 
 subsection (a)(14)--
             ``(1) In general.--The term `applicable employer-sponsored 
@@ -76,29 +63,37 @@ subsection (a)(14)--
         health plan established and maintained primarily for its 
         civilian employees by the Government of the United States, by 
         the government of any State or political subdivision thereof, 
-        or by any agency or instrumentality of any such government.
-            ``(5) Cost of coverage.--
-                    ``(A) Health fsas.--In the case of applicable 
-                employer-sponsored coverage consisting of coverage 
-                under a flexible spending arrangement (as defined in 
-                section 106(c)(2)), the cost of the coverage shall be 
-                equal to the amount determined under rules similar to 
-                the rules of section 4980B(f)(4) with respect to any 
-                reimbursement under the arrangement reduced by the 
-                contributions described in subsection (a)(14)(B).
-                    ``(B) Archer msas and hsas.--In the case of 
-                applicable employer-sponsored coverage consisting of 
-                coverage under an arrangement under which the employer 
-                makes contributions described in subsection (b) or (d) 
-                of section 106, the cost of the coverage shall be equal 
-                to the amount of employer contributions under the 
-                arrangement.
-                    ``(C) Allocation on a monthly basis.--If cost is 
-                determined on other than a monthly basis, the cost 
-                shall be allocated to months in a taxable period on 
-                such basis as the Secretary may prescribe.''.
-    (c) Clerical Amendment.--The table of sections for chapter 43 of 
-such Code is amended by striking the item relating to section 4980I.
-    (d) Effective Date.--The amendments made by this section shall 
+        or by any agency or instrumentality of any such government.''.
+            (2) Section 9831(d)(1) of such Code is amended by striking 
+        ``except as provided in section 4980I(f)(4)''.
+            (3) The table of sections for chapter 43 of such Code is 
+        amended by striking the item relating to section 4980I.
+    (c) Effective Date.--The amendments made by this section shall 
 apply to taxable years beginning after December 31, 2019.
-                                 
+
+SEC. 3. BUDGETARY EFFECTS.
+
+    (a) Statutory PAYGO Scorecards.--The budgetary effects of this Act 
+shall not be entered on either PAYGO scorecard maintained pursuant to 
+section 4(d) of the Statutory Pay-As-You-Go Act of 2010.
+    (b) Senate PAYGO Scorecards.--The budgetary effects of this Act 
+shall not be entered on any PAYGO scorecard maintained for purposes of 
+section 4106 of H. Con. Res. 71 (115th Congress).
+
+            Passed the House of Representatives July 17, 2019.
+
+            Attest:
+
+                                                                 Clerk.
+116th CONGRESS
+
+  1st Session
+
+                               H. R. 748
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+To amend the Internal Revenue Code of 1986 to repeal the excise tax on 
+             high cost employer-sponsored health coverage.
