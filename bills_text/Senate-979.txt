@@ -2,25 +2,9 @@
   1st Session
                                  S. 979
 
- To amend the Post-Katrina Emergency Management Reform Act of 2006 to 
- incorporate the recommendations made by the Government Accountability 
-     Office relating to advance contracts, and for other purposes.
-
-
 _______________________________________________________________________
 
-
-                   IN THE SENATE OF THE UNITED STATES
-
-                             April 2, 2019
-
-   Mr. Rubio (for himself, Mr. Johnson, Mr. Peters, and Mr. Tillis) 
-introduced the following bill; which was read twice and referred to the 
-        Committee on Homeland Security and Governmental Affairs
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -75,8 +59,12 @@ appropriate committees of Congress an updated report that contains--
         that clearly defines--
                     ``(A) the objectives of advance contracts;
                     ``(B) how advance contracts contribute to disaster 
-                response operations of the Agency; and
-                    ``(C) whether and how advance contracts should be 
+                response operations of the Agency;
+                    ``(C) how to maximize the award of advance 
+                contracts to small business concerns, as defined in 
+                section 3 of the Small Business Act (15 U.S.C. 632); 
+                and
+                    ``(D) whether and how advance contracts should be 
                 prioritized in relation to new post-disaster contract 
                 awards.
     ``(f) Additional Duties of the Administrator.--
@@ -142,4 +130,22 @@ Contracting: Action Needed to Better Ensure More Effective Use and
 Management of Advance Contracts'', as required under section 691 of the 
 Post-Katrina Emergency Management Reform Act of 2006 (6 U.S.C. 791), as 
 amended by subsection (a).
-                                 
+
+            Passed the Senate November 7, 2019.
+
+            Attest:
+
+                                                             Secretary.
+ 116th CONGRESS
+
+  1st Session
+
+                                 S. 979
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+ To amend the Post-Katrina Emergency Management Reform Act of 2006 to 
+ incorporate the recommendations made by the Government Accountability 
+     Office relating to advance contracts, and for other purposes.
