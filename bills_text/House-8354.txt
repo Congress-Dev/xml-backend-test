@@ -2,24 +2,9 @@
   2d Session
                                 H. R. 8354
 
-  To establish the Servicemembers and Veterans Initiative within the 
-   Civil Rights Division of the Department of Justice, and for other 
-                               purposes.
-
-
 _______________________________________________________________________
 
-
-                    IN THE HOUSE OF REPRESENTATIVES
-
-                           September 23, 2020
-
-Ms. Escobar (for herself and Mr. Taylor) introduced the following bill; 
-          which was referred to the Committee on the Judiciary
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -33,7 +18,7 @@ United States of America in Congress assembled,
 SECTION 1. SHORT TITLE.
 
     This Act may be cited as the ``Servicemembers and Veterans 
-Initiative Act of 2020.''
+Initiative Act of 2020''.
 
 SEC. 2. SERVICEMEMBERS AND VETERANS INITIATIVE.
 
@@ -57,9 +42,31 @@ of Justice.
             (5) consult with components of the Department of Justice to 
         promote the provision of civil legal aid to servicemembers, 
         veterans, and their families;
-            (6) serve as a liaison with the Assistant Attorney General 
-        for the Criminal Division to coordinate the prosecution of 
+            (6) serve as a liaison and point of contact with the 
+        Consumer Protection Branch of the Civil Division of the 
+        Department of Justice, with respect to the prosecution of 
         Federal crimes involving fraud that target servicemembers; and
-            (7) enforce other Federal laws that protect servicemembers 
-        and veterans, as the Attorney General determines appropriate.
-                                 
+            (7) serve as a liaison and point of contact with other 
+        components of the Department of Justice as needed to support 
+        the enforcement of other Federal laws that protect 
+        servicemembers and veterans, as the Attorney General determines 
+        appropriate.
+
+            Passed the House of Representatives December 8, 2020.
+
+            Attest:
+
+                                                                 Clerk.
+116th CONGRESS
+
+  2d Session
+
+                               H. R. 8354
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+  To establish the Servicemembers and Veterans Initiative within the 
+   Civil Rights Division of the Department of Justice, and for other 
+                               purposes.
