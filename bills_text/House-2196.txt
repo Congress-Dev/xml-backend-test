@@ -2,25 +2,9 @@
   1st Session
                                 H. R. 2196
 
-   To amend title 38, United States Code, to reduce the credit hour 
-requirement for the Edith Nourse Rogers STEM Scholarship program of the 
-                    Department of Veterans Affairs.
-
-
 _______________________________________________________________________
 
-
-                    IN THE HOUSE OF REPRESENTATIVES
-
-                             April 10, 2019
-
-Mr. Barr (for himself, Mr. Levin of California, and Mr. David P. Roe of 
-  Tennessee) introduced the following bill; which was referred to the 
-                     Committee on Veterans' Affairs
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -38,4 +22,22 @@ SECTION 1. REDUCTION IN CREDIT HOUR REQUIREMENT FOR EDITH NOURSE ROGERS
 amended by striking ``more than the standard 128 semester (or 192 
 quarter) credit hours'' and inserting ``at least the standard 120 
 semester (or 180 quarter) credit hours''.
-                                 
+
+            Passed the House of Representatives June 24, 2019.
+
+            Attest:
+
+                                                                 Clerk.
+116th CONGRESS
+
+  1st Session
+
+                               H. R. 2196
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+   To amend title 38, United States Code, to reduce the credit hour 
+requirement for the Edith Nourse Rogers STEM Scholarship program of the 
+                    Department of Veterans Affairs.
