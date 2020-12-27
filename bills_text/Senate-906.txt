@@ -1,24 +1,10 @@
 116th CONGRESS
-  1st Session
+  2d Session
                                  S. 906
 
-             To improve the management of driftnet fishing.
-
-
 _______________________________________________________________________
 
-
-                   IN THE SENATE OF THE UNITED STATES
-
-                             March 27, 2019
-
- Mrs. Feinstein (for herself and Mrs. Capito) introduced the following 
- bill; which was read twice and referred to the Committee on Commerce, 
-                      Science, and Transportation
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -110,4 +96,43 @@ fishing--
                             ``(ii) is conducted within 5 years of the 
                         date of enactment of the Driftnet Modernization 
                         and Bycatch Reduction Act''.
-                                 
+
+SEC. 6. FEES.
+
+    (a) In General.--The North Pacific Fishery Management Council may 
+recommend, and the Secretary of Commerce may approve, regulations 
+necessary for the collection of fees from charter vessel operators who 
+guide recreational anglers who harvest Pacific halibut in International 
+Pacific Halibut Commission regulatory areas 2C and 3A as those terms 
+are defined in part 300 of title 50, Code of Federal Regulations (or 
+any successor regulations).
+    (b) Use of Fees.--Any fees collected under this section shall be 
+available, without appropriation or fiscal year limitation, for the 
+purposes of--
+            (1) financing administrative costs of the Recreational 
+        Quota Entity program;
+            (2) the purchase of halibut quota shares in International 
+        Pacific Halibut Commission regulatory areas 2C and 3A by the 
+        recreational quota entity authorized in part 679 of title 50, 
+        Code of Federal Regulations (or any successor regulations);
+            (3) halibut conservation and research; and
+            (4) promotion of the halibut resource by the recreational 
+        quota entity authorized in part 679 of title 50, Code of 
+        Federal Regulations (or any successor regulations).
+
+            Passed the Senate July 22, 2020.
+
+            Attest:
+
+                                                             Secretary.
+116th CONGRESS
+
+  2d Session
+
+                                 S. 906
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+             To improve the management of driftnet fishing.
