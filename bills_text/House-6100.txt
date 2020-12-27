@@ -2,23 +2,9 @@
   2d Session
                                 H. R. 6100
 
- To amend title 18, United States Code, to clarify the criminalization 
-         of female genital mutilation, and for other purposes.
-
-
 _______________________________________________________________________
 
-
-                    IN THE HOUSE OF REPRESENTATIVES
-
-                             March 5, 2020
-
- Ms. Jackson Lee (for herself and Mr. Bacon) introduced the following 
-       bill; which was referred to the Committee on the Judiciary
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -172,4 +158,30 @@ Nevertheless, the Congress has elected to amend the FGM statute to
 clarify the commercial nature of the conduct that this statute 
 regulates. But, by doing so, Congress does not hereby ratify the 
 district court's erroneous interpretation in Nagarwala.
-                                 
+
+SEC. 6. DETERMINATION OF BUDGETARY EFFECTS.
+
+    The budgetary effects of this Act, for the purpose of complying 
+with the Statutory Pay-As-You-Go Act of 2010, shall be determined by 
+reference to the latest statement titled ``Budgetary Effects of PAYGO 
+Legislation'' for this Act, submitted for printing in the Congressional 
+Record by the Chairman of the House Budget Committee, provided that 
+such statement has been submitted prior to the vote on passage.
+
+            Passed the House of Representatives September 21, 2020.
+
+            Attest:
+
+                                                                 Clerk.
+116th CONGRESS
+
+  2d Session
+
+                               H. R. 6100
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+ To amend title 18, United States Code, to clarify the criminalization 
+         of female genital mutilation, and for other purposes.
