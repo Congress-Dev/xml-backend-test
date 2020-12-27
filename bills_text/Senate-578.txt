@@ -1,32 +1,10 @@
 116th CONGRESS
-  1st Session
+  2d Session
                                  S. 578
 
-  To amend title II of the Social Security Act to eliminate the five-
-month waiting period for disability insurance benefits under such title 
-          for individuals with amyotrophic lateral sclerosis.
-
-
 _______________________________________________________________________
 
-
-                   IN THE SENATE OF THE UNITED STATES
-
-                           February 27, 2019
-
- Mr. Whitehouse (for himself, Mr. Cotton, Mr. Bennet, Mr. Tillis, Mr. 
-  Reed, Mr. Blunt, Mr. King, Mr. Cramer, Mr. Brown, Mrs. Capito, Mr. 
-Coons, Mr. Rubio, Ms. Harris, Ms. McSally, Mr. Schumer, Mr. Wicker, Mr. 
-Sanders, Ms. Murkowski, Ms. Klobuchar, Mr. Boozman, Mr. Blumenthal, Mr. 
-Rounds, Mr. Tester, Mr. Kennedy, Mrs. Shaheen, Mr. Cassidy, Ms. Warren, 
-Ms. Collins, Mr. Menendez, Mr. Markey, Mrs. Feinstein, Mr. Booker, Mr. 
-Merkley, Ms. Rosen, Ms. Stabenow, Mr. Jones, Mr. Leahy, Mr. Cardin, Mr. 
- Van Hollen, and Ms. Sinema) introduced the following bill; which was 
-          read twice and referred to the Committee on Finance
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -56,4 +34,22 @@ individual becomes entitled to such insurance benefits, or (iii)''.
     (b) Effective Date.--The amendment made by this section shall apply 
 with respect to applications for disability insurance benefits filed 
 after the date of the enactment of this Act.
-                                 
+
+            Passed the Senate December 2, 2020.
+
+            Attest:
+
+                                                             Secretary.
+116th CONGRESS
+
+  2d Session
+
+                                 S. 578
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+  To amend title II of the Social Security Act to eliminate the five-
+month waiting period for disability insurance benefits under such title 
+          for individuals with amyotrophic lateral sclerosis.
