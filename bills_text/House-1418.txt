@@ -1,26 +1,10 @@
 116th CONGRESS
-  1st Session
+  2d Session
                                 H. R. 1418
 
-    To restore the application of the Federal antitrust laws to the 
-   business of health insurance to protect competition and consumers.
-
-
 _______________________________________________________________________
 
-
-                    IN THE HOUSE OF REPRESENTATIVES
-
-                           February 28, 2019
-
-    Mr. DeFazio (for himself, Mr. Gosar, Mr. Meeks, Mr. Lynch, Mr. 
- Grijalva, Mr. Garamendi, Mr. Norman, Mr. DesJarlais, Mr. Davidson of 
- Ohio, and Mr. Yoho) introduced the following bill; which was referred 
-                   to the Committee on the Judiciary
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -33,7 +17,7 @@ United States of America in Congress assembled,
 SECTION 1. SHORT TITLE.
 
     This Act may be cited as the ``Competitive Health Insurance Reform 
-Act of 2019''.
+Act of 2020''.
 
 SEC. 2. RESTORING THE APPLICATION OF ANTITRUST LAWS TO THE BUSINESS OF 
               HEALTH INSURANCE.
@@ -99,4 +83,30 @@ Act shall apply with respect to the business of health insurance
 without regard to whether such business is carried on for profit, 
 notwithstanding the definition of ``Corporation'' contained in section 
 4 of the Federal Trade Commission Act.
-                                 
+
+SEC. 3. DETERMINATION OF BUDGETARY EFFECTS.
+
+    The budgetary effects of this Act, for the purpose of complying 
+with the Statutory Pay-As-You-Go Act of 2010, shall be determined by 
+reference to the latest statement titled ``Budgetary Effects of PAYGO 
+Legislation'' for this Act, submitted for printing in the Congressional 
+Record by the Chairman of the House Budget Committee, provided that 
+such statement has been submitted prior to the vote on passage.
+
+            Passed the House of Representatives September 21, 2020.
+
+            Attest:
+
+                                                                 Clerk.
+116th CONGRESS
+
+  2d Session
+
+                               H. R. 1418
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+    To restore the application of the Federal antitrust laws to the 
+   business of health insurance to protect competition and consumers.
