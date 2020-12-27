@@ -2,23 +2,9 @@
   1st Session
                                 H. R. 583
 
-    To amend the Communications Act of 1934 to provide for enhanced 
-          penalties for pirate radio, and for other purposes.
-
-
 _______________________________________________________________________
 
-
-                    IN THE HOUSE OF REPRESENTATIVES
-
-                            January 16, 2019
-
-  Mr. Tonko (for himself and Mr. Bilirakis) introduced the following 
-    bill; which was referred to the Committee on Energy and Commerce
-
-_______________________________________________________________________
-
-                                 A BILL
+                                 AN ACT
 
 
  
@@ -117,4 +103,21 @@ communications on spectrum frequencies between 535 and 1705 kilohertz,
 inclusive, or 87.7 and 108 megahertz, inclusive, without a license 
 issued by the Commission, but does not include unlicensed operations in 
 compliance with part 15 of title 47, Code of Federal Regulations.''.
-                                 
+
+            Passed the House of Representatives February 25, 2019.
+
+            Attest:
+
+                                                                 Clerk.
+116th CONGRESS
+
+  1st Session
+
+                               H. R. 583
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+    To amend the Communications Act of 1934 to provide for enhanced 
+          penalties for pirate radio, and for other purposes.
